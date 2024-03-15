@@ -1,0 +1,1894 @@
+,log_name,drift_or_noise_id,drift_type,drift_attribute,change_trace_index,change_type,drift_traces_index
+0,log_2_1708942660.xes,drift_1,gradual,change_info_1,"[57, 57, 76, 76]",gradual,"[1636, 2194]"
+1,log_2_1708942660.xes,drift_2,gradual,change_info_1,"[139, 139, 158, 158]",gradual,"[4022, 4567]"
+2,log_3_1708942683.xes,drift_1,gradual,change_info_1,"[40, 40, 56, 56]",gradual,"[1396, 1951]"
+3,log_3_1708942683.xes,drift_2,gradual,change_info_1,"[105, 105, 119, 119]",gradual,"[3663, 4143]"
+4,log_3_1708942683.xes,drift_3,gradual,change_info_1,"[152, 152, 166, 166]",gradual,"[5300, 5805]"
+5,log_4_1708942693.xes,drift_1,sudden,change_info_1,"[98, 98, 98, 98]",sudden,[1553]
+6,log_5_1708942698.xes,drift_1,gradual,change_info_1,"[73, 73, 86, 86]",gradual,"[1818, 2126]"
+7,log_5_1708942698.xes,drift_2,sudden,change_info_1,"[144, 144, 144, 144]",sudden,[3578]
+8,log_7_1708942706.xes,drift_1,gradual,change_info_1,"[38, 38, 49, 49]",gradual,"[1163, 1508]"
+9,log_7_1708942706.xes,drift_2,sudden,change_info_1,"[85, 85, 85, 85]",sudden,[2616]
+10,log_7_1708942706.xes,drift_3,gradual,change_info_1,"[131, 131, 146, 146]",gradual,"[4048, 4522]"
+11,log_9_1708942719.xes,drift_1,gradual,change_info_1,"[64, 64, 77, 77]",gradual,"[1919, 2302]"
+12,log_9_1708942719.xes,drift_2,gradual,change_info_1,"[123, 123, 136, 136]",gradual,"[3672, 4072]"
+13,log_10_1708942737.xes,drift_1,sudden,change_info_1,"[97, 97, 97, 97]",sudden,[1254]
+14,log_11_1708942742.xes,drift_1,gradual,change_info_1,"[108, 108, 129, 129]",gradual,"[1931, 2314]"
+15,log_12_1708942746.xes,drift_1,gradual,change_info_1,"[45, 45, 60, 60]",gradual,"[1638, 2198]"
+16,log_12_1708942746.xes,drift_2,sudden,change_info_1,"[102, 102, 102, 102]",sudden,[3758]
+17,log_12_1708942746.xes,drift_3,gradual,change_info_1,"[148, 148, 159, 159]",gradual,"[5441, 5871]"
+18,log_13_1708942754.xes,drift_1,gradual,change_info_1,"[93, 93, 117, 117]",gradual,"[1754, 2212]"
+19,log_14_1708942656.xes,drift_1,sudden,change_info_1,"[111, 111, 111, 111]",sudden,[1215]
+20,log_15_1708942659.xes,drift_1,gradual,change_info_1,"[108, 108, 129, 129]",gradual,"[1941, 2307]"
+21,log_16_1708942665.xes,drift_1,gradual,change_info_1,"[62, 62, 72, 72]",gradual,"[1907, 2216]"
+22,log_16_1708942665.xes,drift_2,sudden,change_info_1,"[109, 109, 109, 109]",sudden,[3364]
+23,log_16_1708942665.xes,drift_3,sudden,change_info_1,"[158, 158, 158, 158]",sudden,[4885]
+24,log_17_1708942679.xes,drift_1,sudden,change_info_1,"[92, 92, 92, 92]",sudden,[1564]
+25,log_19_1708942694.xes,drift_1,gradual,change_info_1,"[53, 53, 72, 72]",gradual,"[1480, 2009]"
+26,log_19_1708942694.xes,drift_2,gradual,change_info_1,"[129, 129, 147, 147]",gradual,"[3606, 4113]"
+27,log_21_1708942705.xes,drift_1,gradual,change_info_1,"[41, 41, 51, 51]",gradual,"[1557, 1912]"
+28,log_21_1708942705.xes,drift_2,gradual,change_info_1,"[100, 100, 115, 115]",gradual,"[3782, 4345]"
+29,log_21_1708942705.xes,drift_3,gradual,change_info_1,"[151, 151, 161, 161]",gradual,"[5716, 6117]"
+30,log_23_1708942725.xes,drift_1,sudden,change_info_1,"[54, 54, 54, 54]",sudden,[1486]
+31,log_23_1708942725.xes,drift_2,sudden,change_info_1,"[105, 105, 105, 105]",sudden,[2913]
+32,log_23_1708942725.xes,drift_3,sudden,change_info_1,"[163, 163, 163, 163]",sudden,[4554]
+33,log_26_1708942757.xes,drift_1,sudden,change_info_1,"[54, 54, 54, 54]",sudden,[1611]
+34,log_26_1708942757.xes,drift_2,gradual,change_info_1,"[88, 88, 99, 99]",gradual,"[2616, 2945]"
+35,log_26_1708942757.xes,drift_3,sudden,change_info_1,"[141, 141, 141, 141]",sudden,[4222]
+36,log_27_1708942656.xes,drift_1,gradual,change_info_1,"[52, 52, 65, 65]",gradual,"[1237, 1538]"
+37,log_27_1708942656.xes,drift_2,sudden,change_info_1,"[126, 126, 126, 126]",sudden,[3004]
+38,log_28_1708942662.xes,drift_1,sudden,change_info_1,"[58, 58, 58, 58]",sudden,[1488]
+39,log_28_1708942662.xes,drift_2,sudden,change_info_1,"[106, 106, 106, 106]",sudden,[2736]
+40,log_28_1708942662.xes,drift_3,sudden,change_info_1,"[152, 152, 152, 152]",sudden,[3941]
+41,log_29_1708942673.xes,drift_1,gradual,change_info_1,"[83, 83, 109, 109]",gradual,"[1807, 2382]"
+42,log_29_1708942673.xes,drift_2,sudden,change_info_1,"[154, 154, 154, 154]",sudden,[3386]
+43,log_30_1708942689.xes,drift_1,gradual,change_info_1,"[40, 40, 52, 52]",gradual,"[1271, 1637]"
+44,log_30_1708942689.xes,drift_2,sudden,change_info_1,"[102, 102, 102, 102]",sudden,[3253]
+45,log_30_1708942689.xes,drift_3,sudden,change_info_1,"[153, 153, 153, 153]",sudden,[4882]
+46,log_31_1708942698.xes,drift_1,gradual,change_info_1,"[49, 49, 67, 67]",gradual,"[1560, 2135]"
+47,log_31_1708942698.xes,drift_2,sudden,change_info_1,"[113, 113, 113, 113]",sudden,[3607]
+48,log_31_1708942698.xes,drift_3,gradual,change_info_1,"[145, 145, 162, 162]",gradual,"[4636, 5166]"
+49,log_32_1708942720.xes,drift_1,sudden,change_info_1,"[88, 88, 88, 88]",sudden,[1312]
+50,log_35_1708942759.xes,drift_1,gradual,change_info_1,"[76, 76, 108, 108]",gradual,"[1281, 1822]"
+51,log_38_1708942768.xes,drift_1,gradual,change_info_1,"[85, 85, 106, 106]",gradual,"[1432, 1786]"
+52,log_39_1708942772.xes,drift_1,sudden,change_info_1,"[99, 99, 99, 99]",sudden,[1774]
+53,log_41_1708942658.xes,drift_1,sudden,change_info_1,"[40, 40, 40, 40]",sudden,[1113]
+54,log_41_1708942658.xes,drift_2,gradual,change_info_1,"[80, 80, 101, 101]",gradual,"[2224, 2824]"
+55,log_41_1708942658.xes,drift_3,sudden,change_info_1,"[154, 154, 154, 154]",sudden,[4302]
+56,log_42_1708942661.xes,drift_1,gradual,change_info_1,"[106, 106, 129, 129]",gradual,"[1901, 2311]"
+57,log_46_1708942679.xes,drift_1,sudden,change_info_1,"[64, 64, 64, 64]",sudden,[1721]
+58,log_46_1708942679.xes,drift_2,gradual,change_info_1,"[130, 130, 144, 144]",gradual,"[3499, 3873]"
+59,log_48_1708942688.xes,drift_1,sudden,change_info_1,"[131, 131, 131, 131]",sudden,[1965]
+60,log_50_1708942692.xes,drift_1,sudden,change_info_1,"[47, 47, 47, 47]",sudden,[1677]
+61,log_50_1708942692.xes,drift_2,gradual,change_info_1,"[101, 101, 113, 113]",gradual,"[3616, 4038]"
+62,log_50_1708942692.xes,drift_3,gradual,change_info_1,"[143, 143, 153, 153]",gradual,"[5128, 5475]"
+63,log_51_1708942708.xes,drift_1,sudden,change_info_1,"[53, 53, 53, 53]",sudden,[1570]
+64,log_51_1708942708.xes,drift_2,sudden,change_info_1,"[111, 111, 111, 111]",sudden,[3324]
+65,log_51_1708942708.xes,drift_3,gradual,change_info_1,"[149, 149, 164, 164]",gradual,"[4460, 4907]"
+66,log_52_1708942714.xes,drift_1,gradual,change_info_1,"[46, 46, 56, 56]",gradual,"[1625, 2014]"
+67,log_52_1708942714.xes,drift_2,gradual,change_info_1,"[93, 93, 102, 102]",gradual,"[3342, 3660]"
+68,log_52_1708942714.xes,drift_3,gradual,change_info_1,"[147, 147, 158, 158]",gradual,"[5258, 5683]"
+69,log_53_1708942656.xes,drift_1,gradual,change_info_1,"[59, 59, 75, 75]",gradual,"[1584, 2009]"
+70,log_53_1708942656.xes,drift_2,gradual,change_info_1,"[136, 136, 150, 150]",gradual,"[3663, 4047]"
+71,log_54_1708942663.xes,drift_1,sudden,change_info_1,"[49, 49, 49, 49]",sudden,[1651]
+72,log_54_1708942663.xes,drift_2,sudden,change_info_1,"[103, 103, 103, 103]",sudden,[3478]
+73,log_54_1708942663.xes,drift_3,gradual,change_info_1,"[144, 144, 152, 152]",gradual,"[4865, 5167]"
+74,log_56_1708942677.xes,drift_1,sudden,change_info_1,"[92, 92, 92, 92]",sudden,[1467]
+75,log_57_1708942684.xes,drift_1,gradual,change_info_1,"[48, 48, 60, 60]",gradual,"[1486, 1847]"
+76,log_57_1708942684.xes,drift_2,sudden,change_info_1,"[105, 105, 105, 105]",sudden,[3228]
+77,log_57_1708942684.xes,drift_3,gradual,change_info_1,"[154, 154, 165, 165]",gradual,"[4766, 5115]"
+78,log_58_1708942711.xes,drift_1,sudden,change_info_1,"[52, 52, 52, 52]",sudden,[1294]
+79,log_58_1708942711.xes,drift_2,gradual,change_info_1,"[122, 122, 140, 140]",gradual,"[3049, 3476]"
+80,log_59_1708942728.xes,drift_1,gradual,change_info_1,"[52, 52, 63, 63]",gradual,"[1490, 1800]"
+81,log_59_1708942728.xes,drift_2,sudden,change_info_1,"[110, 110, 110, 110]",sudden,[3169]
+82,log_59_1708942728.xes,drift_3,sudden,change_info_1,"[161, 161, 161, 161]",sudden,[4658]
+83,log_60_1708942740.xes,drift_1,sudden,change_info_1,"[102, 102, 102, 102]",sudden,[1523]
+84,log_62_1708942749.xes,drift_1,gradual,change_info_1,"[88, 88, 87, 87]",gradual,"[1653, 2120]"
+85,log_64_1708942758.xes,drift_1,sudden,change_info_1,"[62, 62, 62, 62]",sudden,[1672]
+86,log_64_1708942758.xes,drift_2,gradual,change_info_1,"[114, 114, 130, 130]",gradual,"[3076, 3500]"
+87,log_65_1708942767.xes,drift_1,gradual,change_info_1,"[41, 41, 62, 62]",gradual,"[1105, 1661]"
+88,log_65_1708942767.xes,drift_2,gradual,change_info_1,"[111, 111, 128, 128]",gradual,"[2976, 3444]"
+89,log_67_1708942658.xes,drift_1,gradual,change_info_1,"[63, 63, 74, 74]",gradual,"[1675, 1987]"
+90,log_67_1708942658.xes,drift_2,gradual,change_info_1,"[127, 127, 142, 142]",gradual,"[3406, 3827]"
+91,log_69_1708942676.xes,drift_1,gradual,change_info_1,"[42, 42, 51, 51]",gradual,"[1463, 1771]"
+92,log_69_1708942676.xes,drift_2,sudden,change_info_1,"[82, 82, 82, 82]",sudden,[2845]
+93,log_69_1708942676.xes,drift_3,gradual,change_info_1,"[138, 138, 147, 147]",gradual,"[4828, 5139]"
+94,log_70_1708942684.xes,drift_1,sudden,change_info_1,"[80, 80, 80, 80]",sudden,[1200]
+95,log_71_1708942686.xes,drift_1,sudden,change_info_1,"[67, 67, 67, 67]",sudden,[1260]
+96,log_71_1708942686.xes,drift_2,sudden,change_info_1,"[125, 125, 125, 125]",sudden,[2374]
+97,log_72_1708942688.xes,drift_1,gradual,change_info_1,"[97, 97, 118, 118]",gradual,"[1640, 2003]"
+98,log_73_1708942694.xes,drift_1,sudden,change_info_1,"[103, 103, 103, 103]",sudden,[1633]
+99,log_74_1708942698.xes,drift_1,sudden,change_info_1,"[70, 70, 70, 70]",sudden,[1319]
+100,log_74_1708942698.xes,drift_2,sudden,change_info_1,"[137, 137, 137, 137]",sudden,[2594]
+101,log_76_1708942709.xes,drift_1,sudden,change_info_1,"[41, 41, 41, 41]",sudden,[1347]
+102,log_76_1708942709.xes,drift_2,gradual,change_info_1,"[74, 74, 85, 85]",gradual,"[2421, 2776]"
+103,log_76_1708942709.xes,drift_3,gradual,change_info_1,"[132, 132, 144, 144]",gradual,"[4349, 4746]"
+104,log_78_1708942728.xes,drift_1,sudden,change_info_1,"[67, 67, 67, 67]",sudden,[1926]
+105,log_78_1708942728.xes,drift_2,sudden,change_info_1,"[107, 107, 107, 107]",sudden,[3080]
+106,log_78_1708942728.xes,drift_3,sudden,change_info_1,"[153, 153, 153, 153]",sudden,[4416]
+107,log_79_1708942656.xes,drift_1,gradual,change_info_1,"[110, 110, 140, 140]",gradual,"[1535, 1950]"
+108,log_80_1708942659.xes,drift_1,sudden,change_info_1,"[30, 30, 30, 30]",sudden,[1063]
+109,log_80_1708942659.xes,drift_2,gradual,change_info_1,"[85, 85, 99, 99]",gradual,"[3031, 3549]"
+110,log_80_1708942659.xes,drift_3,gradual,change_info_1,"[138, 138, 153, 153]",gradual,"[4933, 5482]"
+111,log_81_1708942679.xes,drift_1,gradual,change_info_1,"[50, 50, 64, 64]",gradual,"[1887, 2431]"
+112,log_81_1708942679.xes,drift_2,gradual,change_info_1,"[112, 112, 126, 126]",gradual,"[4244, 4782]"
+113,log_81_1708942679.xes,drift_3,sudden,change_info_1,"[153, 153, 153, 153]",sudden,[5807]
+114,log_82_1708942691.xes,drift_1,gradual,change_info_1,"[93, 93, 109, 109]",gradual,"[1944, 2279]"
+115,log_84_1708942697.xes,drift_1,gradual,change_info_1,"[60, 60, 78, 78]",gradual,"[1902, 2467]"
+116,log_84_1708942697.xes,drift_2,gradual,change_info_1,"[136, 136, 152, 152]",gradual,"[4348, 4849]"
+117,log_85_1708942710.xes,drift_1,gradual,change_info_1,"[40, 40, 52, 52]",gradual,"[1298, 1715]"
+118,log_85_1708942710.xes,drift_2,gradual,change_info_1,"[96, 96, 113, 113]",gradual,"[3149, 3726]"
+119,log_85_1708942710.xes,drift_3,gradual,change_info_1,"[153, 153, 168, 168]",gradual,"[5022, 5540]"
+120,log_86_1708942737.xes,drift_1,gradual,change_info_1,"[58, 58, 74, 74]",gradual,"[1842, 2347]"
+121,log_86_1708942737.xes,drift_2,sudden,change_info_1,"[112, 112, 112, 112]",sudden,[3563]
+122,log_86_1708942737.xes,drift_3,sudden,change_info_1,"[152, 152, 152, 152]",sudden,[4864]
+123,log_87_1708942743.xes,drift_1,sudden,change_info_1,"[37, 37, 37, 37]",sudden,[1035]
+124,log_87_1708942743.xes,drift_2,gradual,change_info_1,"[76, 76, 92, 92]",gradual,"[2115, 2566]"
+125,log_87_1708942743.xes,drift_3,sudden,change_info_1,"[138, 138, 138, 138]",sudden,[3855]
+126,log_89_1708942764.xes,drift_1,sudden,change_info_1,"[98, 98, 98, 98]",sudden,[1362]
+127,log_90_1708942771.xes,drift_1,sudden,change_info_1,"[51, 51, 51, 51]",sudden,[1410]
+128,log_90_1708942771.xes,drift_2,sudden,change_info_1,"[111, 111, 111, 111]",sudden,[3106]
+129,log_90_1708942771.xes,drift_3,sudden,change_info_1,"[149, 149, 149, 149]",sudden,[4155]
+130,log_91_1708942784.xes,drift_1,sudden,change_info_1,"[75, 75, 75, 75]",sudden,[1342]
+131,log_91_1708942784.xes,drift_2,sudden,change_info_1,"[147, 147, 147, 147]",sudden,[2640]
+132,log_92_1708942656.xes,drift_1,sudden,change_info_1,"[58, 58, 58, 58]",sudden,[1215]
+133,log_92_1708942656.xes,drift_2,sudden,change_info_1,"[150, 150, 150, 150]",sudden,[3133]
+134,log_93_1708942660.xes,drift_1,gradual,change_info_1,"[51, 51, 66, 66]",gradual,"[1821, 2344]"
+135,log_93_1708942660.xes,drift_2,sudden,change_info_1,"[112, 112, 112, 112]",sudden,[4024]
+136,log_93_1708942660.xes,drift_3,gradual,change_info_1,"[153, 153, 170, 170]",gradual,"[5505, 6089]"
+137,log_94_1708942682.xes,drift_1,sudden,change_info_1,"[44, 44, 44, 44]",sudden,[1125]
+138,log_94_1708942682.xes,drift_2,sudden,change_info_1,"[117, 117, 117, 117]",sudden,[3042]
+139,log_94_1708942682.xes,drift_3,sudden,change_info_1,"[161, 161, 161, 161]",sudden,[4174]
+140,log_96_1708942694.xes,drift_1,gradual,change_info_1,"[93, 93, 92, 92]",gradual,"[1380, 1858]"
+141,log_97_1708942696.xes,drift_1,gradual,change_info_1,"[62, 62, 83, 83]",gradual,"[1362, 1808]"
+142,log_97_1708942696.xes,drift_2,sudden,change_info_1,"[130, 130, 130, 130]",sudden,[2860]
+143,log_101_1708942715.xes,drift_1,sudden,change_info_1,"[73, 73, 73, 73]",sudden,[1677]
+144,log_101_1708942715.xes,drift_2,sudden,change_info_1,"[133, 133, 133, 133]",sudden,[3047]
+145,log_103_1708942747.xes,drift_1,sudden,change_info_1,"[57, 57, 57, 57]",sudden,[1628]
+146,log_103_1708942747.xes,drift_2,gradual,change_info_1,"[102, 102, 101, 101]",gradual,"[2929, 3296]"
+147,log_103_1708942747.xes,drift_3,sudden,change_info_1,"[169, 169, 169, 169]",sudden,[4880]
+148,log_104_1708942761.xes,drift_1,sudden,change_info_1,"[45, 45, 45, 45]",sudden,[1062]
+149,log_104_1708942761.xes,drift_2,gradual,change_info_1,"[126, 126, 146, 146]",gradual,"[3022, 3491]"
+150,log_107_1708942668.xes,drift_1,gradual,change_info_1,"[73, 73, 93, 93]",gradual,"[1593, 2043]"
+151,log_107_1708942668.xes,drift_2,sudden,change_info_1,"[146, 146, 146, 146]",sudden,[3206]
+152,log_108_1708942675.xes,drift_1,gradual,change_info_1,"[94, 94, 116, 116]",gradual,"[1967, 2436]"
+153,log_109_1708942682.xes,drift_1,sudden,change_info_1,"[131, 131, 131, 131]",sudden,[1958]
+154,log_110_1708942691.xes,drift_1,sudden,change_info_1,"[43, 43, 43, 43]",sudden,[1586]
+155,log_110_1708942691.xes,drift_2,gradual,change_info_1,"[82, 82, 81, 81]",gradual,"[2997, 3448]"
+156,log_110_1708942691.xes,drift_3,gradual,change_info_1,"[136, 136, 149, 149]",gradual,"[5021, 5494]"
+157,log_111_1708942700.xes,drift_1,sudden,change_info_1,"[62, 62, 62, 62]",sudden,[1736]
+158,log_111_1708942700.xes,drift_2,gradual,change_info_1,"[134, 134, 145, 145]",gradual,"[3729, 4052]"
+159,log_112_1708942704.xes,drift_1,gradual,change_info_1,"[55, 55, 79, 79]",gradual,"[1083, 1578]"
+160,log_112_1708942704.xes,drift_2,sudden,change_info_1,"[139, 139, 139, 139]",sudden,[2775]
+161,log_113_1708942709.xes,drift_1,sudden,change_info_1,"[70, 70, 70, 70]",sudden,[1608]
+162,log_113_1708942709.xes,drift_2,gradual,change_info_1,"[125, 125, 148, 148]",gradual,"[2859, 3393]"
+163,log_114_1708942718.xes,drift_1,sudden,change_info_1,"[72, 72, 72, 72]",sudden,[1636]
+164,log_114_1708942718.xes,drift_2,sudden,change_info_1,"[119, 119, 119, 119]",sudden,[2734]
+165,log_115_1708942727.xes,drift_1,gradual,change_info_1,"[47, 47, 59, 59]",gradual,"[1623, 2036]"
+166,log_115_1708942727.xes,drift_2,sudden,change_info_1,"[95, 95, 95, 95]",sudden,[3321]
+167,log_115_1708942727.xes,drift_3,gradual,change_info_1,"[142, 142, 154, 154]",gradual,"[4942, 5367]"
+168,log_116_1708942736.xes,drift_1,sudden,change_info_1,"[93, 93, 93, 93]",sudden,[1382]
+169,log_117_1708942742.xes,drift_1,gradual,change_info_1,"[42, 42, 50, 50]",gradual,"[1637, 1937]"
+170,log_117_1708942742.xes,drift_2,gradual,change_info_1,"[99, 99, 109, 109]",gradual,"[3846, 4229]"
+171,log_117_1708942742.xes,drift_3,gradual,change_info_1,"[155, 155, 169, 169]",gradual,"[6010, 6562]"
+172,log_119_1708942660.xes,drift_1,sudden,change_info_1,"[122, 122, 122, 122]",sudden,[1453]
+173,log_120_1708942661.xes,drift_1,gradual,change_info_1,"[59, 59, 74, 74]",gradual,"[1748, 2214]"
+174,log_120_1708942661.xes,drift_2,sudden,change_info_1,"[120, 120, 120, 120]",sudden,[3585]
+175,log_120_1708942661.xes,drift_3,sudden,change_info_1,"[162, 162, 162, 162]",sudden,[4850]
+176,log_121_1708942669.xes,drift_1,gradual,change_info_1,"[76, 76, 111, 111]",gradual,"[1058, 1545]"
+177,log_122_1708942671.xes,drift_1,sudden,change_info_1,"[46, 46, 46, 46]",sudden,[1535]
+178,log_122_1708942671.xes,drift_2,sudden,change_info_1,"[100, 100, 100, 100]",sudden,[3375]
+179,log_122_1708942671.xes,drift_3,gradual,change_info_1,"[144, 144, 161, 161]",gradual,"[4876, 5466]"
+180,log_124_1708942683.xes,drift_1,gradual,change_info_1,"[85, 85, 113, 113]",gradual,"[1273, 1681]"
+181,log_125_1708942686.xes,drift_1,gradual,change_info_1,"[102, 102, 123, 123]",gradual,"[1524, 1836]"
+182,log_126_1708942690.xes,drift_1,gradual,change_info_1,"[74, 74, 94, 94]",gradual,"[1991, 2536]"
+183,log_126_1708942690.xes,drift_2,sudden,change_info_1,"[166, 166, 166, 166]",sudden,[4468]
+184,log_129_1708942706.xes,drift_1,gradual,change_info_1,"[95, 95, 121, 121]",gradual,"[1990, 2525]"
+185,log_130_1708942710.xes,drift_1,sudden,change_info_1,"[80, 80, 80, 80]",sudden,[1032]
+186,log_131_1708942656.xes,drift_1,sudden,change_info_1,"[81, 81, 81, 81]",sudden,[1128]
+187,log_134_1708942668.xes,drift_1,sudden,change_info_1,"[117, 117, 117, 117]",sudden,[1510]
+188,log_136_1708942672.xes,drift_1,sudden,change_info_1,"[61, 61, 61, 61]",sudden,[1158]
+189,log_136_1708942672.xes,drift_2,sudden,change_info_1,"[137, 137, 137, 137]",sudden,[2586]
+190,log_137_1708942674.xes,drift_1,gradual,change_info_1,"[68, 68, 86, 86]",gradual,"[1678, 2133]"
+191,log_137_1708942674.xes,drift_2,gradual,change_info_1,"[143, 143, 160, 160]",gradual,"[3565, 3992]"
+192,log_138_1708942679.xes,drift_1,gradual,change_info_1,"[103, 103, 102, 102]",gradual,"[1938, 2530]"
+193,log_139_1708942681.xes,drift_1,sudden,change_info_1,"[58, 58, 58, 58]",sudden,[1158]
+194,log_139_1708942681.xes,drift_2,gradual,change_info_1,"[110, 110, 135, 135]",gradual,"[2198, 2693]"
+195,log_140_1708942684.xes,drift_1,gradual,change_info_1,"[53, 53, 62, 62]",gradual,"[1832, 2148]"
+196,log_140_1708942684.xes,drift_2,gradual,change_info_1,"[112, 112, 127, 127]",gradual,"[3914, 4424]"
+197,log_140_1708942684.xes,drift_3,sudden,change_info_1,"[163, 163, 163, 163]",sudden,[5677]
+198,log_143_1708942695.xes,drift_1,sudden,change_info_1,"[58, 58, 58, 58]",sudden,[1961]
+199,log_143_1708942695.xes,drift_2,sudden,change_info_1,"[90, 90, 90, 90]",sudden,[3051]
+200,log_143_1708942695.xes,drift_3,gradual,change_info_1,"[147, 147, 164, 164]",gradual,"[4986, 5562]"
+201,log_145_1708942658.xes,drift_1,sudden,change_info_1,"[57, 57, 57, 57]",sudden,[1881]
+202,log_145_1708942658.xes,drift_2,gradual,change_info_1,"[89, 89, 100, 100]",gradual,"[2905, 3286]"
+203,log_145_1708942658.xes,drift_3,gradual,change_info_1,"[150, 150, 161, 161]",gradual,"[4934, 5287]"
+204,log_146_1708942669.xes,drift_1,gradual,change_info_1,"[46, 46, 65, 65]",gradual,"[1175, 1681]"
+205,log_146_1708942669.xes,drift_2,gradual,change_info_1,"[137, 137, 156, 156]",gradual,"[3544, 4056]"
+206,log_147_1708942687.xes,drift_1,gradual,change_info_1,"[64, 64, 63, 63]",gradual,"[1701, 2240]"
+207,log_147_1708942687.xes,drift_2,sudden,change_info_1,"[147, 147, 147, 147]",sudden,[3943]
+208,log_148_1708942695.xes,drift_1,gradual,change_info_1,"[84, 84, 104, 104]",gradual,"[1661, 2062]"
+209,log_149_1708942699.xes,drift_1,gradual,change_info_1,"[46, 46, 59, 59]",gradual,"[1562, 1995]"
+210,log_149_1708942699.xes,drift_2,sudden,change_info_1,"[97, 97, 97, 97]",sudden,[3270]
+211,log_149_1708942699.xes,drift_3,gradual,change_info_1,"[132, 132, 145, 145]",gradual,"[4478, 4915]"
+212,log_150_1708942721.xes,drift_1,sudden,change_info_1,"[40, 40, 40, 40]",sudden,[1238]
+213,log_150_1708942721.xes,drift_2,gradual,change_info_1,"[94, 94, 104, 104]",gradual,"[2894, 3209]"
+214,log_150_1708942721.xes,drift_3,sudden,change_info_1,"[166, 166, 166, 166]",sudden,[5118]
+215,log_151_1708942736.xes,drift_1,gradual,change_info_1,"[104, 104, 127, 127]",gradual,"[1549, 1891]"
+216,log_152_1708942741.xes,drift_1,gradual,change_info_1,"[54, 54, 68, 68]",gradual,"[1721, 2156]"
+217,log_152_1708942741.xes,drift_2,gradual,change_info_1,"[114, 114, 128, 128]",gradual,"[3636, 4090]"
+218,log_152_1708942741.xes,drift_3,gradual,change_info_1,"[160, 160, 172, 172]",gradual,"[5111, 5493]"
+219,log_153_1708942755.xes,drift_1,sudden,change_info_1,"[88, 88, 88, 88]",sudden,[1842]
+220,log_153_1708942755.xes,drift_2,sudden,change_info_1,"[137, 137, 137, 137]",sudden,[2862]
+221,log_154_1708942761.xes,drift_1,sudden,change_info_1,"[61, 61, 61, 61]",sudden,[1216]
+222,log_154_1708942761.xes,drift_2,sudden,change_info_1,"[125, 125, 125, 125]",sudden,[2495]
+223,log_155_1708942782.xes,drift_1,sudden,change_info_1,"[64, 64, 64, 64]",sudden,[1517]
+224,log_155_1708942782.xes,drift_2,sudden,change_info_1,"[128, 128, 128, 128]",sudden,[3069]
+225,log_156_1708942790.xes,drift_1,sudden,change_info_1,"[58, 58, 58, 58]",sudden,[1504]
+226,log_156_1708942790.xes,drift_2,sudden,change_info_1,"[132, 132, 132, 132]",sudden,[3408]
+227,log_157_1708942656.xes,drift_1,gradual,change_info_1,"[91, 91, 122, 122]",gradual,"[1624, 2190]"
+228,log_158_1708942667.xes,drift_1,gradual,change_info_1,"[85, 85, 112, 112]",gradual,"[1782, 2345]"
+229,log_161_1708942682.xes,drift_1,gradual,change_info_1,"[57, 57, 83, 83]",gradual,"[1074, 1559]"
+230,log_161_1708942682.xes,drift_2,sudden,change_info_1,"[141, 141, 141, 141]",sudden,[2677]
+231,log_163_1708942687.xes,drift_1,sudden,change_info_1,"[100, 100, 100, 100]",sudden,[1783]
+232,log_168_1708942718.xes,drift_1,sudden,change_info_1,"[36, 36, 36, 36]",sudden,[1146]
+233,log_168_1708942718.xes,drift_2,gradual,change_info_1,"[84, 84, 98, 98]",gradual,"[2677, 3119]"
+234,log_168_1708942718.xes,drift_3,sudden,change_info_1,"[158, 158, 158, 158]",sudden,[5032]
+235,log_169_1708942725.xes,drift_1,gradual,change_info_1,"[88, 88, 87, 87]",gradual,"[1392, 1905]"
+236,log_171_1708942659.xes,drift_1,sudden,change_info_1,"[64, 64, 64, 64]",sudden,[1332]
+237,log_171_1708942659.xes,drift_2,gradual,change_info_1,"[112, 112, 127, 127]",gradual,"[2347, 2652]"
+238,log_172_1708942666.xes,drift_1,sudden,change_info_1,"[111, 111, 111, 111]",sudden,[1442]
+239,log_173_1708942668.xes,drift_1,gradual,change_info_1,"[57, 57, 75, 75]",gradual,"[1577, 2089]"
+240,log_173_1708942668.xes,drift_2,gradual,change_info_1,"[121, 121, 141, 141]",gradual,"[3372, 3944]"
+241,log_174_1708942675.xes,drift_1,sudden,change_info_1,"[72, 72, 72, 72]",sudden,[1779]
+242,log_174_1708942675.xes,drift_2,gradual,change_info_1,"[125, 125, 139, 139]",gradual,"[3113, 3460]"
+243,log_175_1708942689.xes,drift_1,sudden,change_info_1,"[123, 123, 123, 123]",sudden,[1841]
+244,log_176_1708942690.xes,drift_1,gradual,change_info_1,"[90, 90, 112, 112]",gradual,"[1611, 2001]"
+245,log_177_1708942696.xes,drift_1,sudden,change_info_1,"[54, 54, 54, 54]",sudden,[1115]
+246,log_177_1708942696.xes,drift_2,gradual,change_info_1,"[127, 127, 146, 146]",gradual,"[2664, 3060]"
+247,log_179_1708942710.xes,drift_1,gradual,change_info_1,"[48, 48, 59, 59]",gradual,"[1821, 2214]"
+248,log_179_1708942710.xes,drift_2,gradual,change_info_1,"[102, 102, 113, 113]",gradual,"[3855, 4259]"
+249,log_179_1708942710.xes,drift_3,gradual,change_info_1,"[154, 154, 167, 167]",gradual,"[5821, 6337]"
+250,log_180_1708942718.xes,drift_1,gradual,change_info_1,"[53, 53, 69, 69]",gradual,"[1724, 2277]"
+251,log_180_1708942718.xes,drift_2,sudden,change_info_1,"[124, 124, 124, 124]",sudden,[4090]
+252,log_180_1708942718.xes,drift_3,sudden,change_info_1,"[155, 155, 155, 155]",sudden,[5091]
+253,log_181_1708942723.xes,drift_1,gradual,change_info_1,"[99, 99, 125, 125]",gradual,"[1774, 2246]"
+254,log_182_1708942727.xes,drift_1,sudden,change_info_1,"[58, 58, 58, 58]",sudden,[1330]
+255,log_182_1708942727.xes,drift_2,gradual,change_info_1,"[115, 115, 136, 136]",gradual,"[2641, 3110]"
+256,log_183_1708942656.xes,drift_1,gradual,change_info_1,"[37, 37, 51, 51]",gradual,"[1165, 1608]"
+257,log_183_1708942656.xes,drift_2,gradual,change_info_1,"[97, 97, 111, 111]",gradual,"[3079, 3534]"
+258,log_183_1708942656.xes,drift_3,gradual,change_info_1,"[154, 154, 171, 171]",gradual,"[4908, 5467]"
+259,log_184_1708942662.xes,drift_1,sudden,change_info_1,"[103, 103, 103, 103]",sudden,[1853]
+260,log_185_1708942672.xes,drift_1,sudden,change_info_1,"[76, 76, 76, 76]",sudden,[1433]
+261,log_185_1708942672.xes,drift_2,sudden,change_info_1,"[149, 149, 149, 149]",sudden,[2821]
+262,log_186_1708942680.xes,drift_1,sudden,change_info_1,"[85, 85, 85, 85]",sudden,[1521]
+263,log_186_1708942680.xes,drift_2,sudden,change_info_1,"[154, 154, 154, 154]",sudden,[2759]
+264,log_187_1708942683.xes,drift_1,sudden,change_info_1,"[97, 97, 97, 97]",sudden,[1256]
+265,log_189_1708942689.xes,drift_1,gradual,change_info_1,"[35, 35, 52, 52]",gradual,"[1157, 1738]"
+266,log_189_1708942689.xes,drift_2,gradual,change_info_1,"[90, 90, 102, 102]",gradual,"[3029, 3439]"
+267,log_189_1708942689.xes,drift_3,gradual,change_info_1,"[142, 142, 159, 159]",gradual,"[4806, 5380]"
+268,log_190_1708942713.xes,drift_1,sudden,change_info_1,"[126, 126, 126, 126]",sudden,[1763]
+269,log_191_1708942714.xes,drift_1,gradual,change_info_1,"[97, 97, 124, 124]",gradual,"[1935, 2466]"
+270,log_192_1708942722.xes,drift_1,gradual,change_info_1,"[74, 74, 107, 107]",gradual,"[1252, 1816]"
+271,log_195_1708942737.xes,drift_1,gradual,change_info_1,"[109, 109, 134, 134]",gradual,"[1959, 2400]"
+272,log_196_1708942656.xes,drift_1,gradual,change_info_1,"[73, 73, 96, 96]",gradual,"[1162, 1525]"
+273,log_197_1708942659.xes,drift_1,sudden,change_info_1,"[83, 83, 83, 83]",sudden,[1649]
+274,log_197_1708942659.xes,drift_2,sudden,change_info_1,"[147, 147, 147, 147]",sudden,[2930]
+275,log_198_1708942665.xes,drift_1,sudden,change_info_1,"[61, 61, 61, 61]",sudden,[1203]
+276,log_198_1708942665.xes,drift_2,sudden,change_info_1,"[129, 129, 129, 129]",sudden,[2577]
+277,log_199_1708942671.xes,drift_1,gradual,change_info_1,"[68, 68, 107, 107]",gradual,"[1019, 1603]"
+278,log_200_1708942676.xes,drift_1,gradual,change_info_1,"[62, 62, 77, 77]",gradual,"[1598, 1991]"
+279,log_200_1708942676.xes,drift_2,sudden,change_info_1,"[141, 141, 141, 141]",sudden,[3661]
+280,log_201_1708942687.xes,drift_1,gradual,change_info_1,"[38, 38, 52, 52]",gradual,"[1259, 1761]"
+281,log_201_1708942687.xes,drift_2,sudden,change_info_1,"[100, 100, 100, 100]",sudden,[3398]
+282,log_201_1708942687.xes,drift_3,gradual,change_info_1,"[144, 144, 158, 158]",gradual,"[4895, 5342]"
+283,log_202_1708942696.xes,drift_1,gradual,change_info_1,"[47, 47, 59, 59]",gradual,"[1357, 1704]"
+284,log_202_1708942696.xes,drift_2,sudden,change_info_1,"[124, 124, 124, 124]",sudden,[3585]
+285,log_202_1708942696.xes,drift_3,sudden,change_info_1,"[169, 169, 169, 169]",sudden,[4889]
+286,log_206_1708942720.xes,drift_1,sudden,change_info_1,"[56, 56, 56, 56]",sudden,[1769]
+287,log_206_1708942720.xes,drift_2,gradual,change_info_1,"[93, 93, 92, 92]",gradual,"[2944, 3317]"
+288,log_206_1708942720.xes,drift_3,sudden,change_info_1,"[167, 167, 167, 167]",sudden,[5313]
+289,log_207_1708942728.xes,drift_1,sudden,change_info_1,"[97, 97, 97, 97]",sudden,[1634]
+290,log_208_1708942734.xes,drift_1,sudden,change_info_1,"[106, 106, 106, 106]",sudden,[1896]
+291,log_209_1708942656.xes,drift_1,gradual,change_info_1,"[72, 72, 89, 89]",gradual,"[1935, 2403]"
+292,log_209_1708942656.xes,drift_2,sudden,change_info_1,"[128, 128, 128, 128]",sudden,[3438]
+293,log_210_1708942662.xes,drift_1,sudden,change_info_1,"[118, 118, 118, 118]",sudden,[1646]
+294,log_211_1708942665.xes,drift_1,sudden,change_info_1,"[99, 99, 99, 99]",sudden,[1286]
+295,log_212_1708942668.xes,drift_1,gradual,change_info_1,"[45, 45, 58, 58]",gradual,"[1560, 2001]"
+296,log_212_1708942668.xes,drift_2,sudden,change_info_1,"[114, 114, 114, 114]",sudden,[3962]
+297,log_212_1708942668.xes,drift_3,gradual,change_info_1,"[159, 159, 169, 169]",gradual,"[5549, 5894]"
+298,log_215_1708942685.xes,drift_1,sudden,change_info_1,"[43, 43, 43, 43]",sudden,[1489]
+299,log_215_1708942685.xes,drift_2,gradual,change_info_1,"[90, 90, 107, 107]",gradual,"[3122, 3713]"
+300,log_215_1708942685.xes,drift_3,gradual,change_info_1,"[145, 145, 158, 158]",gradual,"[5041, 5512]"
+301,log_216_1708942691.xes,drift_1,sudden,change_info_1,"[70, 70, 70, 70]",sudden,[1945]
+302,log_216_1708942691.xes,drift_2,sudden,change_info_1,"[117, 117, 117, 117]",sudden,[3266]
+303,log_216_1708942691.xes,drift_3,sudden,change_info_1,"[165, 165, 165, 165]",sudden,[4601]
+304,log_217_1708942697.xes,drift_1,sudden,change_info_1,"[52, 52, 52, 52]",sudden,[1649]
+305,log_217_1708942697.xes,drift_2,sudden,change_info_1,"[97, 97, 97, 97]",sudden,[3085]
+306,log_217_1708942697.xes,drift_3,gradual,change_info_1,"[138, 138, 153, 153]",gradual,"[4400, 4876]"
+307,log_218_1708942704.xes,drift_1,gradual,change_info_1,"[50, 50, 65, 65]",gradual,"[1799, 2305]"
+308,log_218_1708942704.xes,drift_2,sudden,change_info_1,"[112, 112, 112, 112]",sudden,[4001]
+309,log_218_1708942704.xes,drift_3,sudden,change_info_1,"[167, 167, 167, 167]",sudden,[5989]
+310,log_221_1708942729.xes,drift_1,sudden,change_info_1,"[96, 96, 96, 96]",sudden,[1341]
+311,log_222_1708942656.xes,drift_1,sudden,change_info_1,"[60, 60, 60, 60]",sudden,[1732]
+312,log_222_1708942656.xes,drift_2,sudden,change_info_1,"[111, 111, 111, 111]",sudden,[3195]
+313,log_222_1708942656.xes,drift_3,sudden,change_info_1,"[167, 167, 167, 167]",sudden,[4839]
+314,log_223_1708942662.xes,drift_1,gradual,change_info_1,"[58, 58, 75, 75]",gradual,"[1733, 2231]"
+315,log_223_1708942662.xes,drift_2,sudden,change_info_1,"[139, 139, 139, 139]",sudden,[4147]
+316,log_224_1708942669.xes,drift_1,sudden,change_info_1,"[46, 46, 46, 46]",sudden,[1463]
+317,log_224_1708942669.xes,drift_2,sudden,change_info_1,"[95, 95, 95, 95]",sudden,[3014]
+318,log_224_1708942669.xes,drift_3,gradual,change_info_1,"[146, 146, 161, 161]",gradual,"[4669, 5143]"
+319,log_226_1708942678.xes,drift_1,sudden,change_info_1,"[48, 48, 48, 48]",sudden,[1750]
+320,log_226_1708942678.xes,drift_2,gradual,change_info_1,"[98, 98, 110, 110]",gradual,"[3594, 4067]"
+321,log_226_1708942678.xes,drift_3,gradual,change_info_1,"[163, 163, 177, 177]",gradual,"[6024, 6518]"
+322,log_227_1708942701.xes,drift_1,gradual,change_info_1,"[56, 56, 76, 76]",gradual,"[1727, 2327]"
+323,log_227_1708942701.xes,drift_2,sudden,change_info_1,"[139, 139, 139, 139]",sudden,[4285]
+324,log_229_1708942714.xes,drift_1,gradual,change_info_1,"[79, 79, 101, 101]",gradual,"[1331, 1714]"
+325,log_230_1708942717.xes,drift_1,gradual,change_info_1,"[93, 93, 123, 123]",gradual,"[1749, 2328]"
+326,log_231_1708942722.xes,drift_1,gradual,change_info_1,"[34, 34, 45, 45]",gradual,"[1116, 1464]"
+327,log_231_1708942722.xes,drift_2,gradual,change_info_1,"[97, 97, 108, 108]",gradual,"[3193, 3557]"
+328,log_231_1708942722.xes,drift_3,sudden,change_info_1,"[168, 168, 168, 168]",sudden,[5534]
+329,log_232_1708942741.xes,drift_1,gradual,change_info_1,"[35, 35, 48, 48]",gradual,"[1182, 1626]"
+330,log_232_1708942741.xes,drift_2,sudden,change_info_1,"[99, 99, 99, 99]",sudden,[3356]
+331,log_232_1708942741.xes,drift_3,gradual,change_info_1,"[138, 138, 150, 150]",gradual,"[4664, 5091]"
+332,log_235_1708942656.xes,drift_1,gradual,change_info_1,"[43, 43, 57, 57]",gradual,"[1537, 2044]"
+333,log_235_1708942656.xes,drift_2,gradual,change_info_1,"[112, 112, 126, 126]",gradual,"[4004, 4534]"
+334,log_235_1708942656.xes,drift_3,gradual,change_info_1,"[161, 161, 175, 175]",gradual,"[5774, 6270]"
+335,log_236_1708942668.xes,drift_1,gradual,change_info_1,"[49, 49, 75, 75]",gradual,"[1024, 1556]"
+336,log_236_1708942668.xes,drift_2,sudden,change_info_1,"[153, 153, 153, 153]",sudden,[3201]
+337,log_237_1708942674.xes,drift_1,sudden,change_info_1,"[109, 109, 109, 109]",sudden,[1841]
+338,log_239_1708942683.xes,drift_1,sudden,change_info_1,"[75, 75, 75, 75]",sudden,[1122]
+339,log_240_1708942687.xes,drift_1,gradual,change_info_1,"[59, 59, 78, 78]",gradual,"[1462, 1935]"
+340,log_240_1708942687.xes,drift_2,sudden,change_info_1,"[150, 150, 150, 150]",sudden,[3747]
+341,log_241_1708942695.xes,drift_1,gradual,change_info_1,"[53, 53, 63, 63]",gradual,"[1878, 2241]"
+342,log_241_1708942695.xes,drift_2,sudden,change_info_1,"[113, 113, 113, 113]",sudden,[4045]
+343,log_241_1708942695.xes,drift_3,sudden,change_info_1,"[163, 163, 163, 163]",sudden,[5842]
+344,log_242_1708942708.xes,drift_1,sudden,change_info_1,"[46, 46, 46, 46]",sudden,[1424]
+345,log_242_1708942708.xes,drift_2,sudden,change_info_1,"[101, 101, 101, 101]",sudden,[3106]
+346,log_242_1708942708.xes,drift_3,sudden,change_info_1,"[158, 158, 158, 158]",sudden,[4872]
+347,log_243_1708942718.xes,drift_1,sudden,change_info_1,"[67, 67, 67, 67]",sudden,[1390]
+348,log_243_1708942718.xes,drift_2,sudden,change_info_1,"[135, 135, 135, 135]",sudden,[2822]
+349,log_244_1708942723.xes,drift_1,gradual,change_info_1,"[69, 69, 89, 89]",gradual,"[1996, 2553]"
+350,log_244_1708942723.xes,drift_2,gradual,change_info_1,"[133, 133, 152, 152]",gradual,"[3845, 4399]"
+351,log_245_1708942730.xes,drift_1,gradual,change_info_1,"[79, 79, 107, 107]",gradual,"[1263, 1708]"
+352,log_246_1708942740.xes,drift_1,gradual,change_info_1,"[44, 44, 56, 56]",gradual,"[1226, 1566]"
+353,log_246_1708942740.xes,drift_2,gradual,change_info_1,"[127, 127, 144, 144]",gradual,"[3543, 4026]"
+354,log_247_1708942749.xes,drift_1,gradual,change_info_1,"[71, 71, 91, 91]",gradual,"[1690, 2175]"
+355,log_247_1708942749.xes,drift_2,gradual,change_info_1,"[140, 140, 155, 155]",gradual,"[3337, 3704]"
+356,log_248_1708942656.xes,drift_1,sudden,change_info_1,"[74, 74, 74, 74]",sudden,[1921]
+357,log_248_1708942656.xes,drift_2,sudden,change_info_1,"[141, 141, 141, 141]",sudden,[3662]
+358,log_249_1708942668.xes,drift_1,sudden,change_info_1,"[57, 57, 57, 57]",sudden,[1307]
+359,log_249_1708942668.xes,drift_2,gradual,change_info_1,"[131, 131, 150, 150]",gradual,"[3002, 3448]"
+360,log_251_1708942695.xes,drift_1,gradual,change_info_1,"[86, 86, 113, 113]",gradual,"[1711, 2242]"
+361,log_252_1708942701.xes,drift_1,gradual,change_info_1,"[39, 39, 52, 52]",gradual,"[1125, 1495]"
+362,log_252_1708942701.xes,drift_2,sudden,change_info_1,"[93, 93, 93, 93]",sudden,[2680]
+363,log_252_1708942701.xes,drift_3,sudden,change_info_1,"[152, 152, 152, 152]",sudden,[4384]
+364,log_254_1708942722.xes,drift_1,sudden,change_info_1,"[97, 97, 97, 97]",sudden,[1453]
+365,log_256_1708942730.xes,drift_1,gradual,change_info_1,"[40, 40, 59, 59]",gradual,"[1274, 1868]"
+366,log_256_1708942730.xes,drift_2,gradual,change_info_1,"[105, 105, 116, 116]",gradual,"[3351, 3681]"
+367,log_256_1708942730.xes,drift_3,gradual,change_info_1,"[154, 154, 164, 164]",gradual,"[4913, 5239]"
+368,log_257_1708942738.xes,drift_1,sudden,change_info_1,"[57, 57, 57, 57]",sudden,[1127]
+369,log_257_1708942738.xes,drift_2,gradual,change_info_1,"[129, 129, 150, 150]",gradual,"[2579, 2992]"
+370,log_258_1708942742.xes,drift_1,sudden,change_info_1,"[48, 48, 48, 48]",sudden,[1615]
+371,log_258_1708942742.xes,drift_2,sudden,change_info_1,"[103, 103, 103, 103]",sudden,[3493]
+372,log_258_1708942742.xes,drift_3,gradual,change_info_1,"[151, 151, 163, 163]",gradual,"[5122, 5534]"
+373,log_260_1708942756.xes,drift_1,gradual,change_info_1,"[91, 91, 118, 118]",gradual,"[1622, 2109]"
+374,log_262_1708942667.xes,drift_1,sudden,change_info_1,"[56, 56, 56, 56]",sudden,[1818]
+375,log_262_1708942667.xes,drift_2,gradual,change_info_1,"[115, 115, 127, 127]",gradual,"[3784, 4165]"
+376,log_262_1708942667.xes,drift_3,sudden,change_info_1,"[171, 171, 171, 171]",sudden,[5638]
+377,log_264_1708942702.xes,drift_1,gradual,change_info_1,"[53, 53, 65, 65]",gradual,"[1889, 2328]"
+378,log_264_1708942702.xes,drift_2,gradual,change_info_1,"[104, 104, 119, 119]",gradual,"[3711, 4263]"
+379,log_264_1708942702.xes,drift_3,sudden,change_info_1,"[148, 148, 148, 148]",sudden,[5305]
+380,log_265_1708942711.xes,drift_1,gradual,change_info_1,"[99, 99, 129, 129]",gradual,"[1474, 1922]"
+381,log_266_1708942714.xes,drift_1,gradual,change_info_1,"[56, 56, 73, 73]",gradual,"[1170, 1513]"
+382,log_266_1708942714.xes,drift_2,sudden,change_info_1,"[129, 129, 129, 129]",sudden,[2703]
+383,log_267_1708942733.xes,drift_1,gradual,change_info_1,"[48, 48, 59, 59]",gradual,"[1937, 2412]"
+384,log_267_1708942733.xes,drift_2,gradual,change_info_1,"[95, 95, 107, 107]",gradual,"[3855, 4367]"
+385,log_267_1708942733.xes,drift_3,gradual,change_info_1,"[148, 148, 158, 158]",gradual,"[6064, 6462]"
+386,log_268_1708942747.xes,drift_1,gradual,change_info_1,"[52, 52, 61, 61]",gradual,"[1915, 2239]"
+387,log_268_1708942747.xes,drift_2,sudden,change_info_1,"[105, 105, 105, 105]",sudden,[3880]
+388,log_268_1708942747.xes,drift_3,sudden,change_info_1,"[156, 156, 156, 156]",sudden,[5742]
+389,log_270_1708942764.xes,drift_1,sudden,change_info_1,"[50, 50, 50, 50]",sudden,[1132]
+390,log_270_1708942764.xes,drift_2,gradual,change_info_1,"[128, 128, 143, 143]",gradual,"[2936, 3289]"
+391,log_271_1708942768.xes,drift_1,gradual,change_info_1,"[88, 88, 109, 109]",gradual,"[1583, 1951]"
+392,log_274_1708942656.xes,drift_1,gradual,change_info_1,"[92, 92, 114, 114]",gradual,"[1655, 2041]"
+393,log_276_1708942662.xes,drift_1,gradual,change_info_1,"[52, 52, 65, 65]",gradual,"[1742, 2199]"
+394,log_276_1708942662.xes,drift_2,sudden,change_info_1,"[116, 116, 116, 116]",sudden,[3935]
+395,log_276_1708942662.xes,drift_3,sudden,change_info_1,"[169, 169, 169, 169]",sudden,[5721]
+396,log_278_1708942669.xes,drift_1,sudden,change_info_1,"[57, 57, 57, 57]",sudden,[1858]
+397,log_278_1708942669.xes,drift_2,gradual,change_info_1,"[100, 100, 118, 118]",gradual,"[3279, 3877]"
+398,log_278_1708942669.xes,drift_3,sudden,change_info_1,"[163, 163, 163, 163]",sudden,[5352]
+399,log_281_1708942718.xes,drift_1,gradual,change_info_1,"[66, 66, 90, 90]",gradual,"[1114, 1529]"
+400,log_284_1708942732.xes,drift_1,gradual,change_info_1,"[81, 81, 80, 80]",gradual,"[1040, 1583]"
+401,log_285_1708942734.xes,drift_1,gradual,change_info_1,"[67, 67, 87, 87]",gradual,"[1586, 2070]"
+402,log_285_1708942734.xes,drift_2,gradual,change_info_1,"[141, 141, 156, 156]",gradual,"[3380, 3729]"
+403,log_286_1708942739.xes,drift_1,gradual,change_info_1,"[44, 44, 60, 60]",gradual,"[1209, 1677]"
+404,log_286_1708942739.xes,drift_2,sudden,change_info_1,"[106, 106, 106, 106]",sudden,[2941]
+405,log_286_1708942739.xes,drift_3,sudden,change_info_1,"[157, 157, 157, 157]",sudden,[4376]
+406,log_288_1708942669.xes,drift_1,sudden,change_info_1,"[103, 103, 103, 103]",sudden,[1636]
+407,log_290_1708942678.xes,drift_1,gradual,change_info_1,"[82, 82, 114, 114]",gradual,"[1391, 1938]"
+408,log_291_1708942683.xes,drift_1,sudden,change_info_1,"[65, 65, 65, 65]",sudden,[1616]
+409,log_291_1708942683.xes,drift_2,gradual,change_info_1,"[118, 118, 117, 117]",gradual,"[2925, 3507]"
+410,log_292_1708942689.xes,drift_1,sudden,change_info_1,"[91, 91, 91, 91]",sudden,[1998]
+411,log_292_1708942689.xes,drift_2,gradual,change_info_1,"[139, 139, 160, 160]",gradual,"[3043, 3510]"
+412,log_293_1708942694.xes,drift_1,sudden,change_info_1,"[110, 110, 110, 110]",sudden,[1753]
+413,log_294_1708942698.xes,drift_1,gradual,change_info_1,"[116, 116, 147, 147]",gradual,"[1971, 2487]"
+414,log_296_1708942709.xes,drift_1,gradual,change_info_1,"[92, 92, 118, 118]",gradual,"[1282, 1642]"
+415,log_297_1708942712.xes,drift_1,sudden,change_info_1,"[57, 57, 57, 57]",sudden,[1477]
+416,log_297_1708942712.xes,drift_2,gradual,change_info_1,"[120, 120, 133, 133]",gradual,"[3115, 3451]"
+417,log_298_1708942718.xes,drift_1,gradual,change_info_1,"[78, 78, 111, 111]",gradual,"[1084, 1548]"
+418,log_299_1708942722.xes,drift_1,sudden,change_info_1,"[65, 65, 65, 65]",sudden,[1287]
+419,log_299_1708942722.xes,drift_2,sudden,change_info_1,"[135, 135, 135, 135]",sudden,[2684]
+420,log_300_1708942656.xes,drift_1,sudden,change_info_1,"[82, 82, 82, 82]",sudden,[1218]
+421,log_302_1708942665.xes,drift_1,sudden,change_info_1,"[108, 108, 108, 108]",sudden,[1609]
+422,log_303_1708942666.xes,drift_1,sudden,change_info_1,"[111, 111, 111, 111]",sudden,[1651]
+423,log_304_1708942670.xes,drift_1,gradual,change_info_1,"[53, 53, 70, 70]",gradual,"[1480, 1937]"
+424,log_304_1708942670.xes,drift_2,gradual,change_info_1,"[138, 138, 152, 152]",gradual,"[3863, 4235]"
+425,log_306_1708942681.xes,drift_1,sudden,change_info_1,"[51, 51, 51, 51]",sudden,[1162]
+426,log_306_1708942681.xes,drift_2,gradual,change_info_1,"[133, 133, 158, 158]",gradual,"[3039, 3619]"
+427,log_307_1708942691.xes,drift_1,gradual,change_info_1,"[35, 35, 45, 45]",gradual,"[1265, 1630]"
+428,log_307_1708942691.xes,drift_2,gradual,change_info_1,"[92, 92, 105, 105]",gradual,"[3398, 3861]"
+429,log_307_1708942691.xes,drift_3,gradual,change_info_1,"[153, 153, 165, 165]",gradual,"[5631, 6087]"
+430,log_309_1708942716.xes,drift_1,sudden,change_info_1,"[41, 41, 41, 41]",sudden,[1374]
+431,log_309_1708942716.xes,drift_2,sudden,change_info_1,"[98, 98, 98, 98]",sudden,[3313]
+432,log_309_1708942716.xes,drift_3,gradual,change_info_1,"[148, 148, 157, 157]",gradual,"[5012, 5320]"
+433,log_314_1708942657.xes,drift_1,sudden,change_info_1,"[67, 67, 67, 67]",sudden,[1651]
+434,log_314_1708942657.xes,drift_2,sudden,change_info_1,"[128, 128, 128, 128]",sudden,[3178]
+435,log_315_1708942660.xes,drift_1,sudden,change_info_1,"[97, 97, 97, 97]",sudden,[1066]
+436,log_316_1708942666.xes,drift_1,sudden,change_info_1,"[64, 64, 64, 64]",sudden,[1200]
+437,log_316_1708942666.xes,drift_2,sudden,change_info_1,"[117, 117, 117, 117]",sudden,[2220]
+438,log_317_1708942675.xes,drift_1,sudden,change_info_1,"[45, 45, 45, 45]",sudden,[1439]
+439,log_317_1708942675.xes,drift_2,gradual,change_info_1,"[91, 91, 103, 103]",gradual,"[2894, 3278]"
+440,log_317_1708942675.xes,drift_3,gradual,change_info_1,"[139, 139, 149, 149]",gradual,"[4434, 4749]"
+441,log_318_1708942688.xes,drift_1,gradual,change_info_1,"[58, 58, 74, 74]",gradual,"[1901, 2410]"
+442,log_318_1708942688.xes,drift_2,gradual,change_info_1,"[108, 108, 125, 125]",gradual,"[3539, 4109]"
+443,log_318_1708942688.xes,drift_3,gradual,change_info_1,"[156, 156, 169, 169]",gradual,"[5124, 5551]"
+444,log_319_1708942703.xes,drift_1,sudden,change_info_1,"[128, 128, 128, 128]",sudden,[1913]
+445,log_320_1708942706.xes,drift_1,sudden,change_info_1,"[37, 37, 37, 37]",sudden,[1067]
+446,log_320_1708942706.xes,drift_2,sudden,change_info_1,"[88, 88, 88, 88]",sudden,[2524]
+447,log_320_1708942706.xes,drift_3,gradual,change_info_1,"[140, 140, 152, 152]",gradual,"[4053, 4392]"
+448,log_322_1708942719.xes,drift_1,sudden,change_info_1,"[35, 35, 35, 35]",sudden,[1060]
+449,log_322_1708942719.xes,drift_2,sudden,change_info_1,"[96, 96, 96, 96]",sudden,[2947]
+450,log_322_1708942719.xes,drift_3,sudden,change_info_1,"[146, 146, 146, 146]",sudden,[4507]
+451,log_323_1708942728.xes,drift_1,sudden,change_info_1,"[56, 56, 56, 56]",sudden,[1763]
+452,log_323_1708942728.xes,drift_2,sudden,change_info_1,"[116, 116, 116, 116]",sudden,[3695]
+453,log_323_1708942728.xes,drift_3,sudden,change_info_1,"[162, 162, 162, 162]",sudden,[5169]
+454,log_325_1708942742.xes,drift_1,sudden,change_info_1,"[52, 52, 52, 52]",sudden,[1039]
+455,log_325_1708942742.xes,drift_2,sudden,change_info_1,"[151, 151, 151, 151]",sudden,[3014]
+456,log_326_1708942713.xes,drift_1,gradual,change_info_1,"[63, 63, 62, 62]",gradual,"[1426, 1843]"
+457,log_326_1708942713.xes,drift_2,gradual,change_info_1,"[141, 141, 160, 160]",gradual,"[3239, 3665]"
+458,log_329_1708942745.xes,drift_1,gradual,change_info_1,"[55, 55, 68, 68]",gradual,"[1978, 2413]"
+459,log_329_1708942745.xes,drift_2,gradual,change_info_1,"[103, 103, 119, 119]",gradual,"[3679, 4277]"
+460,log_329_1708942745.xes,drift_3,sudden,change_info_1,"[152, 152, 152, 152]",sudden,[5465]
+461,log_330_1708942759.xes,drift_1,gradual,change_info_1,"[35, 35, 45, 45]",gradual,"[1162, 1527]"
+462,log_330_1708942759.xes,drift_2,gradual,change_info_1,"[103, 103, 119, 119]",gradual,"[3483, 4019]"
+463,log_330_1708942759.xes,drift_3,sudden,change_info_1,"[166, 166, 166, 166]",sudden,[5633]
+464,log_332_1708942771.xes,drift_1,sudden,change_info_1,"[36, 36, 36, 36]",sudden,[1075]
+465,log_332_1708942771.xes,drift_2,sudden,change_info_1,"[91, 91, 91, 91]",sudden,[2719]
+466,log_332_1708942771.xes,drift_3,sudden,change_info_1,"[146, 146, 146, 146]",sudden,[4361]
+467,log_334_1708942775.xes,drift_1,gradual,change_info_1,"[70, 70, 69, 69]",gradual,"[2001, 2459]"
+468,log_334_1708942775.xes,drift_2,gradual,change_info_1,"[133, 133, 144, 144]",gradual,"[3835, 4170]"
+469,log_335_1708942786.xes,drift_1,gradual,change_info_1,"[51, 51, 73, 73]",gradual,"[1005, 1452]"
+470,log_335_1708942786.xes,drift_2,sudden,change_info_1,"[148, 148, 148, 148]",sudden,[2954]
+471,log_336_1708942792.xes,drift_1,sudden,change_info_1,"[117, 117, 117, 117]",sudden,[1983]
+472,log_337_1708942795.xes,drift_1,gradual,change_info_1,"[46, 46, 59, 59]",gradual,"[1409, 1815]"
+473,log_337_1708942795.xes,drift_2,sudden,change_info_1,"[115, 115, 115, 115]",sudden,[3547]
+474,log_337_1708942795.xes,drift_3,gradual,change_info_1,"[149, 149, 162, 162]",gradual,"[4595, 5012]"
+475,log_340_1708942716.xes,drift_1,gradual,change_info_1,"[69, 69, 108, 108]",gradual,"[1031, 1606]"
+476,log_342_1708942723.xes,drift_1,sudden,change_info_1,"[92, 92, 92, 92]",sudden,[1562]
+477,log_344_1708942732.xes,drift_1,sudden,change_info_1,"[103, 103, 103, 103]",sudden,[1847]
+478,log_345_1708942735.xes,drift_1,sudden,change_info_1,"[131, 131, 131, 131]",sudden,[1697]
+479,log_346_1708942737.xes,drift_1,sudden,change_info_1,"[86, 86, 86, 86]",sudden,[1791]
+480,log_346_1708942737.xes,drift_2,sudden,change_info_1,"[141, 141, 141, 141]",sudden,[2957]
+481,log_347_1708942743.xes,drift_1,sudden,change_info_1,"[55, 55, 55, 55]",sudden,[1960]
+482,log_347_1708942743.xes,drift_2,gradual,change_info_1,"[90, 90, 105, 105]",gradual,"[3211, 3771]"
+483,log_347_1708942743.xes,drift_3,gradual,change_info_1,"[146, 146, 145, 145]",gradual,"[5220, 5767]"
+484,log_348_1708942753.xes,drift_1,gradual,change_info_1,"[49, 49, 62, 62]",gradual,"[1203, 1540]"
+485,log_348_1708942753.xes,drift_2,sudden,change_info_1,"[134, 134, 134, 134]",sudden,[3334]
+486,log_349_1708942759.xes,drift_1,sudden,change_info_1,"[96, 96, 96, 96]",sudden,[1340]
+487,log_351_1708942769.xes,drift_1,gradual,change_info_1,"[66, 66, 87, 87]",gradual,"[1773, 2342]"
+488,log_351_1708942769.xes,drift_2,sudden,change_info_1,"[150, 150, 150, 150]",sudden,[4030]
+489,log_352_1708942719.xes,drift_1,sudden,change_info_1,"[71, 71, 71, 71]",sudden,[1916]
+490,log_352_1708942719.xes,drift_2,sudden,change_info_1,"[116, 116, 116, 116]",sudden,[3115]
+491,log_352_1708942719.xes,drift_3,sudden,change_info_1,"[164, 164, 164, 164]",sudden,[4424]
+492,log_354_1708942735.xes,drift_1,sudden,change_info_1,"[58, 58, 58, 58]",sudden,[1486]
+493,log_354_1708942735.xes,drift_2,gradual,change_info_1,"[119, 119, 139, 139]",gradual,"[3088, 3601]"
+494,log_355_1708942740.xes,drift_1,gradual,change_info_1,"[59, 59, 71, 71]",gradual,"[1454, 1758]"
+495,log_355_1708942740.xes,drift_2,sudden,change_info_1,"[126, 126, 126, 126]",sudden,[3149]
+496,log_356_1708942745.xes,drift_1,gradual,change_info_1,"[62, 62, 79, 79]",gradual,"[1779, 2276]"
+497,log_356_1708942745.xes,drift_2,gradual,change_info_1,"[141, 141, 152, 152]",gradual,"[4062, 4380]"
+498,log_358_1708942765.xes,drift_1,sudden,change_info_1,"[68, 68, 68, 68]",sudden,[1357]
+499,log_358_1708942765.xes,drift_2,gradual,change_info_1,"[120, 120, 143, 143]",gradual,"[2387, 2850]"
+500,log_359_1708942769.xes,drift_1,sudden,change_info_1,"[60, 60, 60, 60]",sudden,[1249]
+501,log_359_1708942769.xes,drift_2,sudden,change_info_1,"[146, 146, 146, 146]",sudden,[3062]
+502,log_360_1708942773.xes,drift_1,sudden,change_info_1,"[75, 75, 75, 75]",sudden,[1725]
+503,log_360_1708942773.xes,drift_2,sudden,change_info_1,"[156, 156, 156, 156]",sudden,[3573]
+504,log_361_1708942779.xes,drift_1,gradual,change_info_1,"[70, 70, 91, 91]",gradual,"[1936, 2528]"
+505,log_361_1708942779.xes,drift_2,sudden,change_info_1,"[146, 146, 146, 146]",sudden,[4068]
+506,log_363_1708942795.xes,drift_1,gradual,change_info_1,"[119, 119, 147, 147]",gradual,"[1891, 2342]"
+507,log_365_1708942730.xes,drift_1,sudden,change_info_1,"[85, 85, 85, 85]",sudden,[1353]
+508,log_366_1708942733.xes,drift_1,gradual,change_info_1,"[102, 102, 136, 136]",gradual,"[1524, 2033]"
+509,log_368_1708942750.xes,drift_1,sudden,change_info_1,"[107, 107, 107, 107]",sudden,[1591]
+510,log_371_1708942767.xes,drift_1,gradual,change_info_1,"[48, 48, 61, 61]",gradual,"[1629, 2060]"
+511,log_371_1708942767.xes,drift_2,sudden,change_info_1,"[118, 118, 118, 118]",sudden,[3994]
+512,log_371_1708942767.xes,drift_3,sudden,change_info_1,"[155, 155, 155, 155]",sudden,[5263]
+513,log_372_1708942776.xes,drift_1,sudden,change_info_1,"[51, 51, 51, 51]",sudden,[1053]
+514,log_372_1708942776.xes,drift_2,gradual,change_info_1,"[114, 114, 138, 138]",gradual,"[2392, 2888]"
+515,log_373_1708942790.xes,drift_1,sudden,change_info_1,"[64, 64, 64, 64]",sudden,[1457]
+516,log_373_1708942790.xes,drift_2,gradual,change_info_1,"[122, 122, 138, 138]",gradual,"[2804, 3166]"
+517,log_374_1708942797.xes,drift_1,gradual,change_info_1,"[57, 57, 79, 79]",gradual,"[1524, 2109]"
+518,log_374_1708942797.xes,drift_2,sudden,change_info_1,"[140, 140, 140, 140]",sudden,[3758]
+519,log_375_1708942806.xes,drift_1,gradual,change_info_1,"[50, 50, 65, 65]",gradual,"[1831, 2404]"
+520,log_375_1708942806.xes,drift_2,sudden,change_info_1,"[107, 107, 107, 107]",sudden,[3947]
+521,log_375_1708942806.xes,drift_3,sudden,change_info_1,"[154, 154, 154, 154]",sudden,[5673]
+522,log_376_1708942816.xes,drift_1,sudden,change_info_1,"[53, 53, 53, 53]",sudden,[1107]
+523,log_376_1708942816.xes,drift_2,sudden,change_info_1,"[127, 127, 127, 127]",sudden,[2651]
+524,log_377_1708942822.xes,drift_1,sudden,change_info_1,"[46, 46, 46, 46]",sudden,[1489]
+525,log_377_1708942822.xes,drift_2,gradual,change_info_1,"[102, 102, 101, 101]",gradual,"[3333, 3796]"
+526,log_377_1708942822.xes,drift_3,sudden,change_info_1,"[152, 152, 152, 152]",sudden,[5001]
+527,log_378_1708942731.xes,drift_1,gradual,change_info_1,"[90, 90, 111, 111]",gradual,"[1693, 2099]"
+528,log_380_1708942736.xes,drift_1,gradual,change_info_1,"[47, 47, 73, 73]",gradual,"[1065, 1660]"
+529,log_380_1708942736.xes,drift_2,sudden,change_info_1,"[146, 146, 146, 146]",sudden,[3357]
+530,log_381_1708942745.xes,drift_1,gradual,change_info_1,"[110, 110, 135, 135]",gradual,"[1747, 2155]"
+531,log_382_1708942756.xes,drift_1,gradual,change_info_1,"[84, 84, 110, 110]",gradual,"[1925, 2516]"
+532,log_382_1708942756.xes,drift_2,sudden,change_info_1,"[158, 158, 158, 158]",sudden,[3625]
+533,log_383_1708942759.xes,drift_1,sudden,change_info_1,"[125, 125, 125, 125]",sudden,[1867]
+534,log_384_1708942762.xes,drift_1,sudden,change_info_1,"[49, 49, 49, 49]",sudden,[1603]
+535,log_384_1708942762.xes,drift_2,sudden,change_info_1,"[92, 92, 92, 92]",sudden,[3035]
+536,log_384_1708942762.xes,drift_3,sudden,change_info_1,"[151, 151, 151, 151]",sudden,[4967]
+537,log_385_1708942771.xes,drift_1,gradual,change_info_1,"[42, 42, 54, 54]",gradual,"[1301, 1663]"
+538,log_385_1708942771.xes,drift_2,gradual,change_info_1,"[92, 92, 109, 109]",gradual,"[2836, 3372]"
+539,log_385_1708942771.xes,drift_3,gradual,change_info_1,"[156, 156, 169, 169]",gradual,"[4822, 5225]"
+540,log_386_1708942780.xes,drift_1,sudden,change_info_1,"[42, 42, 42, 42]",sudden,[1050]
+541,log_386_1708942780.xes,drift_2,sudden,change_info_1,"[95, 95, 95, 95]",sudden,[2370]
+542,log_386_1708942780.xes,drift_3,sudden,change_info_1,"[163, 163, 163, 163]",sudden,[4062]
+543,log_388_1708942786.xes,drift_1,gradual,change_info_1,"[70, 70, 101, 101]",gradual,"[1312, 1906]"
+544,log_389_1708942792.xes,drift_1,gradual,change_info_1,"[37, 37, 50, 50]",gradual,"[1192, 1646]"
+545,log_389_1708942792.xes,drift_2,sudden,change_info_1,"[99, 99, 99, 99]",sudden,[3251]
+546,log_389_1708942792.xes,drift_3,gradual,change_info_1,"[159, 159, 169, 169]",gradual,"[5216, 5561]"
+547,log_390_1708942806.xes,drift_1,gradual,change_info_1,"[43, 43, 54, 54]",gradual,"[1288, 1599]"
+548,log_390_1708942806.xes,drift_2,gradual,change_info_1,"[93, 93, 107, 107]",gradual,"[2780, 3198]"
+549,log_390_1708942806.xes,drift_3,sudden,change_info_1,"[141, 141, 141, 141]",sudden,[4221]
+550,log_393_1708942739.xes,drift_1,sudden,change_info_1,"[78, 78, 78, 78]",sudden,[1852]
+551,log_393_1708942739.xes,drift_2,sudden,change_info_1,"[145, 145, 145, 145]",sudden,[3468]
+552,log_397_1708942772.xes,drift_1,sudden,change_info_1,"[60, 60, 60, 60]",sudden,[1249]
+553,log_397_1708942772.xes,drift_2,gradual,change_info_1,"[131, 131, 150, 150]",gradual,"[2734, 3131]"
+554,log_398_1708942776.xes,drift_1,sudden,change_info_1,"[100, 100, 100, 100]",sudden,[1786]
+555,log_399_1708942781.xes,drift_1,sudden,change_info_1,"[58, 58, 58, 58]",sudden,[1330]
+556,log_399_1708942781.xes,drift_2,gradual,change_info_1,"[114, 114, 133, 133]",gradual,"[2612, 3042]"
+557,log_400_1708942784.xes,drift_1,sudden,change_info_1,"[68, 68, 68, 68]",sudden,[1970]
+558,log_400_1708942784.xes,drift_2,gradual,change_info_1,"[132, 132, 148, 148]",gradual,"[3822, 4284]"
+559,log_401_1708942788.xes,drift_1,gradual,change_info_1,"[71, 71, 92, 92]",gradual,"[1895, 2473]"
+560,log_401_1708942788.xes,drift_2,sudden,change_info_1,"[146, 146, 146, 146]",sudden,[3928]
+561,log_402_1708942806.xes,drift_1,sudden,change_info_1,"[111, 111, 111, 111]",sudden,[1660]
+562,log_404_1708942731.xes,drift_1,gradual,change_info_1,"[113, 113, 137, 137]",gradual,"[1802, 2192]"
+563,log_405_1708942739.xes,drift_1,sudden,change_info_1,"[51, 51, 51, 51]",sudden,[1364]
+564,log_405_1708942739.xes,drift_2,sudden,change_info_1,"[94, 94, 94, 94]",sudden,[2533]
+565,log_405_1708942739.xes,drift_3,sudden,change_info_1,"[163, 163, 163, 163]",sudden,[4401]
+566,log_406_1708942749.xes,drift_1,gradual,change_info_1,"[103, 103, 127, 127]",gradual,"[1639, 2019]"
+567,log_407_1708942753.xes,drift_1,gradual,change_info_1,"[37, 37, 54, 54]",gradual,"[1328, 1915]"
+568,log_407_1708942753.xes,drift_2,sudden,change_info_1,"[95, 95, 95, 95]",sudden,[3388]
+569,log_407_1708942753.xes,drift_3,gradual,change_info_1,"[141, 141, 157, 157]",gradual,"[5056, 5640]"
+570,log_408_1708942757.xes,drift_1,gradual,change_info_1,"[48, 48, 57, 57]",gradual,"[1903, 2261]"
+571,log_408_1708942757.xes,drift_2,gradual,change_info_1,"[102, 102, 113, 113]",gradual,"[4059, 4509]"
+572,log_408_1708942757.xes,drift_3,gradual,change_info_1,"[162, 162, 175, 175]",gradual,"[6459, 6972]"
+573,log_409_1708942767.xes,drift_1,sudden,change_info_1,"[64, 64, 64, 64]",sudden,[1654]
+574,log_409_1708942767.xes,drift_2,sudden,change_info_1,"[138, 138, 138, 138]",sudden,[3569]
+575,log_410_1708942771.xes,drift_1,sudden,change_info_1,"[51, 51, 51, 51]",sudden,[1804]
+576,log_410_1708942771.xes,drift_2,gradual,change_info_1,"[90, 90, 101, 101]",gradual,"[3238, 3632]"
+577,log_410_1708942771.xes,drift_3,gradual,change_info_1,"[152, 152, 165, 165]",gradual,"[5438, 5915]"
+578,log_412_1708942780.xes,drift_1,sudden,change_info_1,"[63, 63, 63, 63]",sudden,[1241]
+579,log_412_1708942780.xes,drift_2,gradual,change_info_1,"[132, 132, 156, 156]",gradual,"[2621, 3111]"
+580,log_413_1708942784.xes,drift_1,sudden,change_info_1,"[97, 97, 97, 97]",sudden,[1647]
+581,log_414_1708942791.xes,drift_1,sudden,change_info_1,"[61, 61, 61, 61]",sudden,[1446]
+582,log_414_1708942791.xes,drift_2,sudden,change_info_1,"[129, 129, 129, 129]",sudden,[3077]
+583,log_415_1708942799.xes,drift_1,sudden,change_info_1,"[60, 60, 60, 60]",sudden,[1858]
+584,log_415_1708942799.xes,drift_2,sudden,change_info_1,"[107, 107, 107, 107]",sudden,[3288]
+585,log_415_1708942799.xes,drift_3,sudden,change_info_1,"[154, 154, 154, 154]",sudden,[4760]
+586,log_416_1708942813.xes,drift_1,gradual,change_info_1,"[87, 87, 119, 119]",gradual,"[1214, 1665]"
+587,log_417_1708942732.xes,drift_1,gradual,change_info_1,"[74, 74, 88, 88]",gradual,"[1921, 2270]"
+588,log_417_1708942732.xes,drift_2,gradual,change_info_1,"[138, 138, 154, 154]",gradual,"[3574, 3995]"
+589,log_419_1708942747.xes,drift_1,sudden,change_info_1,"[46, 46, 46, 46]",sudden,[1331]
+590,log_419_1708942747.xes,drift_2,sudden,change_info_1,"[97, 97, 97, 97]",sudden,[2785]
+591,log_419_1708942747.xes,drift_3,gradual,change_info_1,"[143, 143, 162, 162]",gradual,"[4140, 4677]"
+592,log_420_1708942755.xes,drift_1,sudden,change_info_1,"[50, 50, 50, 50]",sudden,[1721]
+593,log_420_1708942755.xes,drift_2,gradual,change_info_1,"[94, 94, 107, 107]",gradual,"[3288, 3743]"
+594,log_420_1708942755.xes,drift_3,sudden,change_info_1,"[149, 149, 149, 149]",sudden,[5203]
+595,log_421_1708942764.xes,drift_1,gradual,change_info_1,"[55, 55, 65, 65]",gradual,"[1799, 2125]"
+596,log_421_1708942764.xes,drift_2,sudden,change_info_1,"[101, 101, 101, 101]",sudden,[3332]
+597,log_421_1708942764.xes,drift_3,gradual,change_info_1,"[148, 148, 158, 158]",gradual,"[4852, 5202]"
+598,log_422_1708942784.xes,drift_1,gradual,change_info_1,"[107, 107, 130, 130]",gradual,"[1811, 2202]"
+599,log_423_1708942788.xes,drift_1,sudden,change_info_1,"[120, 120, 120, 120]",sudden,[1789]
+600,log_424_1708942792.xes,drift_1,gradual,change_info_1,"[101, 101, 119, 119]",gradual,"[1809, 2137]"
+601,log_425_1708942797.xes,drift_1,sudden,change_info_1,"[60, 60, 60, 60]",sudden,[1185]
+602,log_425_1708942797.xes,drift_2,sudden,change_info_1,"[114, 114, 114, 114]",sudden,[2267]
+603,log_427_1708942804.xes,drift_1,gradual,change_info_1,"[54, 54, 67, 67]",gradual,"[1909, 2390]"
+604,log_427_1708942804.xes,drift_2,sudden,change_info_1,"[118, 118, 118, 118]",sudden,[4223]
+605,log_427_1708942804.xes,drift_3,sudden,change_info_1,"[164, 164, 164, 164]",sudden,[5882]
+606,log_428_1708942817.xes,drift_1,gradual,change_info_1,"[43, 43, 58, 58]",gradual,"[1567, 2110]"
+607,log_428_1708942817.xes,drift_2,sudden,change_info_1,"[109, 109, 109, 109]",sudden,[4031]
+608,log_428_1708942817.xes,drift_3,sudden,change_info_1,"[150, 150, 150, 150]",sudden,[5535]
+609,log_429_1708942828.xes,drift_1,gradual,change_info_1,"[59, 59, 82, 82]",gradual,"[1393, 1959]"
+610,log_429_1708942828.xes,drift_2,gradual,change_info_1,"[135, 135, 151, 151]",gradual,"[3222, 3610]"
+611,log_430_1708942742.xes,drift_1,gradual,change_info_1,"[39, 39, 50, 50]",gradual,"[1220, 1575]"
+612,log_430_1708942742.xes,drift_2,sudden,change_info_1,"[96, 96, 96, 96]",sudden,[3047]
+613,log_430_1708942742.xes,drift_3,gradual,change_info_1,"[137, 137, 148, 148]",gradual,"[4375, 4706]"
+614,log_431_1708942750.xes,drift_1,gradual,change_info_1,"[62, 62, 83, 83]",gradual,"[1478, 1971]"
+615,log_431_1708942750.xes,drift_2,gradual,change_info_1,"[145, 145, 162, 162]",gradual,"[3461, 3881]"
+616,log_432_1708942757.xes,drift_1,sudden,change_info_1,"[63, 63, 63, 63]",sudden,[1874]
+617,log_432_1708942757.xes,drift_2,sudden,change_info_1,"[99, 99, 99, 99]",sudden,[2949]
+618,log_432_1708942757.xes,drift_3,sudden,change_info_1,"[143, 143, 143, 143]",sudden,[4285]
+619,log_433_1708942770.xes,drift_1,sudden,change_info_1,"[105, 105, 105, 105]",sudden,[1252]
+620,log_434_1708942773.xes,drift_1,gradual,change_info_1,"[62, 62, 87, 87]",gradual,"[1363, 1912]"
+621,log_434_1708942773.xes,drift_2,gradual,change_info_1,"[134, 134, 157, 157]",gradual,"[2946, 3441]"
+622,log_435_1708942783.xes,drift_1,gradual,change_info_1,"[48, 48, 60, 60]",gradual,"[1803, 2271]"
+623,log_435_1708942783.xes,drift_2,sudden,change_info_1,"[107, 107, 107, 107]",sudden,[4040]
+624,log_435_1708942783.xes,drift_3,gradual,change_info_1,"[153, 153, 163, 163]",gradual,"[5794, 6177]"
+625,log_436_1708942790.xes,drift_1,gradual,change_info_1,"[35, 35, 50, 50]",gradual,"[1220, 1728]"
+626,log_436_1708942790.xes,drift_2,sudden,change_info_1,"[82, 82, 82, 82]",sudden,[2844]
+627,log_436_1708942790.xes,drift_3,gradual,change_info_1,"[139, 139, 149, 149]",gradual,"[4831, 5198]"
+628,log_437_1708942800.xes,drift_1,gradual,change_info_1,"[93, 93, 112, 112]",gradual,"[1757, 2110]"
+629,log_438_1708942820.xes,drift_1,gradual,change_info_1,"[55, 55, 69, 69]",gradual,"[1684, 2116]"
+630,log_438_1708942820.xes,drift_2,gradual,change_info_1,"[108, 108, 123, 123]",gradual,"[3320, 3794]"
+631,log_438_1708942820.xes,drift_3,sudden,change_info_1,"[164, 164, 164, 164]",sudden,[5075]
+632,log_439_1708942835.xes,drift_1,gradual,change_info_1,"[85, 85, 84, 84]",gradual,"[1176, 1738]"
+633,log_441_1708942840.xes,drift_1,sudden,change_info_1,"[108, 108, 108, 108]",sudden,[1501]
+634,log_442_1708942845.xes,drift_1,sudden,change_info_1,"[52, 52, 52, 52]",sudden,[1238]
+635,log_442_1708942845.xes,drift_2,gradual,change_info_1,"[102, 102, 125, 125]",gradual,"[2433, 2982]"
+636,log_443_1708942742.xes,drift_1,sudden,change_info_1,"[85, 85, 85, 85]",sudden,[1348]
+637,log_445_1708942748.xes,drift_1,gradual,change_info_1,"[32, 32, 49, 49]",gradual,"[1034, 1610]"
+638,log_445_1708942748.xes,drift_2,gradual,change_info_1,"[90, 90, 107, 107]",gradual,"[2969, 3512]"
+639,log_445_1708942748.xes,drift_3,gradual,change_info_1,"[138, 138, 152, 152]",gradual,"[4538, 5016]"
+640,log_447_1708942767.xes,drift_1,sudden,change_info_1,"[72, 72, 72, 72]",sudden,[1508]
+641,log_447_1708942767.xes,drift_2,sudden,change_info_1,"[147, 147, 147, 147]",sudden,[3080]
+642,log_448_1708942772.xes,drift_1,gradual,change_info_1,"[74, 74, 102, 102]",gradual,"[1102, 1521]"
+643,log_449_1708942776.xes,drift_1,sudden,change_info_1,"[108, 108, 108, 108]",sudden,[1503]
+644,log_451_1708942782.xes,drift_1,sudden,change_info_1,"[49, 49, 49, 49]",sudden,[1172]
+645,log_451_1708942782.xes,drift_2,gradual,change_info_1,"[126, 126, 139, 139]",gradual,"[3013, 3321]"
+646,log_452_1708942793.xes,drift_1,sudden,change_info_1,"[61, 61, 61, 61]",sudden,[1263]
+647,log_452_1708942793.xes,drift_2,gradual,change_info_1,"[131, 131, 154, 154]",gradual,"[2748, 3232]"
+648,log_453_1708942796.xes,drift_1,gradual,change_info_1,"[96, 96, 120, 120]",gradual,"[1820, 2277]"
+649,log_454_1708942807.xes,drift_1,sudden,change_info_1,"[67, 67, 67, 67]",sudden,[1598]
+650,log_454_1708942807.xes,drift_2,gradual,change_info_1,"[113, 113, 131, 131]",gradual,"[2709, 3127]"
+651,log_455_1708942813.xes,drift_1,sudden,change_info_1,"[86, 86, 86, 86]",sudden,[1720]
+652,log_455_1708942813.xes,drift_2,gradual,change_info_1,"[140, 140, 155, 155]",gradual,"[2781, 3099]"
+653,log_456_1708942751.xes,drift_1,gradual,change_info_1,"[49, 49, 68, 68]",gradual,"[1074, 1491]"
+654,log_456_1708942751.xes,drift_2,gradual,change_info_1,"[125, 125, 148, 148]",gradual,"[2743, 3256]"
+655,log_459_1708942769.xes,drift_1,gradual,change_info_1,"[52, 52, 66, 66]",gradual,"[1534, 1970]"
+656,log_459_1708942769.xes,drift_2,sudden,change_info_1,"[108, 108, 108, 108]",sudden,[3218]
+657,log_459_1708942769.xes,drift_3,sudden,change_info_1,"[157, 157, 157, 157]",sudden,[4706]
+658,log_460_1708942774.xes,drift_1,sudden,change_info_1,"[37, 37, 37, 37]",sudden,[1135]
+659,log_460_1708942774.xes,drift_2,sudden,change_info_1,"[99, 99, 99, 99]",sudden,[3056]
+660,log_460_1708942774.xes,drift_3,sudden,change_info_1,"[137, 137, 137, 137]",sudden,[4245]
+661,log_461_1708942778.xes,drift_1,sudden,change_info_1,"[130, 130, 130, 130]",sudden,[1807]
+662,log_462_1708942782.xes,drift_1,gradual,change_info_1,"[50, 50, 65, 65]",gradual,"[1782, 2322]"
+663,log_462_1708942782.xes,drift_2,sudden,change_info_1,"[116, 116, 116, 116]",sudden,[4155]
+664,log_462_1708942782.xes,drift_3,sudden,change_info_1,"[161, 161, 161, 161]",sudden,[5789]
+665,log_463_1708942790.xes,drift_1,gradual,change_info_1,"[56, 56, 80, 80]",gradual,"[1330, 1902]"
+666,log_463_1708942790.xes,drift_2,gradual,change_info_1,"[134, 134, 148, 148]",gradual,"[3210, 3552]"
+667,log_464_1708942805.xes,drift_1,sudden,change_info_1,"[41, 41, 41, 41]",sudden,[1126]
+668,log_464_1708942805.xes,drift_2,sudden,change_info_1,"[90, 90, 90, 90]",sudden,[2507]
+669,log_464_1708942805.xes,drift_3,gradual,change_info_1,"[137, 137, 158, 158]",gradual,"[3829, 4400]"
+670,log_466_1708942814.xes,drift_1,sudden,change_info_1,"[74, 74, 74, 74]",sudden,[1692]
+671,log_466_1708942814.xes,drift_2,gradual,change_info_1,"[128, 128, 154, 154]",gradual,"[2924, 3521]"
+672,log_467_1708942825.xes,drift_1,gradual,change_info_1,"[44, 44, 62, 62]",gradual,"[1492, 2079]"
+673,log_467_1708942825.xes,drift_2,sudden,change_info_1,"[97, 97, 97, 97]",sudden,[3285]
+674,log_467_1708942825.xes,drift_3,gradual,change_info_1,"[151, 151, 164, 164]",gradual,"[5111, 5569]"
+675,log_468_1708942834.xes,drift_1,gradual,change_info_1,"[45, 45, 66, 66]",gradual,"[1065, 1562]"
+676,log_468_1708942834.xes,drift_2,sudden,change_info_1,"[128, 128, 128, 128]",sudden,[3071]
+677,log_469_1708942752.xes,drift_1,gradual,change_info_1,"[58, 58, 79, 79]",gradual,"[1313, 1810]"
+678,log_469_1708942752.xes,drift_2,gradual,change_info_1,"[129, 129, 143, 143]",gradual,"[2950, 3279]"
+679,log_470_1708942755.xes,drift_1,gradual,change_info_1,"[40, 40, 52, 52]",gradual,"[1020, 1327]"
+680,log_470_1708942755.xes,drift_2,gradual,change_info_1,"[125, 125, 144, 144]",gradual,"[3226, 3724]"
+681,log_471_1708942773.xes,drift_1,sudden,change_info_1,"[78, 78, 78, 78]",sudden,[1004]
+682,log_472_1708942776.xes,drift_1,sudden,change_info_1,"[47, 47, 47, 47]",sudden,[1392]
+683,log_472_1708942776.xes,drift_2,sudden,change_info_1,"[90, 90, 90, 90]",sudden,[2673]
+684,log_472_1708942776.xes,drift_3,gradual,change_info_1,"[139, 139, 149, 149]",gradual,"[4163, 4464]"
+685,log_473_1708942782.xes,drift_1,gradual,change_info_1,"[41, 41, 40, 40]",gradual,"[1040, 1563]"
+686,log_473_1708942782.xes,drift_2,gradual,change_info_1,"[134, 134, 149, 149]",gradual,"[3462, 3856]"
+687,log_474_1708942786.xes,drift_1,sudden,change_info_1,"[111, 111, 111, 111]",sudden,[1110]
+688,log_475_1708942791.xes,drift_1,gradual,change_info_1,"[100, 100, 123, 123]",gradual,"[1791, 2201]"
+689,log_476_1708942793.xes,drift_1,sudden,change_info_1,"[104, 104, 104, 104]",sudden,[1759]
+690,log_478_1708942804.xes,drift_1,gradual,change_info_1,"[57, 57, 71, 71]",gradual,"[1798, 2267]"
+691,log_478_1708942804.xes,drift_2,gradual,change_info_1,"[110, 110, 109, 109]",gradual,"[3488, 3865]"
+692,log_478_1708942804.xes,drift_3,sudden,change_info_1,"[155, 155, 155, 155]",sudden,[4942]
+693,log_479_1708942808.xes,drift_1,sudden,change_info_1,"[76, 76, 76, 76]",sudden,[1430]
+694,log_479_1708942808.xes,drift_2,sudden,change_info_1,"[142, 142, 142, 142]",sudden,[2692]
+695,log_480_1708942814.xes,drift_1,gradual,change_info_1,"[50, 50, 60, 60]",gradual,"[1698, 2033]"
+696,log_480_1708942814.xes,drift_2,gradual,change_info_1,"[90, 90, 104, 104]",gradual,"[3059, 3532]"
+697,log_480_1708942814.xes,drift_3,sudden,change_info_1,"[150, 150, 150, 150]",sudden,[5090]
+698,log_481_1708942828.xes,drift_1,sudden,change_info_1,"[52, 52, 52, 52]",sudden,[1383]
+699,log_481_1708942828.xes,drift_2,sudden,change_info_1,"[89, 89, 89, 89]",sudden,[2384]
+700,log_481_1708942828.xes,drift_3,gradual,change_info_1,"[143, 143, 162, 162]",gradual,"[3856, 4365]"
+701,log_482_1708942754.xes,drift_1,sudden,change_info_1,"[118, 118, 118, 118]",sudden,[1873]
+702,log_483_1708942758.xes,drift_1,sudden,change_info_1,"[79, 79, 79, 79]",sudden,[1973]
+703,log_483_1708942758.xes,drift_2,sudden,change_info_1,"[136, 136, 136, 136]",sudden,[3397]
+704,log_484_1708942767.xes,drift_1,sudden,change_info_1,"[63, 63, 63, 63]",sudden,[1890]
+705,log_484_1708942767.xes,drift_2,gradual,change_info_1,"[129, 129, 141, 141]",gradual,"[3851, 4209]"
+706,log_485_1708942773.xes,drift_1,sudden,change_info_1,"[127, 127, 127, 127]",sudden,[1643]
+707,log_488_1708942781.xes,drift_1,sudden,change_info_1,"[93, 93, 93, 93]",sudden,[1200]
+708,log_490_1708942785.xes,drift_1,sudden,change_info_1,"[132, 132, 132, 132]",sudden,[1980]
+709,log_491_1708942790.xes,drift_1,gradual,change_info_1,"[32, 32, 43, 43]",gradual,"[1029, 1403]"
+710,log_491_1708942790.xes,drift_2,gradual,change_info_1,"[85, 85, 102, 102]",gradual,"[2798, 3359]"
+711,log_491_1708942790.xes,drift_3,sudden,change_info_1,"[158, 158, 158, 158]",sudden,[5207]
+712,log_493_1708942807.xes,drift_1,gradual,change_info_1,"[82, 82, 110, 110]",gradual,"[1063, 1418]"
+713,log_494_1708942810.xes,drift_1,sudden,change_info_1,"[82, 82, 82, 82]",sudden,[1636]
+714,log_494_1708942810.xes,drift_2,sudden,change_info_1,"[136, 136, 136, 136]",sudden,[2701]
+715,log_495_1708942755.xes,drift_1,gradual,change_info_1,"[52, 52, 69, 69]",gradual,"[1086, 1438]"
+716,log_495_1708942755.xes,drift_2,gradual,change_info_1,"[119, 119, 134, 134]",gradual,"[2491, 2808]"
+717,log_496_1708942765.xes,drift_1,gradual,change_info_1,"[39, 39, 50, 50]",gradual,"[1439, 1841]"
+718,log_496_1708942765.xes,drift_2,gradual,change_info_1,"[86, 86, 101, 101]",gradual,"[3148, 3732]"
+719,log_496_1708942765.xes,drift_3,gradual,change_info_1,"[142, 142, 154, 154]",gradual,"[5233, 5693]"
+720,log_497_1708942777.xes,drift_1,gradual,change_info_1,"[102, 102, 127, 127]",gradual,"[1823, 2286]"
+721,log_499_1708942781.xes,drift_1,sudden,change_info_1,"[120, 120, 120, 120]",sudden,[1437]
+722,log_500_1708942783.xes,drift_1,sudden,change_info_1,"[121, 121, 121, 121]",sudden,[1450]
+723,log_501_1708942789.xes,drift_1,gradual,change_info_1,"[81, 81, 112, 112]",gradual,"[1375, 1899]"
+724,log_502_1708942794.xes,drift_1,gradual,change_info_1,"[96, 96, 122, 122]",gradual,"[2000, 2556]"
+725,log_504_1708942805.xes,drift_1,gradual,change_info_1,"[53, 53, 72, 72]",gradual,"[1409, 1933]"
+726,log_504_1708942805.xes,drift_2,gradual,change_info_1,"[120, 120, 141, 141]",gradual,"[3236, 3802]"
+727,log_506_1708942825.xes,drift_1,gradual,change_info_1,"[38, 38, 50, 50]",gradual,"[1203, 1594]"
+728,log_506_1708942825.xes,drift_2,sudden,change_info_1,"[107, 107, 107, 107]",sudden,[3412]
+729,log_506_1708942825.xes,drift_3,gradual,change_info_1,"[160, 160, 170, 170]",gradual,"[5102, 5416]"
+730,log_507_1708942834.xes,drift_1,gradual,change_info_1,"[76, 76, 104, 104]",gradual,"[1435, 1963]"
+731,log_508_1708942756.xes,drift_1,sudden,change_info_1,"[120, 120, 120, 120]",sudden,[1674]
+732,log_509_1708942763.xes,drift_1,sudden,change_info_1,"[109, 109, 109, 109]",sudden,[1623]
+733,log_512_1708942771.xes,drift_1,sudden,change_info_1,"[43, 43, 43, 43]",sudden,[1192]
+734,log_512_1708942771.xes,drift_2,sudden,change_info_1,"[82, 82, 82, 82]",sudden,[2284]
+735,log_512_1708942771.xes,drift_3,gradual,change_info_1,"[145, 145, 161, 161]",gradual,"[4036, 4499]"
+736,log_514_1708942784.xes,drift_1,gradual,change_info_1,"[46, 46, 55, 55]",gradual,"[1862, 2237]"
+737,log_514_1708942784.xes,drift_2,gradual,change_info_1,"[103, 103, 114, 114]",gradual,"[4187, 4670]"
+738,log_514_1708942784.xes,drift_3,gradual,change_info_1,"[147, 147, 159, 159]",gradual,"[6014, 6485]"
+739,log_515_1708942791.xes,drift_1,sudden,change_info_1,"[103, 103, 103, 103]",sudden,[1225]
+740,log_516_1708942794.xes,drift_1,sudden,change_info_1,"[50, 50, 50, 50]",sudden,[1696]
+741,log_516_1708942794.xes,drift_2,sudden,change_info_1,"[107, 107, 107, 107]",sudden,[3631]
+742,log_516_1708942794.xes,drift_3,sudden,change_info_1,"[156, 156, 156, 156]",sudden,[5281]
+743,log_517_1708942828.xes,drift_1,gradual,change_info_1,"[39, 39, 54, 54]",gradual,"[1402, 1910]"
+744,log_517_1708942828.xes,drift_2,sudden,change_info_1,"[108, 108, 108, 108]",sudden,[3855]
+745,log_517_1708942828.xes,drift_3,gradual,change_info_1,"[154, 154, 170, 170]",gradual,"[5543, 6114]"
+746,log_518_1708942839.xes,drift_1,gradual,change_info_1,"[103, 103, 125, 125]",gradual,"[1433, 1747]"
+747,log_519_1708942846.xes,drift_1,gradual,change_info_1,"[63, 63, 80, 80]",gradual,"[1382, 1750]"
+748,log_519_1708942846.xes,drift_2,sudden,change_info_1,"[129, 129, 129, 129]",sudden,[2833]
+749,log_522_1708942763.xes,drift_1,gradual,change_info_1,"[104, 104, 135, 135]",gradual,"[1551, 2016]"
+750,log_523_1708942769.xes,drift_1,sudden,change_info_1,"[119, 119, 119, 119]",sudden,[1774]
+751,log_524_1708942774.xes,drift_1,gradual,change_info_1,"[105, 105, 133, 133]",gradual,"[1678, 2114]"
+752,log_525_1708942777.xes,drift_1,sudden,change_info_1,"[101, 101, 101, 101]",sudden,[1412]
+753,log_526_1708942780.xes,drift_1,gradual,change_info_1,"[47, 47, 58, 58]",gradual,"[1867, 2302]"
+754,log_526_1708942780.xes,drift_2,gradual,change_info_1,"[101, 101, 115, 115]",gradual,"[4005, 4565]"
+755,log_526_1708942780.xes,drift_3,sudden,change_info_1,"[162, 162, 162, 162]",sudden,[6444]
+756,log_528_1708942794.xes,drift_1,sudden,change_info_1,"[83, 83, 83, 83]",sudden,[1905]
+757,log_528_1708942794.xes,drift_2,sudden,change_info_1,"[150, 150, 150, 150]",sudden,[3443]
+758,log_529_1708942807.xes,drift_1,gradual,change_info_1,"[59, 59, 76, 76]",gradual,"[1533, 1959]"
+759,log_529_1708942807.xes,drift_2,gradual,change_info_1,"[134, 134, 156, 156]",gradual,"[3469, 4033]"
+760,log_530_1708942813.xes,drift_1,sudden,change_info_1,"[56, 56, 56, 56]",sudden,[1057]
+761,log_530_1708942813.xes,drift_2,sudden,change_info_1,"[142, 142, 142, 142]",sudden,[2685]
+762,log_531_1708942819.xes,drift_1,sudden,change_info_1,"[56, 56, 56, 56]",sudden,[1724]
+763,log_531_1708942819.xes,drift_2,gradual,change_info_1,"[100, 100, 111, 111]",gradual,"[3075, 3420]"
+764,log_531_1708942819.xes,drift_3,sudden,change_info_1,"[167, 167, 167, 167]",sudden,[5149]
+765,log_533_1708942830.xes,drift_1,sudden,change_info_1,"[120, 120, 120, 120]",sudden,[1788]
+766,log_534_1708942763.xes,drift_1,gradual,change_info_1,"[40, 40, 52, 52]",gradual,"[1176, 1539]"
+767,log_534_1708942763.xes,drift_2,gradual,change_info_1,"[99, 99, 109, 109]",gradual,"[2951, 3266]"
+768,log_534_1708942763.xes,drift_3,gradual,change_info_1,"[147, 147, 165, 165]",gradual,"[4401, 4921]"
+769,log_535_1708942769.xes,drift_1,gradual,change_info_1,"[55, 55, 69, 69]",gradual,"[1956, 2467]"
+770,log_535_1708942769.xes,drift_2,gradual,change_info_1,"[124, 124, 136, 136]",gradual,"[4454, 4894]"
+771,log_535_1708942769.xes,drift_3,sudden,change_info_1,"[166, 166, 166, 166]",sudden,[5942]
+772,log_536_1708942779.xes,drift_1,gradual,change_info_1,"[97, 97, 117, 117]",gradual,"[1539, 1861]"
+773,log_537_1708942786.xes,drift_1,gradual,change_info_1,"[105, 105, 131, 131]",gradual,"[1569, 1963]"
+774,log_538_1708942789.xes,drift_1,gradual,change_info_1,"[83, 83, 114, 114]",gradual,"[1319, 1821]"
+775,log_539_1708942793.xes,drift_1,sudden,change_info_1,"[103, 103, 103, 103]",sudden,[1531]
+776,log_540_1708942802.xes,drift_1,gradual,change_info_1,"[87, 87, 123, 123]",gradual,"[1038, 1469]"
+777,log_542_1708942811.xes,drift_1,gradual,change_info_1,"[37, 37, 53, 53]",gradual,"[1315, 1890]"
+778,log_542_1708942811.xes,drift_2,sudden,change_info_1,"[106, 106, 106, 106]",sudden,[3789]
+779,log_542_1708942811.xes,drift_3,sudden,change_info_1,"[152, 152, 152, 152]",sudden,[5451]
+780,log_543_1708942836.xes,drift_1,sudden,change_info_1,"[61, 61, 61, 61]",sudden,[1271]
+781,log_543_1708942836.xes,drift_2,sudden,change_info_1,"[124, 124, 124, 124]",sudden,[2602]
+782,log_544_1708942840.xes,drift_1,gradual,change_info_1,"[50, 50, 65, 65]",gradual,"[1392, 1814]"
+783,log_544_1708942840.xes,drift_2,sudden,change_info_1,"[134, 134, 134, 134]",sudden,[3750]
+784,log_545_1708942847.xes,drift_1,gradual,change_info_1,"[62, 62, 75, 75]",gradual,"[1921, 2313]"
+785,log_545_1708942847.xes,drift_2,sudden,change_info_1,"[118, 118, 118, 118]",sudden,[3649]
+786,log_545_1708942847.xes,drift_3,gradual,change_info_1,"[157, 157, 171, 171]",gradual,"[4844, 5280]"
+787,log_547_1708942764.xes,drift_1,sudden,change_info_1,"[52, 52, 52, 52]",sudden,[1965]
+788,log_547_1708942764.xes,drift_2,gradual,change_info_1,"[93, 93, 108, 108]",gradual,"[3503, 4096]"
+789,log_547_1708942764.xes,drift_3,sudden,change_info_1,"[152, 152, 152, 152]",sudden,[5775]
+790,log_549_1708942781.xes,drift_1,gradual,change_info_1,"[110, 110, 138, 138]",gradual,"[1973, 2483]"
+791,log_550_1708942784.xes,drift_1,gradual,change_info_1,"[52, 52, 70, 70]",gradual,"[1592, 2152]"
+792,log_550_1708942784.xes,drift_2,gradual,change_info_1,"[104, 104, 119, 119]",gradual,"[3208, 3673]"
+793,log_550_1708942784.xes,drift_3,gradual,change_info_1,"[155, 155, 169, 169]",gradual,"[4794, 5210]"
+794,log_552_1708942794.xes,drift_1,sudden,change_info_1,"[59, 59, 59, 59]",sudden,[1917]
+795,log_552_1708942794.xes,drift_2,sudden,change_info_1,"[92, 92, 92, 92]",sudden,[3033]
+796,log_552_1708942794.xes,drift_3,gradual,change_info_1,"[149, 149, 159, 159]",gradual,"[4889, 5237]"
+797,log_553_1708942803.xes,drift_1,sudden,change_info_1,"[74, 74, 74, 74]",sudden,[1101]
+798,log_554_1708942805.xes,drift_1,sudden,change_info_1,"[74, 74, 74, 74]",sudden,[1694]
+799,log_554_1708942805.xes,drift_2,sudden,change_info_1,"[124, 124, 124, 124]",sudden,[2830]
+800,log_555_1708942812.xes,drift_1,gradual,change_info_1,"[100, 100, 123, 123]",gradual,"[1498, 1835]"
+801,log_556_1708942819.xes,drift_1,gradual,change_info_1,"[101, 101, 122, 122]",gradual,"[1803, 2183]"
+802,log_557_1708942821.xes,drift_1,sudden,change_info_1,"[83, 83, 83, 83]",sudden,[1726]
+803,log_557_1708942821.xes,drift_2,sudden,change_info_1,"[136, 136, 136, 136]",sudden,[2846]
+804,log_558_1708942825.xes,drift_1,sudden,change_info_1,"[75, 75, 75, 75]",sudden,[1038]
+805,log_559_1708942828.xes,drift_1,sudden,change_info_1,"[37, 37, 37, 37]",sudden,[1342]
+806,log_559_1708942828.xes,drift_2,gradual,change_info_1,"[83, 83, 99, 99]",gradual,"[3049, 3649]"
+807,log_559_1708942828.xes,drift_3,gradual,change_info_1,"[150, 150, 159, 159]",gradual,"[5537, 5860]"
+808,log_560_1708942764.xes,drift_1,gradual,change_info_1,"[60, 60, 74, 74]",gradual,"[1976, 2414]"
+809,log_560_1708942764.xes,drift_2,sudden,change_info_1,"[112, 112, 112, 112]",sudden,[3681]
+810,log_560_1708942764.xes,drift_3,sudden,change_info_1,"[147, 147, 147, 147]",sudden,[4839]
+811,log_561_1708942774.xes,drift_1,gradual,change_info_1,"[59, 59, 70, 70]",gradual,"[1639, 1939]"
+812,log_561_1708942774.xes,drift_2,gradual,change_info_1,"[132, 132, 149, 149]",gradual,"[3687, 4162]"
+813,log_562_1708942786.xes,drift_1,sudden,change_info_1,"[80, 80, 80, 80]",sudden,[1667]
+814,log_562_1708942786.xes,drift_2,sudden,change_info_1,"[148, 148, 148, 148]",sudden,[3088]
+815,log_563_1708942789.xes,drift_1,gradual,change_info_1,"[34, 34, 47, 47]",gradual,"[1037, 1430]"
+816,log_563_1708942789.xes,drift_2,sudden,change_info_1,"[91, 91, 91, 91]",sudden,[2812]
+817,log_563_1708942789.xes,drift_3,gradual,change_info_1,"[128, 128, 141, 141]",gradual,"[3959, 4364]"
+818,log_564_1708942799.xes,drift_1,sudden,change_info_1,"[56, 56, 56, 56]",sudden,[1338]
+819,log_564_1708942799.xes,drift_2,sudden,change_info_1,"[130, 130, 130, 130]",sudden,[3098]
+820,log_565_1708942811.xes,drift_1,gradual,change_info_1,"[65, 65, 83, 83]",gradual,"[1352, 1743]"
+821,log_565_1708942811.xes,drift_2,sudden,change_info_1,"[152, 152, 152, 152]",sudden,[3182]
+822,log_566_1708942816.xes,drift_1,sudden,change_info_1,"[99, 99, 99, 99]",sudden,[1087]
+823,log_567_1708942821.xes,drift_1,sudden,change_info_1,"[47, 47, 47, 47]",sudden,[1312]
+824,log_567_1708942821.xes,drift_2,gradual,change_info_1,"[100, 100, 111, 111]",gradual,"[2787, 3087]"
+825,log_567_1708942821.xes,drift_3,sudden,change_info_1,"[168, 168, 168, 168]",sudden,[4685]
+826,log_568_1708942829.xes,drift_1,sudden,change_info_1,"[103, 103, 103, 103]",sudden,[1022]
+827,log_569_1708942830.xes,drift_1,gradual,change_info_1,"[42, 42, 41, 41]",gradual,"[1517, 2029]"
+828,log_569_1708942830.xes,drift_2,gradual,change_info_1,"[96, 96, 107, 107]",gradual,"[3527, 3954]"
+829,log_569_1708942830.xes,drift_3,gradual,change_info_1,"[149, 149, 159, 159]",gradual,"[5507, 5878]"
+830,log_570_1708942839.xes,drift_1,gradual,change_info_1,"[47, 47, 67, 67]",gradual,"[1350, 1932]"
+831,log_570_1708942839.xes,drift_2,gradual,change_info_1,"[108, 108, 120, 120]",gradual,"[3112, 3478]"
+832,log_570_1708942839.xes,drift_3,sudden,change_info_1,"[163, 163, 163, 163]",sudden,[4707]
+833,log_572_1708942852.xes,drift_1,sudden,change_info_1,"[77, 77, 77, 77]",sudden,[1763]
+834,log_572_1708942852.xes,drift_2,gradual,change_info_1,"[137, 137, 162, 162]",gradual,"[3148, 3707]"
+835,log_573_1708942772.xes,drift_1,gradual,change_info_1,"[47, 47, 61, 61]",gradual,"[1122, 1455]"
+836,log_573_1708942772.xes,drift_2,gradual,change_info_1,"[105, 105, 123, 123]",gradual,"[2514, 2941]"
+837,log_576_1708942789.xes,drift_1,sudden,change_info_1,"[51, 51, 51, 51]",sudden,[1728]
+838,log_576_1708942789.xes,drift_2,sudden,change_info_1,"[95, 95, 95, 95]",sudden,[3228]
+839,log_576_1708942789.xes,drift_3,sudden,change_info_1,"[152, 152, 152, 152]",sudden,[5136]
+840,log_577_1708942796.xes,drift_1,sudden,change_info_1,"[69, 69, 69, 69]",sudden,[1518]
+841,log_577_1708942796.xes,drift_2,sudden,change_info_1,"[153, 153, 153, 153]",sudden,[3347]
+842,log_578_1708942799.xes,drift_1,sudden,change_info_1,"[63, 63, 63, 63]",sudden,[1818]
+843,log_578_1708942799.xes,drift_2,gradual,change_info_1,"[130, 130, 145, 145]",gradual,"[3767, 4183]"
+844,log_579_1708942811.xes,drift_1,gradual,change_info_1,"[48, 48, 59, 59]",gradual,"[1478, 1799]"
+845,log_579_1708942811.xes,drift_2,gradual,change_info_1,"[96, 96, 114, 114]",gradual,"[2962, 3529]"
+846,log_579_1708942811.xes,drift_3,gradual,change_info_1,"[151, 151, 168, 168]",gradual,"[4662, 5192]"
+847,log_580_1708942833.xes,drift_1,gradual,change_info_1,"[44, 44, 56, 56]",gradual,"[1345, 1721]"
+848,log_580_1708942833.xes,drift_2,gradual,change_info_1,"[113, 113, 129, 129]",gradual,"[3497, 3975]"
+849,log_580_1708942833.xes,drift_3,sudden,change_info_1,"[168, 168, 168, 168]",sudden,[5204]
+850,log_581_1708942841.xes,drift_1,sudden,change_info_1,"[69, 69, 69, 69]",sudden,[1711]
+851,log_581_1708942841.xes,drift_2,sudden,change_info_1,"[126, 126, 126, 126]",sudden,[3132]
+852,log_582_1708942849.xes,drift_1,gradual,change_info_1,"[83, 83, 111, 111]",gradual,"[1737, 2320]"
+853,log_583_1708942854.xes,drift_1,gradual,change_info_1,"[45, 45, 58, 58]",gradual,"[1199, 1551]"
+854,log_583_1708942854.xes,drift_2,sudden,change_info_1,"[108, 108, 108, 108]",sudden,[2907]
+855,log_583_1708942854.xes,drift_3,sudden,change_info_1,"[163, 163, 163, 163]",sudden,[4382]
+856,log_584_1708942864.xes,drift_1,gradual,change_info_1,"[109, 109, 146, 146]",gradual,"[1633, 2181]"
+857,log_585_1708942873.xes,drift_1,gradual,change_info_1,"[40, 40, 53, 53]",gradual,"[1290, 1743]"
+858,log_585_1708942873.xes,drift_2,sudden,change_info_1,"[110, 110, 110, 110]",sudden,[3609]
+859,log_585_1708942873.xes,drift_3,sudden,change_info_1,"[165, 165, 165, 165]",sudden,[5420]
+860,log_586_1708942774.xes,drift_1,sudden,change_info_1,"[74, 74, 74, 74]",sudden,[1470]
+861,log_586_1708942774.xes,drift_2,sudden,change_info_1,"[130, 130, 130, 130]",sudden,[2595]
+862,log_587_1708942781.xes,drift_1,sudden,change_info_1,"[63, 63, 63, 63]",sudden,[1436]
+863,log_587_1708942781.xes,drift_2,gradual,change_info_1,"[109, 109, 134, 134]",gradual,"[2503, 3076]"
+864,log_589_1708942786.xes,drift_1,sudden,change_info_1,"[51, 51, 51, 51]",sudden,[1261]
+865,log_589_1708942786.xes,drift_2,gradual,change_info_1,"[101, 101, 115, 115]",gradual,"[2523, 2852]"
+866,log_589_1708942786.xes,drift_3,sudden,change_info_1,"[155, 155, 155, 155]",sudden,[3856]
+867,log_590_1708942789.xes,drift_1,gradual,change_info_1,"[92, 92, 91, 91]",gradual,"[1092, 1438]"
+868,log_591_1708942793.xes,drift_1,gradual,change_info_1,"[83, 83, 106, 106]",gradual,"[1401, 1795]"
+869,log_592_1708942797.xes,drift_1,sudden,change_info_1,"[53, 53, 53, 53]",sudden,[1573]
+870,log_592_1708942797.xes,drift_2,gradual,change_info_1,"[98, 98, 112, 112]",gradual,"[2927, 3331]"
+871,log_592_1708942797.xes,drift_3,gradual,change_info_1,"[152, 152, 151, 151]",gradual,"[4530, 4861]"
+872,log_593_1708942803.xes,drift_1,sudden,change_info_1,"[58, 58, 58, 58]",sudden,[1313]
+873,log_593_1708942803.xes,drift_2,gradual,change_info_1,"[102, 102, 101, 101]",gradual,"[2323, 2854]"
+874,log_594_1708942809.xes,drift_1,sudden,change_info_1,"[51, 51, 51, 51]",sudden,[1769]
+875,log_594_1708942809.xes,drift_2,gradual,change_info_1,"[85, 85, 99, 99]",gradual,"[2974, 3434]"
+876,log_594_1708942809.xes,drift_3,sudden,change_info_1,"[156, 156, 156, 156]",sudden,[5429]
+877,log_595_1708942816.xes,drift_1,gradual,change_info_1,"[101, 101, 122, 122]",gradual,"[1908, 2309]"
+878,log_596_1708942819.xes,drift_1,sudden,change_info_1,"[114, 114, 114, 114]",sudden,[1587]
+879,log_597_1708942822.xes,drift_1,sudden,change_info_1,"[81, 81, 81, 81]",sudden,[1521]
+880,log_597_1708942822.xes,drift_2,sudden,change_info_1,"[140, 140, 140, 140]",sudden,[2651]
+881,log_598_1708942825.xes,drift_1,gradual,change_info_1,"[38, 38, 49, 49]",gradual,"[1366, 1746]"
+882,log_598_1708942825.xes,drift_2,sudden,change_info_1,"[86, 86, 86, 86]",sudden,[3083]
+883,log_598_1708942825.xes,drift_3,gradual,change_info_1,"[137, 137, 151, 151]",gradual,"[4919, 5408]"
+884,log_599_1708942776.xes,drift_1,sudden,change_info_1,"[69, 69, 69, 69]",sudden,[1515]
+885,log_599_1708942776.xes,drift_2,gradual,change_info_1,"[128, 128, 152, 152]",gradual,"[2813, 3328]"
+886,log_601_1708942784.xes,drift_1,gradual,change_info_1,"[92, 92, 117, 117]",gradual,"[1553, 1978]"
+887,log_603_1708942791.xes,drift_1,gradual,change_info_1,"[91, 91, 107, 107]",gradual,"[1804, 2124]"
+888,log_604_1708942794.xes,drift_1,gradual,change_info_1,"[34, 34, 44, 44]",gradual,"[1036, 1337]"
+889,log_604_1708942794.xes,drift_2,sudden,change_info_1,"[103, 103, 103, 103]",sudden,[3191]
+890,log_604_1708942794.xes,drift_3,gradual,change_info_1,"[144, 144, 162, 162]",gradual,"[4443, 4993]"
+891,log_605_1708942798.xes,drift_1,gradual,change_info_1,"[50, 50, 62, 62]",gradual,"[1386, 1711]"
+892,log_605_1708942798.xes,drift_2,gradual,change_info_1,"[123, 123, 141, 141]",gradual,"[3419, 3938]"
+893,log_606_1708942805.xes,drift_1,sudden,change_info_1,"[37, 37, 37, 37]",sudden,[1176]
+894,log_606_1708942805.xes,drift_2,gradual,change_info_1,"[97, 97, 110, 110]",gradual,"[3096, 3515]"
+895,log_606_1708942805.xes,drift_3,gradual,change_info_1,"[160, 160, 173, 173]",gradual,"[5093, 5510]"
+896,log_607_1708942818.xes,drift_1,gradual,change_info_1,"[71, 71, 91, 91]",gradual,"[1630, 2074]"
+897,log_607_1708942818.xes,drift_2,sudden,change_info_1,"[142, 142, 142, 142]",sudden,[3251]
+898,log_610_1708942855.xes,drift_1,sudden,change_info_1,"[43, 43, 43, 43]",sudden,[1471]
+899,log_610_1708942855.xes,drift_2,gradual,change_info_1,"[98, 98, 111, 111]",gradual,"[3424, 3874]"
+900,log_610_1708942855.xes,drift_3,sudden,change_info_1,"[148, 148, 148, 148]",sudden,[5164]
+901,log_612_1708942777.xes,drift_1,gradual,change_info_1,"[54, 54, 69, 69]",gradual,"[1780, 2265]"
+902,log_612_1708942777.xes,drift_2,gradual,change_info_1,"[104, 104, 122, 122]",gradual,"[3417, 4008]"
+903,log_612_1708942777.xes,drift_3,sudden,change_info_1,"[158, 158, 158, 158]",sudden,[5191]
+904,log_613_1708942789.xes,drift_1,sudden,change_info_1,"[81, 81, 81, 81]",sudden,[1862]
+905,log_613_1708942789.xes,drift_2,sudden,change_info_1,"[146, 146, 146, 146]",sudden,[3344]
+906,log_614_1708942794.xes,drift_1,sudden,change_info_1,"[53, 53, 53, 53]",sudden,[1888]
+907,log_614_1708942794.xes,drift_2,sudden,change_info_1,"[85, 85, 85, 85]",sudden,[3036]
+908,log_614_1708942794.xes,drift_3,gradual,change_info_1,"[138, 138, 151, 151]",gradual,"[4942, 5430]"
+909,log_616_1708942801.xes,drift_1,sudden,change_info_1,"[57, 57, 57, 57]",sudden,[1296]
+910,log_616_1708942801.xes,drift_2,sudden,change_info_1,"[139, 139, 139, 139]",sudden,[3187]
+911,log_617_1708942804.xes,drift_1,sudden,change_info_1,"[46, 46, 46, 46]",sudden,[1579]
+912,log_617_1708942804.xes,drift_2,gradual,change_info_1,"[76, 76, 90, 90]",gradual,"[2645, 3149]"
+913,log_617_1708942804.xes,drift_3,gradual,change_info_1,"[146, 146, 155, 155]",gradual,"[5089, 5422]"
+914,log_618_1708942814.xes,drift_1,sudden,change_info_1,"[53, 53, 53, 53]",sudden,[1746]
+915,log_618_1708942814.xes,drift_2,sudden,change_info_1,"[96, 96, 96, 96]",sudden,[3145]
+916,log_618_1708942814.xes,drift_3,sudden,change_info_1,"[150, 150, 150, 150]",sudden,[4942]
+917,log_619_1708942817.xes,drift_1,gradual,change_info_1,"[51, 51, 62, 62]",gradual,"[1874, 2293]"
+918,log_619_1708942817.xes,drift_2,gradual,change_info_1,"[111, 111, 121, 121]",gradual,"[4073, 4442]"
+919,log_619_1708942817.xes,drift_3,gradual,change_info_1,"[151, 151, 160, 160]",gradual,"[5577, 5908]"
+920,log_621_1708942859.xes,drift_1,sudden,change_info_1,"[54, 54, 54, 54]",sudden,[1594]
+921,log_621_1708942859.xes,drift_2,sudden,change_info_1,"[105, 105, 105, 105]",sudden,[3126]
+922,log_621_1708942859.xes,drift_3,sudden,change_info_1,"[163, 163, 163, 163]",sudden,[4874]
+923,log_624_1708942868.xes,drift_1,sudden,change_info_1,"[40, 40, 40, 40]",sudden,[1072]
+924,log_624_1708942868.xes,drift_2,sudden,change_info_1,"[91, 91, 91, 91]",sudden,[2448]
+925,log_624_1708942868.xes,drift_3,gradual,change_info_1,"[148, 148, 165, 165]",gradual,"[3994, 4453]"
+926,log_625_1708942778.xes,drift_1,sudden,change_info_1,"[88, 88, 88, 88]",sudden,[1408]
+927,log_626_1708942781.xes,drift_1,gradual,change_info_1,"[80, 80, 102, 102]",gradual,"[1433, 1830]"
+928,log_627_1708942786.xes,drift_1,gradual,change_info_1,"[72, 72, 95, 95]",gradual,"[1871, 2455]"
+929,log_627_1708942786.xes,drift_2,sudden,change_info_1,"[144, 144, 144, 144]",sudden,[3739]
+930,log_630_1708942808.xes,drift_1,sudden,change_info_1,"[65, 65, 65, 65]",sudden,[1813]
+931,log_630_1708942808.xes,drift_2,sudden,change_info_1,"[130, 130, 130, 130]",sudden,[3638]
+932,log_632_1708942818.xes,drift_1,gradual,change_info_1,"[73, 73, 94, 94]",gradual,"[1659, 2141]"
+933,log_632_1708942818.xes,drift_2,gradual,change_info_1,"[141, 141, 158, 158]",gradual,"[3231, 3624]"
+934,log_633_1708942829.xes,drift_1,sudden,change_info_1,"[64, 64, 64, 64]",sudden,[1984]
+935,log_633_1708942829.xes,drift_2,gradual,change_info_1,"[126, 126, 143, 143]",gradual,"[3895, 4427]"
+936,log_636_1708942845.xes,drift_1,sudden,change_info_1,"[39, 39, 39, 39]",sudden,[1268]
+937,log_636_1708942845.xes,drift_2,gradual,change_info_1,"[85, 85, 96, 96]",gradual,"[2789, 3146]"
+938,log_636_1708942845.xes,drift_3,sudden,change_info_1,"[145, 145, 145, 145]",sudden,[4757]
+939,log_637_1708942863.xes,drift_1,sudden,change_info_1,"[62, 62, 62, 62]",sudden,[1352]
+940,log_637_1708942863.xes,drift_2,sudden,change_info_1,"[125, 125, 125, 125]",sudden,[2735]
+941,log_638_1708942789.xes,drift_1,gradual,change_info_1,"[40, 40, 54, 54]",gradual,"[1228, 1650]"
+942,log_638_1708942789.xes,drift_2,sudden,change_info_1,"[86, 86, 86, 86]",sudden,[2651]
+943,log_638_1708942789.xes,drift_3,sudden,change_info_1,"[141, 141, 141, 141]",sudden,[4354]
+944,log_639_1708942799.xes,drift_1,gradual,change_info_1,"[58, 58, 85, 85]",gradual,"[1141, 1687]"
+945,log_639_1708942799.xes,drift_2,sudden,change_info_1,"[144, 144, 144, 144]",sudden,[2867]
+946,log_640_1708942801.xes,drift_1,sudden,change_info_1,"[101, 101, 101, 101]",sudden,[1808]
+947,log_641_1708942805.xes,drift_1,sudden,change_info_1,"[66, 66, 66, 66]",sudden,[1647]
+948,log_641_1708942805.xes,drift_2,gradual,change_info_1,"[120, 120, 133, 133]",gradual,"[2988, 3304]"
+949,log_642_1708942810.xes,drift_1,sudden,change_info_1,"[78, 78, 78, 78]",sudden,[1701]
+950,log_642_1708942810.xes,drift_2,sudden,change_info_1,"[137, 137, 137, 137]",sudden,[2997]
+951,log_644_1708942816.xes,drift_1,sudden,change_info_1,"[119, 119, 119, 119]",sudden,[1783]
+952,log_645_1708942818.xes,drift_1,gradual,change_info_1,"[44, 44, 65, 65]",gradual,"[1134, 1668]"
+953,log_645_1708942818.xes,drift_2,sudden,change_info_1,"[131, 131, 131, 131]",sudden,[3392]
+954,log_647_1708942830.xes,drift_1,sudden,change_info_1,"[128, 128, 128, 128]",sudden,[1785]
+955,log_649_1708942851.xes,drift_1,gradual,change_info_1,"[86, 86, 108, 108]",gradual,"[1201, 1504]"
+956,log_650_1708942855.xes,drift_1,gradual,change_info_1,"[69, 69, 87, 87]",gradual,"[1650, 2078]"
+957,log_650_1708942855.xes,drift_2,sudden,change_info_1,"[135, 135, 135, 135]",sudden,[3223]
+958,log_651_1708942797.xes,drift_1,gradual,change_info_1,"[40, 40, 54, 54]",gradual,"[1416, 1934]"
+959,log_651_1708942797.xes,drift_2,gradual,change_info_1,"[95, 95, 103, 103]",gradual,"[3402, 3708]"
+960,log_651_1708942797.xes,drift_3,gradual,change_info_1,"[143, 143, 159, 159]",gradual,"[5118, 5703]"
+961,log_652_1708942802.xes,drift_1,gradual,change_info_1,"[51, 51, 62, 62]",gradual,"[1904, 2331]"
+962,log_652_1708942802.xes,drift_2,gradual,change_info_1,"[100, 100, 114, 114]",gradual,"[3772, 4302]"
+963,log_652_1708942802.xes,drift_3,sudden,change_info_1,"[166, 166, 166, 166]",sudden,[6275]
+964,log_653_1708942814.xes,drift_1,gradual,change_info_1,"[41, 41, 60, 60]",gradual,"[1137, 1665]"
+965,log_653_1708942814.xes,drift_2,gradual,change_info_1,"[129, 129, 128, 128]",gradual,"[3584, 4182]"
+966,log_654_1708942823.xes,drift_1,sudden,change_info_1,"[84, 84, 84, 84]",sudden,[1086]
+967,log_655_1708942825.xes,drift_1,gradual,change_info_1,"[48, 48, 59, 59]",gradual,"[1773, 2178]"
+968,log_655_1708942825.xes,drift_2,gradual,change_info_1,"[110, 110, 123, 123]",gradual,"[4045, 4520]"
+969,log_655_1708942825.xes,drift_3,gradual,change_info_1,"[161, 161, 174, 174]",gradual,"[5925, 6426]"
+970,log_656_1708942837.xes,drift_1,gradual,change_info_1,"[48, 48, 59, 59]",gradual,"[1861, 2296]"
+971,log_656_1708942837.xes,drift_2,gradual,change_info_1,"[108, 108, 121, 121]",gradual,"[4179, 4700]"
+972,log_656_1708942837.xes,drift_3,gradual,change_info_1,"[160, 160, 169, 169]",gradual,"[6227, 6570]"
+973,log_657_1708942851.xes,drift_1,gradual,change_info_1,"[64, 64, 83, 83]",gradual,"[1470, 1902]"
+974,log_657_1708942851.xes,drift_2,sudden,change_info_1,"[141, 141, 141, 141]",sudden,[3231]
+975,log_658_1708942864.xes,drift_1,gradual,change_info_1,"[51, 51, 68, 68]",gradual,"[1271, 1680]"
+976,log_658_1708942864.xes,drift_2,sudden,change_info_1,"[131, 131, 131, 131]",sudden,[3272]
+977,log_659_1708942871.xes,drift_1,sudden,change_info_1,"[80, 80, 80, 80]",sudden,[1584]
+978,log_659_1708942871.xes,drift_2,sudden,change_info_1,"[135, 135, 135, 135]",sudden,[2683]
+979,log_660_1708942876.xes,drift_1,gradual,change_info_1,"[67, 67, 83, 83]",gradual,"[1260, 1565]"
+980,log_660_1708942876.xes,drift_2,sudden,change_info_1,"[146, 146, 146, 146]",sudden,[2767]
+981,log_661_1708942878.xes,drift_1,sudden,change_info_1,"[48, 48, 48, 48]",sudden,[1273]
+982,log_661_1708942878.xes,drift_2,sudden,change_info_1,"[103, 103, 103, 103]",sudden,[2761]
+983,log_661_1708942878.xes,drift_3,sudden,change_info_1,"[155, 155, 155, 155]",sudden,[4164]
+984,log_662_1708942884.xes,drift_1,gradual,change_info_1,"[51, 51, 62, 62]",gradual,"[1654, 2014]"
+985,log_662_1708942884.xes,drift_2,sudden,change_info_1,"[93, 93, 93, 93]",sudden,[3043]
+986,log_662_1708942884.xes,drift_3,gradual,change_info_1,"[137, 137, 155, 155]",gradual,"[4510, 5110]"
+987,log_663_1708942895.xes,drift_1,gradual,change_info_1,"[43, 43, 57, 57]",gradual,"[1278, 1705]"
+988,log_663_1708942895.xes,drift_2,gradual,change_info_1,"[102, 102, 115, 115]",gradual,"[3037, 3441]"
+989,log_663_1708942895.xes,drift_3,sudden,change_info_1,"[164, 164, 164, 164]",sudden,[4917]
+990,log_664_1708942804.xes,drift_1,gradual,change_info_1,"[55, 55, 66, 66]",gradual,"[1970, 2362]"
+991,log_664_1708942804.xes,drift_2,sudden,change_info_1,"[112, 112, 112, 112]",sudden,[4017]
+992,log_664_1708942804.xes,drift_3,sudden,change_info_1,"[167, 167, 167, 167]",sudden,[5977]
+993,log_665_1708942814.xes,drift_1,gradual,change_info_1,"[77, 77, 106, 106]",gradual,"[1220, 1687]"
+994,log_666_1708942816.xes,drift_1,gradual,change_info_1,"[42, 42, 64, 64]",gradual,"[1109, 1707]"
+995,log_666_1708942816.xes,drift_2,sudden,change_info_1,"[137, 137, 137, 137]",sudden,[3678]
+996,log_667_1708942827.xes,drift_1,sudden,change_info_1,"[96, 96, 96, 96]",sudden,[1436]
+997,log_668_1708942832.xes,drift_1,gradual,change_info_1,"[67, 67, 87, 87]",gradual,"[1741, 2254]"
+998,log_668_1708942832.xes,drift_2,sudden,change_info_1,"[142, 142, 142, 142]",sudden,[3688]
+999,log_669_1708942839.xes,drift_1,sudden,change_info_1,"[62, 62, 62, 62]",sudden,[1596]
+1000,log_669_1708942839.xes,drift_2,sudden,change_info_1,"[132, 132, 132, 132]",sudden,[3431]
+1001,log_670_1708942853.xes,drift_1,gradual,change_info_1,"[76, 76, 89, 89]",gradual,"[1957, 2302]"
+1002,log_670_1708942853.xes,drift_2,sudden,change_info_1,"[164, 164, 164, 164]",sudden,[4240]
+1003,log_672_1708942866.xes,drift_1,gradual,change_info_1,"[53, 53, 69, 69]",gradual,"[1574, 2063]"
+1004,log_672_1708942866.xes,drift_2,gradual,change_info_1,"[133, 133, 150, 150]",gradual,"[3962, 4483]"
+1005,log_673_1708942875.xes,drift_1,sudden,change_info_1,"[44, 44, 44, 44]",sudden,[1420]
+1006,log_673_1708942875.xes,drift_2,sudden,change_info_1,"[88, 88, 88, 88]",sudden,[2902]
+1007,log_673_1708942875.xes,drift_3,gradual,change_info_1,"[132, 132, 145, 145]",gradual,"[4346, 4759]"
+1008,log_674_1708942883.xes,drift_1,sudden,change_info_1,"[49, 49, 49, 49]",sudden,[1368]
+1009,log_674_1708942883.xes,drift_2,sudden,change_info_1,"[96, 96, 96, 96]",sudden,[2680]
+1010,log_674_1708942883.xes,drift_3,gradual,change_info_1,"[146, 146, 160, 160]",gradual,"[4073, 4465]"
+1011,log_675_1708942891.xes,drift_1,gradual,change_info_1,"[51, 51, 65, 65]",gradual,"[1859, 2371]"
+1012,log_675_1708942891.xes,drift_2,gradual,change_info_1,"[98, 98, 113, 113]",gradual,"[3620, 4158]"
+1013,log_675_1708942891.xes,drift_3,sudden,change_info_1,"[153, 153, 153, 153]",sudden,[5637]
+1014,log_676_1708942900.xes,drift_1,sudden,change_info_1,"[46, 46, 46, 46]",sudden,[1005]
+1015,log_676_1708942900.xes,drift_2,sudden,change_info_1,"[135, 135, 135, 135]",sudden,[2956]
+1016,log_678_1708942805.xes,drift_1,sudden,change_info_1,"[71, 71, 71, 71]",sudden,[1899]
+1017,log_678_1708942805.xes,drift_2,sudden,change_info_1,"[144, 144, 144, 144]",sudden,[3875]
+1018,log_679_1708942822.xes,drift_1,sudden,change_info_1,"[51, 51, 51, 51]",sudden,[1967]
+1019,log_679_1708942822.xes,drift_2,gradual,change_info_1,"[88, 88, 98, 98]",gradual,"[3422, 3821]"
+1020,log_679_1708942822.xes,drift_3,gradual,change_info_1,"[141, 141, 154, 154]",gradual,"[5493, 5973]"
+1021,log_680_1708942843.xes,drift_1,sudden,change_info_1,"[55, 55, 55, 55]",sudden,[1245]
+1022,log_680_1708942843.xes,drift_2,sudden,change_info_1,"[139, 139, 139, 139]",sudden,[3186]
+1023,log_681_1708942857.xes,drift_1,sudden,change_info_1,"[42, 42, 42, 42]",sudden,[1604]
+1024,log_681_1708942857.xes,drift_2,gradual,change_info_1,"[83, 83, 93, 93]",gradual,"[3205, 3609]"
+1025,log_681_1708942857.xes,drift_3,gradual,change_info_1,"[142, 142, 153, 153]",gradual,"[5532, 5966]"
+1026,log_683_1708942880.xes,drift_1,gradual,change_info_1,"[94, 94, 116, 116]",gradual,"[1594, 1971]"
+1027,log_684_1708942883.xes,drift_1,gradual,change_info_1,"[55, 55, 68, 68]",gradual,"[1531, 1890]"
+1028,log_684_1708942883.xes,drift_2,gradual,change_info_1,"[124, 124, 139, 139]",gradual,"[3461, 3874]"
+1029,log_685_1708942889.xes,drift_1,sudden,change_info_1,"[121, 121, 121, 121]",sudden,[1812]
+1030,log_686_1708942894.xes,drift_1,gradual,change_info_1,"[86, 86, 110, 110]",gradual,"[1711, 2195]"
+1031,log_687_1708942898.xes,drift_1,sudden,change_info_1,"[47, 47, 47, 47]",sudden,[1439]
+1032,log_687_1708942898.xes,drift_2,sudden,change_info_1,"[85, 85, 85, 85]",sudden,[2624]
+1033,log_687_1708942898.xes,drift_3,sudden,change_info_1,"[144, 144, 144, 144]",sudden,[4439]
+1034,log_690_1708942814.xes,drift_1,gradual,change_info_1,"[72, 72, 87, 87]",gradual,"[1795, 2159]"
+1035,log_690_1708942814.xes,drift_2,gradual,change_info_1,"[141, 141, 159, 159]",gradual,"[3508, 3958]"
+1036,log_691_1708942822.xes,drift_1,gradual,change_info_1,"[41, 41, 63, 63]",gradual,"[1020, 1566]"
+1037,log_691_1708942822.xes,drift_2,gradual,change_info_1,"[124, 124, 138, 138]",gradual,"[3085, 3447]"
+1038,log_692_1708942830.xes,drift_1,sudden,change_info_1,"[69, 69, 69, 69]",sudden,[1858]
+1039,log_692_1708942830.xes,drift_2,sudden,change_info_1,"[109, 109, 109, 109]",sudden,[2918]
+1040,log_692_1708942830.xes,drift_3,sudden,change_info_1,"[165, 165, 165, 165]",sudden,[4444]
+1041,log_693_1708942836.xes,drift_1,sudden,change_info_1,"[50, 50, 50, 50]",sudden,[1378]
+1042,log_693_1708942836.xes,drift_2,sudden,change_info_1,"[95, 95, 95, 95]",sudden,[2652]
+1043,log_693_1708942836.xes,drift_3,sudden,change_info_1,"[154, 154, 154, 154]",sudden,[4291]
+1044,log_694_1708942855.xes,drift_1,gradual,change_info_1,"[43, 43, 58, 58]",gradual,"[1366, 1846]"
+1045,log_694_1708942855.xes,drift_2,sudden,change_info_1,"[105, 105, 105, 105]",sudden,[3337]
+1046,log_694_1708942855.xes,drift_3,sudden,change_info_1,"[162, 162, 162, 162]",sudden,[5175]
+1047,log_695_1708942877.xes,drift_1,gradual,change_info_1,"[59, 59, 74, 74]",gradual,"[1808, 2284]"
+1048,log_695_1708942877.xes,drift_2,gradual,change_info_1,"[135, 135, 151, 151]",gradual,"[4167, 4653]"
+1049,log_696_1708942892.xes,drift_1,gradual,change_info_1,"[94, 94, 122, 122]",gradual,"[1773, 2303]"
+1050,log_697_1708942898.xes,drift_1,sudden,change_info_1,"[117, 117, 117, 117]",sudden,[1979]
+1051,log_698_1708942902.xes,drift_1,sudden,change_info_1,"[57, 57, 57, 57]",sudden,[1694]
+1052,log_698_1708942902.xes,drift_2,sudden,change_info_1,"[101, 101, 101, 101]",sudden,[3013]
+1053,log_698_1708942902.xes,drift_3,gradual,change_info_1,"[146, 146, 166, 166]",gradual,"[4379, 4951]"
+1054,log_699_1708942914.xes,drift_1,gradual,change_info_1,"[82, 82, 102, 102]",gradual,"[1473, 1829]"
+1055,log_700_1708942920.xes,drift_1,gradual,change_info_1,"[52, 52, 61, 61]",gradual,"[1916, 2230]"
+1056,log_700_1708942920.xes,drift_2,sudden,change_info_1,"[100, 100, 100, 100]",sudden,[3693]
+1057,log_700_1708942920.xes,drift_3,gradual,change_info_1,"[146, 146, 160, 160]",gradual,"[5401, 5910]"
+1058,log_701_1708942930.xes,drift_1,sudden,change_info_1,"[41, 41, 41, 41]",sudden,[1022]
+1059,log_701_1708942930.xes,drift_2,sudden,change_info_1,"[85, 85, 85, 85]",sudden,[2122]
+1060,log_701_1708942930.xes,drift_3,gradual,change_info_1,"[146, 146, 160, 160]",gradual,"[3628, 3986]"
+1061,log_703_1708942815.xes,drift_1,gradual,change_info_1,"[103, 103, 131, 131]",gradual,"[1954, 2472]"
+1062,log_705_1708942824.xes,drift_1,gradual,change_info_1,"[51, 51, 75, 75]",gradual,"[1258, 1851]"
+1063,log_705_1708942824.xes,drift_2,gradual,change_info_1,"[132, 132, 147, 147]",gradual,"[3289, 3653]"
+1064,log_706_1708942829.xes,drift_1,sudden,change_info_1,"[48, 48, 48, 48]",sudden,[1431]
+1065,log_706_1708942829.xes,drift_2,sudden,change_info_1,"[100, 100, 100, 100]",sudden,[2977]
+1066,log_706_1708942829.xes,drift_3,sudden,change_info_1,"[136, 136, 136, 136]",sudden,[4075]
+1067,log_707_1708942835.xes,drift_1,sudden,change_info_1,"[97, 97, 97, 97]",sudden,[1545]
+1068,log_709_1708942839.xes,drift_1,sudden,change_info_1,"[60, 60, 60, 60]",sudden,[1614]
+1069,log_709_1708942839.xes,drift_2,sudden,change_info_1,"[131, 131, 131, 131]",sudden,[3513]
+1070,log_710_1708942842.xes,drift_1,gradual,change_info_1,"[80, 80, 94, 94]",gradual,"[1836, 2150]"
+1071,log_710_1708942842.xes,drift_2,sudden,change_info_1,"[154, 154, 154, 154]",sudden,[3522]
+1072,log_711_1708942845.xes,drift_1,gradual,change_info_1,"[40, 40, 59, 59]",gradual,"[1236, 1814]"
+1073,log_711_1708942845.xes,drift_2,gradual,change_info_1,"[94, 94, 104, 104]",gradual,"[2907, 3224]"
+1074,log_711_1708942845.xes,drift_3,gradual,change_info_1,"[149, 149, 162, 162]",gradual,"[4603, 5000]"
+1075,log_712_1708942854.xes,drift_1,gradual,change_info_1,"[43, 43, 57, 57]",gradual,"[1277, 1697]"
+1076,log_712_1708942854.xes,drift_2,sudden,change_info_1,"[114, 114, 114, 114]",sudden,[3408]
+1077,log_712_1708942854.xes,drift_3,sudden,change_info_1,"[153, 153, 153, 153]",sudden,[4563]
+1078,log_713_1708942872.xes,drift_1,gradual,change_info_1,"[46, 46, 60, 60]",gradual,"[1054, 1375]"
+1079,log_713_1708942872.xes,drift_2,gradual,change_info_1,"[128, 128, 152, 152]",gradual,"[2941, 3490]"
+1080,log_714_1708942880.xes,drift_1,sudden,change_info_1,"[57, 57, 57, 57]",sudden,[1585]
+1081,log_714_1708942880.xes,drift_2,gradual,change_info_1,"[128, 128, 144, 144]",gradual,"[3569, 4008]"
+1082,log_717_1708942816.xes,drift_1,sudden,change_info_1,"[33, 33, 33, 33]",sudden,[1065]
+1083,log_717_1708942816.xes,drift_2,gradual,change_info_1,"[82, 82, 92, 92]",gradual,"[2700, 3004]"
+1084,log_717_1708942816.xes,drift_3,sudden,change_info_1,"[143, 143, 143, 143]",sudden,[4699]
+1085,log_719_1708942823.xes,drift_1,sudden,change_info_1,"[70, 70, 70, 70]",sudden,[1452]
+1086,log_719_1708942823.xes,drift_2,sudden,change_info_1,"[135, 135, 135, 135]",sudden,[2830]
+1087,log_720_1708942826.xes,drift_1,sudden,change_info_1,"[73, 73, 73, 73]",sudden,[1807]
+1088,log_720_1708942826.xes,drift_2,gradual,change_info_1,"[138, 138, 157, 157]",gradual,"[3449, 3911]"
+1089,log_722_1708942848.xes,drift_1,gradual,change_info_1,"[36, 36, 46, 46]",gradual,"[1164, 1491]"
+1090,log_722_1708942848.xes,drift_2,gradual,change_info_1,"[88, 88, 99, 99]",gradual,"[2892, 3244]"
+1091,log_722_1708942848.xes,drift_3,gradual,change_info_1,"[139, 139, 149, 149]",gradual,"[4581, 4917]"
+1092,log_723_1708942857.xes,drift_1,sudden,change_info_1,"[77, 77, 77, 77]",sudden,[1901]
+1093,log_723_1708942857.xes,drift_2,gradual,change_info_1,"[123, 123, 146, 146]",gradual,"[3065, 3644]"
+1094,log_724_1708942863.xes,drift_1,sudden,change_info_1,"[66, 66, 66, 66]",sudden,[1780]
+1095,log_724_1708942863.xes,drift_2,gradual,change_info_1,"[119, 119, 134, 134]",gradual,"[3198, 3598]"
+1096,log_725_1708942868.xes,drift_1,gradual,change_info_1,"[75, 75, 105, 105]",gradual,"[1409, 1995]"
+1097,log_726_1708942872.xes,drift_1,gradual,change_info_1,"[52, 52, 74, 74]",gradual,"[1298, 1831]"
+1098,log_726_1708942872.xes,drift_2,sudden,change_info_1,"[135, 135, 135, 135]",sudden,[3360]
+1099,log_727_1708942876.xes,drift_1,sudden,change_info_1,"[104, 104, 104, 104]",sudden,[1866]
+1100,log_728_1708942880.xes,drift_1,sudden,change_info_1,"[83, 83, 83, 83]",sudden,[1070]
+1101,log_729_1708942819.xes,drift_1,sudden,change_info_1,"[55, 55, 55, 55]",sudden,[1516]
+1102,log_729_1708942819.xes,drift_2,gradual,change_info_1,"[118, 118, 135, 135]",gradual,"[3298, 3759]"
+1103,log_731_1708942837.xes,drift_1,sudden,change_info_1,"[47, 47, 47, 47]",sudden,[1362]
+1104,log_731_1708942837.xes,drift_2,sudden,change_info_1,"[108, 108, 108, 108]",sudden,[3119]
+1105,log_731_1708942837.xes,drift_3,sudden,change_info_1,"[164, 164, 164, 164]",sudden,[4731]
+1106,log_734_1708942874.xes,drift_1,gradual,change_info_1,"[86, 86, 110, 110]",gradual,"[1792, 2293]"
+1107,log_736_1708942883.xes,drift_1,sudden,change_info_1,"[110, 110, 110, 110]",sudden,[1207]
+1108,log_737_1708942885.xes,drift_1,sudden,change_info_1,"[117, 117, 117, 117]",sudden,[1284]
+1109,log_738_1708942887.xes,drift_1,sudden,change_info_1,"[43, 43, 43, 43]",sudden,[1326]
+1110,log_738_1708942887.xes,drift_2,sudden,change_info_1,"[89, 89, 89, 89]",sudden,[2744]
+1111,log_738_1708942887.xes,drift_3,gradual,change_info_1,"[149, 149, 164, 164]",gradual,"[4609, 5081]"
+1112,log_739_1708942895.xes,drift_1,sudden,change_info_1,"[48, 48, 48, 48]",sudden,[1179]
+1113,log_739_1708942895.xes,drift_2,sudden,change_info_1,"[104, 104, 104, 104]",sudden,[2587]
+1114,log_739_1708942895.xes,drift_3,sudden,change_info_1,"[156, 156, 156, 156]",sudden,[3896]
+1115,log_740_1708942902.xes,drift_1,sudden,change_info_1,"[99, 99, 99, 99]",sudden,[1776]
+1116,log_741_1708942906.xes,drift_1,gradual,change_info_1,"[110, 110, 144, 144]",gradual,"[1858, 2439]"
+1117,log_743_1708942822.xes,drift_1,sudden,change_info_1,"[78, 78, 78, 78]",sudden,[1860]
+1118,log_743_1708942822.xes,drift_2,sudden,change_info_1,"[157, 157, 157, 157]",sudden,[3753]
+1119,log_747_1708942838.xes,drift_1,sudden,change_info_1,"[36, 36, 36, 36]",sudden,[1272]
+1120,log_747_1708942838.xes,drift_2,gradual,change_info_1,"[90, 90, 106, 106]",gradual,"[3228, 3812]"
+1121,log_747_1708942838.xes,drift_3,gradual,change_info_1,"[159, 159, 169, 169]",gradual,"[5714, 6066]"
+1122,log_748_1708942849.xes,drift_1,gradual,change_info_1,"[32, 32, 43, 43]",gradual,"[1059, 1453]"
+1123,log_748_1708942849.xes,drift_2,gradual,change_info_1,"[93, 93, 107, 107]",gradual,"[3136, 3623]"
+1124,log_748_1708942849.xes,drift_3,gradual,change_info_1,"[160, 160, 172, 172]",gradual,"[5435, 5823]"
+1125,log_749_1708942860.xes,drift_1,sudden,change_info_1,"[113, 113, 113, 113]",sudden,[1793]
+1126,log_750_1708942866.xes,drift_1,gradual,change_info_1,"[51, 51, 77, 77]",gradual,"[1009, 1532]"
+1127,log_750_1708942866.xes,drift_2,sudden,change_info_1,"[134, 134, 134, 134]",sudden,[2673]
+1128,log_751_1708942872.xes,drift_1,sudden,change_info_1,"[123, 123, 123, 123]",sudden,[1955]
+1129,log_752_1708942876.xes,drift_1,gradual,change_info_1,"[84, 84, 103, 103]",gradual,"[1511, 1848]"
+1130,log_753_1708942880.xes,drift_1,gradual,change_info_1,"[74, 74, 92, 92]",gradual,"[1920, 2390]"
+1131,log_753_1708942880.xes,drift_2,gradual,change_info_1,"[143, 143, 166, 166]",gradual,"[3702, 4293]"
+1132,log_755_1708942830.xes,drift_1,sudden,change_info_1,"[56, 56, 56, 56]",sudden,[1321]
+1133,log_755_1708942830.xes,drift_2,gradual,change_info_1,"[127, 127, 147, 147]",gradual,"[3045, 3508]"
+1134,log_757_1708942839.xes,drift_1,gradual,change_info_1,"[45, 45, 61, 61]",gradual,"[1474, 2005]"
+1135,log_757_1708942839.xes,drift_2,sudden,change_info_1,"[105, 105, 105, 105]",sudden,[3455]
+1136,log_757_1708942839.xes,drift_3,gradual,change_info_1,"[156, 156, 170, 170]",gradual,"[5142, 5608]"
+1137,log_758_1708942852.xes,drift_1,gradual,change_info_1,"[45, 45, 58, 58]",gradual,"[1284, 1670]"
+1138,log_758_1708942852.xes,drift_2,gradual,change_info_1,"[101, 101, 113, 113]",gradual,"[2916, 3251]"
+1139,log_758_1708942852.xes,drift_3,sudden,change_info_1,"[161, 161, 161, 161]",sudden,[4668]
+1140,log_759_1708942858.xes,drift_1,sudden,change_info_1,"[46, 46, 46, 46]",sudden,[1041]
+1141,log_759_1708942858.xes,drift_2,gradual,change_info_1,"[125, 125, 139, 139]",gradual,"[2866, 3179]"
+1142,log_760_1708942863.xes,drift_1,gradual,change_info_1,"[59, 59, 58, 58]",gradual,"[1566, 1932]"
+1143,log_760_1708942863.xes,drift_2,sudden,change_info_1,"[144, 144, 144, 144]",sudden,[3868]
+1144,log_761_1708942875.xes,drift_1,gradual,change_info_1,"[67, 67, 85, 85]",gradual,"[1986, 2524]"
+1145,log_761_1708942875.xes,drift_2,gradual,change_info_1,"[142, 142, 156, 156]",gradual,"[4257, 4663]"
+1146,log_762_1708942888.xes,drift_1,sudden,change_info_1,"[49, 49, 49, 49]",sudden,[1786]
+1147,log_762_1708942888.xes,drift_2,gradual,change_info_1,"[86, 86, 102, 102]",gradual,"[3175, 3752]"
+1148,log_762_1708942888.xes,drift_3,gradual,change_info_1,"[137, 137, 152, 152]",gradual,"[5063, 5606]"
+1149,log_763_1708942896.xes,drift_1,sudden,change_info_1,"[109, 109, 109, 109]",sudden,[1523]
+1150,log_764_1708942899.xes,drift_1,gradual,change_info_1,"[68, 68, 88, 88]",gradual,"[1953, 2529]"
+1151,log_764_1708942899.xes,drift_2,gradual,change_info_1,"[123, 123, 140, 140]",gradual,"[3539, 4046]"
+1152,log_765_1708942905.xes,drift_1,gradual,change_info_1,"[38, 38, 54, 54]",gradual,"[1080, 1557]"
+1153,log_765_1708942905.xes,drift_2,gradual,change_info_1,"[107, 107, 119, 119]",gradual,"[3102, 3447]"
+1154,log_765_1708942905.xes,drift_3,sudden,change_info_1,"[155, 155, 155, 155]",sudden,[4495]
+1155,log_766_1708942922.xes,drift_1,sudden,change_info_1,"[100, 100, 100, 100]",sudden,[1597]
+1156,log_767_1708942925.xes,drift_1,gradual,change_info_1,"[98, 98, 117, 117]",gradual,"[1851, 2205]"
+1157,log_768_1708942833.xes,drift_1,gradual,change_info_1,"[106, 106, 138, 138]",gradual,"[1694, 2201]"
+1158,log_769_1708942835.xes,drift_1,sudden,change_info_1,"[35, 35, 35, 35]",sudden,[1130]
+1159,log_769_1708942835.xes,drift_2,gradual,change_info_1,"[83, 83, 96, 96]",gradual,"[2716, 3155]"
+1160,log_769_1708942835.xes,drift_3,gradual,change_info_1,"[135, 135, 147, 147]",gradual,"[4453, 4848]"
+1161,log_770_1708942846.xes,drift_1,sudden,change_info_1,"[56, 56, 56, 56]",sudden,[1612]
+1162,log_770_1708942846.xes,drift_2,gradual,change_info_1,"[123, 123, 138, 138]",gradual,"[3557, 4000]"
+1163,log_773_1708942859.xes,drift_1,sudden,change_info_1,"[38, 38, 38, 38]",sudden,[1334]
+1164,log_773_1708942859.xes,drift_2,gradual,change_info_1,"[72, 72, 85, 85]",gradual,"[2578, 3039]"
+1165,log_773_1708942859.xes,drift_3,gradual,change_info_1,"[140, 140, 150, 150]",gradual,"[5008, 5398]"
+1166,log_774_1708942867.xes,drift_1,sudden,change_info_1,"[116, 116, 116, 116]",sudden,[1498]
+1167,log_775_1708942869.xes,drift_1,gradual,change_info_1,"[43, 43, 56, 56]",gradual,"[1656, 2151]"
+1168,log_775_1708942869.xes,drift_2,gradual,change_info_1,"[103, 103, 115, 115]",gradual,"[3998, 4473]"
+1169,log_775_1708942869.xes,drift_3,gradual,change_info_1,"[151, 151, 159, 159]",gradual,"[5872, 6181]"
+1170,log_776_1708942881.xes,drift_1,gradual,change_info_1,"[64, 64, 76, 76]",gradual,"[1955, 2335]"
+1171,log_776_1708942881.xes,drift_2,sudden,change_info_1,"[122, 122, 122, 122]",sudden,[3755]
+1172,log_776_1708942881.xes,drift_3,gradual,change_info_1,"[155, 155, 169, 169]",gradual,"[4784, 5212]"
+1173,log_777_1708942885.xes,drift_1,gradual,change_info_1,"[104, 104, 103, 103]",gradual,"[1854, 2307]"
+1174,log_778_1708942890.xes,drift_1,gradual,change_info_1,"[93, 93, 108, 108]",gradual,"[1938, 2255]"
+1175,log_779_1708942897.xes,drift_1,gradual,change_info_1,"[84, 84, 106, 106]",gradual,"[1495, 1895]"
+1176,log_784_1708942857.xes,drift_1,gradual,change_info_1,"[53, 53, 65, 65]",gradual,"[1828, 2275]"
+1177,log_784_1708942857.xes,drift_2,gradual,change_info_1,"[116, 116, 130, 130]",gradual,"[4038, 4523]"
+1178,log_784_1708942857.xes,drift_3,sudden,change_info_1,"[172, 172, 172, 172]",sudden,[5995]
+1179,log_785_1708942862.xes,drift_1,gradual,change_info_1,"[103, 103, 132, 132]",gradual,"[1533, 1978]"
+1180,log_787_1708942871.xes,drift_1,gradual,change_info_1,"[55, 55, 75, 75]",gradual,"[1409, 1943]"
+1181,log_787_1708942871.xes,drift_2,sudden,change_info_1,"[136, 136, 136, 136]",sudden,[3529]
+1182,log_790_1708942882.xes,drift_1,sudden,change_info_1,"[95, 95, 95, 95]",sudden,[1510]
+1183,log_791_1708942884.xes,drift_1,gradual,change_info_1,"[76, 76, 89, 89]",gradual,"[1958, 2297]"
+1184,log_791_1708942884.xes,drift_2,gradual,change_info_1,"[139, 139, 159, 159]",gradual,"[3589, 4118]"
+1185,log_793_1708942903.xes,drift_1,gradual,change_info_1,"[56, 56, 68, 68]",gradual,"[1899, 2304]"
+1186,log_793_1708942903.xes,drift_2,gradual,change_info_1,"[107, 107, 124, 124]",gradual,"[3620, 4187]"
+1187,log_793_1708942903.xes,drift_3,gradual,change_info_1,"[155, 155, 172, 172]",gradual,"[5263, 5822]"
+1188,log_794_1708942837.xes,drift_1,sudden,change_info_1,"[74, 74, 74, 74]",sudden,[1986]
+1189,log_794_1708942837.xes,drift_2,gradual,change_info_1,"[139, 139, 156, 156]",gradual,"[3738, 4201]"
+1190,log_797_1708942854.xes,drift_1,sudden,change_info_1,"[55, 55, 55, 55]",sudden,[1254]
+1191,log_797_1708942854.xes,drift_2,gradual,change_info_1,"[112, 112, 132, 132]",gradual,"[2556, 3027]"
+1192,log_798_1708942861.xes,drift_1,gradual,change_info_1,"[69, 69, 89, 89]",gradual,"[1636, 2115]"
+1193,log_798_1708942861.xes,drift_2,sudden,change_info_1,"[143, 143, 143, 143]",sudden,[3426]
+1194,log_799_1708942872.xes,drift_1,sudden,change_info_1,"[64, 64, 64, 64]",sudden,[1526]
+1195,log_799_1708942872.xes,drift_2,gradual,change_info_1,"[128, 128, 150, 150]",gradual,"[3064, 3579]"
+1196,log_800_1708942882.xes,drift_1,sudden,change_info_1,"[48, 48, 48, 48]",sudden,[1035]
+1197,log_800_1708942882.xes,drift_2,gradual,change_info_1,"[130, 130, 149, 149]",gradual,"[2839, 3258]"
+1198,log_801_1708942888.xes,drift_1,sudden,change_info_1,"[49, 49, 49, 49]",sudden,[1489]
+1199,log_801_1708942888.xes,drift_2,gradual,change_info_1,"[109, 109, 119, 119]",gradual,"[3352, 3673]"
+1200,log_801_1708942888.xes,drift_3,sudden,change_info_1,"[164, 164, 164, 164]",sudden,[5077]
+1201,log_802_1708942895.xes,drift_1,gradual,change_info_1,"[65, 65, 87, 87]",gradual,"[1473, 1983]"
+1202,log_802_1708942895.xes,drift_2,sudden,change_info_1,"[161, 161, 161, 161]",sudden,[3688]
+1203,log_803_1708942899.xes,drift_1,sudden,change_info_1,"[82, 82, 82, 82]",sudden,[1225]
+1204,log_804_1708942902.xes,drift_1,gradual,change_info_1,"[36, 36, 52, 52]",gradual,"[1234, 1801]"
+1205,log_804_1708942902.xes,drift_2,gradual,change_info_1,"[88, 88, 103, 103]",gradual,"[3070, 3597]"
+1206,log_804_1708942902.xes,drift_3,gradual,change_info_1,"[141, 141, 151, 151]",gradual,"[4908, 5264]"
+1207,log_805_1708942914.xes,drift_1,gradual,change_info_1,"[116, 116, 137, 137]",gradual,"[1843, 2178]"
+1208,log_807_1708942838.xes,drift_1,sudden,change_info_1,"[102, 102, 102, 102]",sudden,[1320]
+1209,log_809_1708942842.xes,drift_1,gradual,change_info_1,"[72, 72, 71, 71]",gradual,"[1136, 1693]"
+1210,log_811_1708942852.xes,drift_1,gradual,change_info_1,"[57, 57, 74, 74]",gradual,"[1876, 2435]"
+1211,log_811_1708942852.xes,drift_2,gradual,change_info_1,"[107, 107, 117, 117]",gradual,"[3514, 3859]"
+1212,log_811_1708942852.xes,drift_3,gradual,change_info_1,"[152, 152, 168, 168]",gradual,"[5015, 5540]"
+1213,log_812_1708942869.xes,drift_1,sudden,change_info_1,"[74, 74, 74, 74]",sudden,[1475]
+1214,log_812_1708942869.xes,drift_2,sudden,change_info_1,"[141, 141, 141, 141]",sudden,[2815]
+1215,log_813_1708942880.xes,drift_1,gradual,change_info_1,"[64, 64, 91, 91]",gradual,"[1392, 1989]"
+1216,log_813_1708942880.xes,drift_2,sudden,change_info_1,"[150, 150, 150, 150]",sudden,[3291]
+1217,log_814_1708942895.xes,drift_1,gradual,change_info_1,"[92, 92, 121, 121]",gradual,"[1737, 2294]"
+1218,log_816_1708942905.xes,drift_1,sudden,change_info_1,"[51, 51, 51, 51]",sudden,[1370]
+1219,log_816_1708942905.xes,drift_2,gradual,change_info_1,"[117, 117, 139, 139]",gradual,"[3147, 3740]"
+1220,log_817_1708942909.xes,drift_1,sudden,change_info_1,"[72, 72, 72, 72]",sudden,[1571]
+1221,log_817_1708942909.xes,drift_2,sudden,change_info_1,"[142, 142, 142, 142]",sudden,[3111]
+1222,log_818_1708942911.xes,drift_1,sudden,change_info_1,"[67, 67, 67, 67]",sudden,[2001]
+1223,log_818_1708942911.xes,drift_2,gradual,change_info_1,"[123, 123, 139, 139]",gradual,"[3672, 4160]"
+1224,log_819_1708942926.xes,drift_1,gradual,change_info_1,"[110, 110, 132, 132]",gradual,"[1963, 2373]"
+1225,log_820_1708942842.xes,drift_1,sudden,change_info_1,"[61, 61, 61, 61]",sudden,[1807]
+1226,log_820_1708942842.xes,drift_2,gradual,change_info_1,"[126, 126, 140, 140]",gradual,"[3761, 4191]"
+1227,log_821_1708942855.xes,drift_1,sudden,change_info_1,"[45, 45, 45, 45]",sudden,[1249]
+1228,log_821_1708942855.xes,drift_2,gradual,change_info_1,"[96, 96, 110, 110]",gradual,"[2683, 3080]"
+1229,log_821_1708942855.xes,drift_3,sudden,change_info_1,"[170, 170, 170, 170]",sudden,[4753]
+1230,log_822_1708942861.xes,drift_1,sudden,change_info_1,"[92, 92, 92, 92]",sudden,[1277]
+1231,log_823_1708942865.xes,drift_1,sudden,change_info_1,"[54, 54, 54, 54]",sudden,[1065]
+1232,log_823_1708942865.xes,drift_2,gradual,change_info_1,"[107, 107, 128, 128]",gradual,"[2129, 2557]"
+1233,log_824_1708942882.xes,drift_1,sudden,change_info_1,"[96, 96, 96, 96]",sudden,[1723]
+1234,log_825_1708942884.xes,drift_1,sudden,change_info_1,"[54, 54, 54, 54]",sudden,[1440]
+1235,log_825_1708942884.xes,drift_2,gradual,change_info_1,"[126, 126, 142, 142]",gradual,"[3388, 3831]"
+1236,log_826_1708942891.xes,drift_1,sudden,change_info_1,"[88, 88, 88, 88]",sudden,[1488]
+1237,log_827_1708942894.xes,drift_1,gradual,change_info_1,"[42, 42, 54, 54]",gradual,"[1319, 1713]"
+1238,log_827_1708942894.xes,drift_2,gradual,change_info_1,"[100, 100, 117, 117]",gradual,"[3182, 3738]"
+1239,log_827_1708942894.xes,drift_3,gradual,change_info_1,"[158, 158, 173, 173]",gradual,"[5038, 5507]"
+1240,log_828_1708942901.xes,drift_1,gradual,change_info_1,"[109, 109, 132, 132]",gradual,"[1737, 2099]"
+1241,log_829_1708942907.xes,drift_1,sudden,change_info_1,"[46, 46, 46, 46]",sudden,[1494]
+1242,log_829_1708942907.xes,drift_2,gradual,change_info_1,"[105, 105, 116, 116]",gradual,"[3450, 3802]"
+1243,log_829_1708942907.xes,drift_3,sudden,change_info_1,"[170, 170, 170, 170]",sudden,[5589]
+1244,log_831_1708942921.xes,drift_1,sudden,change_info_1,"[97, 97, 97, 97]",sudden,[1841]
+1245,log_832_1708942926.xes,drift_1,gradual,change_info_1,"[44, 44, 62, 62]",gradual,"[1297, 1860]"
+1246,log_832_1708942926.xes,drift_2,gradual,change_info_1,"[124, 124, 142, 142]",gradual,"[3714, 4240]"
+1247,log_833_1708942843.xes,drift_1,sudden,change_info_1,"[45, 45, 45, 45]",sudden,[1209]
+1248,log_833_1708942843.xes,drift_2,gradual,change_info_1,"[96, 96, 109, 109]",gradual,"[2570, 2917]"
+1249,log_833_1708942843.xes,drift_3,sudden,change_info_1,"[154, 154, 154, 154]",sudden,[4139]
+1250,log_835_1708942852.xes,drift_1,gradual,change_info_1,"[45, 45, 61, 61]",gradual,"[1663, 2246]"
+1251,log_835_1708942852.xes,drift_2,gradual,change_info_1,"[109, 109, 117, 117]",gradual,"[4016, 4324]"
+1252,log_835_1708942852.xes,drift_3,sudden,change_info_1,"[162, 162, 162, 162]",sudden,[5988]
+1253,log_836_1708942862.xes,drift_1,gradual,change_info_1,"[32, 32, 45, 45]",gradual,"[1176, 1652]"
+1254,log_836_1708942862.xes,drift_2,sudden,change_info_1,"[92, 92, 92, 92]",sudden,[3371]
+1255,log_836_1708942862.xes,drift_3,gradual,change_info_1,"[142, 142, 157, 157]",gradual,"[5228, 5805]"
+1256,log_838_1708942873.xes,drift_1,sudden,change_info_1,"[61, 61, 61, 61]",sudden,[1399]
+1257,log_838_1708942873.xes,drift_2,gradual,change_info_1,"[145, 145, 160, 160]",gradual,"[3334, 3679]"
+1258,log_839_1708942888.xes,drift_1,sudden,change_info_1,"[78, 78, 78, 78]",sudden,[1080]
+1259,log_840_1708942890.xes,drift_1,gradual,change_info_1,"[76, 76, 97, 97]",gradual,"[1130, 1453]"
+1260,log_841_1708942893.xes,drift_1,sudden,change_info_1,"[48, 48, 48, 48]",sudden,[1364]
+1261,log_841_1708942893.xes,drift_2,gradual,change_info_1,"[91, 91, 108, 108]",gradual,"[2637, 3124]"
+1262,log_841_1708942893.xes,drift_3,sudden,change_info_1,"[152, 152, 152, 152]",sudden,[4388]
+1263,log_842_1708942897.xes,drift_1,gradual,change_info_1,"[55, 55, 54, 54]",gradual,"[1350, 1729]"
+1264,log_842_1708942897.xes,drift_2,gradual,change_info_1,"[112, 112, 128, 128]",gradual,"[2793, 3179]"
+1265,log_843_1708942902.xes,drift_1,gradual,change_info_1,"[108, 108, 129, 129]",gradual,"[1832, 2180]"
+1266,log_844_1708942904.xes,drift_1,gradual,change_info_1,"[61, 61, 80, 80]",gradual,"[1508, 1991]"
+1267,log_844_1708942904.xes,drift_2,sudden,change_info_1,"[139, 139, 139, 139]",sudden,[3474]
+1268,log_845_1708942909.xes,drift_1,gradual,change_info_1,"[37, 37, 47, 47]",gradual,"[1146, 1454]"
+1269,log_845_1708942909.xes,drift_2,sudden,change_info_1,"[92, 92, 92, 92]",sudden,[2829]
+1270,log_845_1708942909.xes,drift_3,sudden,change_info_1,"[156, 156, 156, 156]",sudden,[4822]
+1271,log_846_1708942843.xes,drift_1,sudden,change_info_1,"[96, 96, 96, 96]",sudden,[1712]
+1272,log_847_1708942848.xes,drift_1,gradual,change_info_1,"[87, 87, 113, 113]",gradual,"[1205, 1580]"
+1273,log_848_1708942854.xes,drift_1,gradual,change_info_1,"[81, 81, 98, 98]",gradual,"[1860, 2240]"
+1274,log_848_1708942854.xes,drift_2,sudden,change_info_1,"[147, 147, 147, 147]",sudden,[3374]
+1275,log_849_1708942858.xes,drift_1,sudden,change_info_1,"[34, 34, 34, 34]",sudden,[1115]
+1276,log_849_1708942858.xes,drift_2,gradual,change_info_1,"[94, 94, 106, 106]",gradual,"[3084, 3472]"
+1277,log_849_1708942858.xes,drift_3,gradual,change_info_1,"[137, 137, 147, 147]",gradual,"[4489, 4838]"
+1278,log_850_1708942869.xes,drift_1,gradual,change_info_1,"[39, 39, 54, 54]",gradual,"[1342, 1869]"
+1279,log_850_1708942869.xes,drift_2,sudden,change_info_1,"[111, 111, 111, 111]",sudden,[3859]
+1280,log_850_1708942869.xes,drift_3,gradual,change_info_1,"[156, 156, 171, 171]",gradual,"[5427, 5952]"
+1281,log_851_1708942879.xes,drift_1,sudden,change_info_1,"[63, 63, 63, 63]",sudden,[1620]
+1282,log_851_1708942879.xes,drift_2,gradual,change_info_1,"[130, 130, 151, 151]",gradual,"[3368, 3917]"
+1283,log_852_1708942883.xes,drift_1,gradual,change_info_1,"[49, 49, 62, 62]",gradual,"[1160, 1483]"
+1284,log_852_1708942883.xes,drift_2,sudden,change_info_1,"[140, 140, 140, 140]",sudden,[3352]
+1285,log_853_1708942892.xes,drift_1,sudden,change_info_1,"[101, 101, 101, 101]",sudden,[1717]
+1286,log_854_1708942896.xes,drift_1,sudden,change_info_1,"[85, 85, 85, 85]",sudden,[1952]
+1287,log_854_1708942896.xes,drift_2,sudden,change_info_1,"[140, 140, 140, 140]",sudden,[3200]
+1288,log_855_1708942902.xes,drift_1,gradual,change_info_1,"[80, 80, 79, 79]",gradual,"[1343, 1905]"
+1289,log_856_1708942911.xes,drift_1,sudden,change_info_1,"[57, 57, 57, 57]",sudden,[1933]
+1290,log_856_1708942911.xes,drift_2,gradual,change_info_1,"[100, 100, 113, 113]",gradual,"[3394, 3815]"
+1291,log_856_1708942911.xes,drift_3,gradual,change_info_1,"[150, 150, 161, 161]",gradual,"[5099, 5456]"
+1292,log_857_1708942937.xes,drift_1,gradual,change_info_1,"[45, 45, 59, 59]",gradual,"[1292, 1687]"
+1293,log_857_1708942937.xes,drift_2,gradual,change_info_1,"[100, 100, 112, 112]",gradual,"[2888, 3226]"
+1294,log_857_1708942937.xes,drift_3,gradual,change_info_1,"[150, 150, 168, 168]",gradual,"[4331, 4863]"
+1295,log_858_1708942945.xes,drift_1,sudden,change_info_1,"[58, 58, 58, 58]",sudden,[1784]
+1296,log_858_1708942945.xes,drift_2,gradual,change_info_1,"[96, 96, 110, 110]",gradual,"[2950, 3404]"
+1297,log_858_1708942945.xes,drift_3,sudden,change_info_1,"[152, 152, 152, 152]",sudden,[4692]
+1298,log_859_1708942857.xes,drift_1,gradual,change_info_1,"[47, 47, 64, 64]",gradual,"[1347, 1831]"
+1299,log_859_1708942857.xes,drift_2,gradual,change_info_1,"[118, 118, 135, 135]",gradual,"[3396, 3897]"
+1300,log_860_1708942862.xes,drift_1,sudden,change_info_1,"[49, 49, 49, 49]",sudden,[1023]
+1301,log_860_1708942862.xes,drift_2,gradual,change_info_1,"[122, 122, 149, 149]",gradual,"[2542, 3118]"
+1302,log_862_1708942869.xes,drift_1,sudden,change_info_1,"[64, 64, 64, 64]",sudden,[1895]
+1303,log_862_1708942869.xes,drift_2,sudden,change_info_1,"[120, 120, 120, 120]",sudden,[3593]
+1304,log_862_1708942869.xes,drift_3,sudden,change_info_1,"[171, 171, 171, 171]",sudden,[5105]
+1305,log_863_1708942895.xes,drift_1,gradual,change_info_1,"[71, 71, 86, 86]",gradual,"[1487, 1800]"
+1306,log_863_1708942895.xes,drift_2,sudden,change_info_1,"[144, 144, 144, 144]",sudden,[3016]
+1307,log_864_1708942902.xes,drift_1,sudden,change_info_1,"[50, 50, 50, 50]",sudden,[1380]
+1308,log_864_1708942902.xes,drift_2,sudden,change_info_1,"[90, 90, 90, 90]",sudden,[2506]
+1309,log_864_1708942902.xes,drift_3,gradual,change_info_1,"[140, 140, 151, 151]",gradual,"[3903, 4219]"
+1310,log_865_1708942918.xes,drift_1,sudden,change_info_1,"[55, 55, 55, 55]",sudden,[1811]
+1311,log_865_1708942918.xes,drift_2,gradual,change_info_1,"[94, 94, 107, 107]",gradual,"[3097, 3517]"
+1312,log_865_1708942918.xes,drift_3,gradual,change_info_1,"[150, 150, 168, 168]",gradual,"[4934, 5518]"
+1313,log_866_1708942926.xes,drift_1,sudden,change_info_1,"[51, 51, 51, 51]",sudden,[1462]
+1314,log_866_1708942926.xes,drift_2,sudden,change_info_1,"[117, 117, 117, 117]",sudden,[3389]
+1315,log_866_1708942926.xes,drift_3,sudden,change_info_1,"[165, 165, 165, 165]",sudden,[4758]
+1316,log_867_1708942933.xes,drift_1,sudden,change_info_1,"[76, 76, 76, 76]",sudden,[1668]
+1317,log_867_1708942933.xes,drift_2,gradual,change_info_1,"[147, 147, 162, 162]",gradual,"[3227, 3544]"
+1318,log_868_1708942939.xes,drift_1,gradual,change_info_1,"[67, 67, 97, 97]",gradual,"[1189, 1743]"
+1319,log_869_1708942945.xes,drift_1,sudden,change_info_1,"[60, 60, 60, 60]",sudden,[1908]
+1320,log_869_1708942945.xes,drift_2,gradual,change_info_1,"[98, 98, 116, 116]",gradual,"[3106, 3697]"
+1321,log_869_1708942945.xes,drift_3,sudden,change_info_1,"[166, 166, 166, 166]",sudden,[5307]
+1322,log_870_1708942953.xes,drift_1,gradual,change_info_1,"[89, 89, 115, 115]",gradual,"[1148, 1486]"
+1323,log_872_1708942857.xes,drift_1,gradual,change_info_1,"[50, 50, 63, 63]",gradual,"[1937, 2426]"
+1324,log_872_1708942857.xes,drift_2,gradual,change_info_1,"[112, 112, 125, 125]",gradual,"[4331, 4843]"
+1325,log_872_1708942857.xes,drift_3,sudden,change_info_1,"[152, 152, 152, 152]",sudden,[5927]
+1326,log_873_1708942873.xes,drift_1,sudden,change_info_1,"[68, 68, 68, 68]",sudden,[1680]
+1327,log_873_1708942873.xes,drift_2,sudden,change_info_1,"[141, 141, 141, 141]",sudden,[3520]
+1328,log_875_1708942883.xes,drift_1,gradual,change_info_1,"[43, 43, 58, 58]",gradual,"[1387, 1892]"
+1329,log_875_1708942883.xes,drift_2,sudden,change_info_1,"[102, 102, 102, 102]",sudden,[3359]
+1330,log_875_1708942883.xes,drift_3,sudden,change_info_1,"[158, 158, 158, 158]",sudden,[5185]
+1331,log_876_1708942896.xes,drift_1,sudden,change_info_1,"[54, 54, 54, 54]",sudden,[1989]
+1332,log_876_1708942896.xes,drift_2,sudden,change_info_1,"[100, 100, 100, 100]",sudden,[3688]
+1333,log_876_1708942896.xes,drift_3,gradual,change_info_1,"[147, 147, 156, 156]",gradual,"[5413, 5762]"
+1334,log_877_1708942914.xes,drift_1,sudden,change_info_1,"[125, 125, 125, 125]",sudden,[1496]
+1335,log_878_1708942917.xes,drift_1,gradual,change_info_1,"[60, 60, 89, 89]",gradual,"[1068, 1597]"
+1336,log_878_1708942917.xes,drift_2,sudden,change_info_1,"[147, 147, 147, 147]",sudden,[2635]
+1337,log_879_1708942923.xes,drift_1,gradual,change_info_1,"[84, 84, 115, 115]",gradual,"[1254, 1720]"
+1338,log_881_1708942928.xes,drift_1,sudden,change_info_1,"[51, 51, 51, 51]",sudden,[1158]
+1339,log_881_1708942928.xes,drift_2,gradual,change_info_1,"[123, 123, 141, 141]",gradual,"[2823, 3229]"
+1340,log_882_1708942934.xes,drift_1,sudden,change_info_1,"[54, 54, 54, 54]",sudden,[1236]
+1341,log_882_1708942934.xes,drift_2,sudden,change_info_1,"[130, 130, 130, 130]",sudden,[2983]
+1342,log_883_1708942942.xes,drift_1,sudden,change_info_1,"[49, 49, 49, 49]",sudden,[1656]
+1343,log_883_1708942942.xes,drift_2,gradual,change_info_1,"[89, 89, 103, 103]",gradual,"[3024, 3495]"
+1344,log_883_1708942942.xes,drift_3,gradual,change_info_1,"[157, 157, 167, 167]",gradual,"[5323, 5678]"
+1345,log_885_1708942860.xes,drift_1,sudden,change_info_1,"[54, 54, 54, 54]",sudden,[1939]
+1346,log_885_1708942860.xes,drift_2,gradual,change_info_1,"[101, 101, 117, 117]",gradual,"[3605, 4189]"
+1347,log_885_1708942860.xes,drift_3,sudden,change_info_1,"[153, 153, 153, 153]",sudden,[5489]
+1348,log_886_1708942869.xes,drift_1,sudden,change_info_1,"[61, 61, 61, 61]",sudden,[1093]
+1349,log_886_1708942869.xes,drift_2,sudden,change_info_1,"[139, 139, 139, 139]",sudden,[2499]
+1350,log_888_1708942877.xes,drift_1,gradual,change_info_1,"[95, 95, 114, 114]",gradual,"[1993, 2378]"
+1351,log_890_1708942886.xes,drift_1,gradual,change_info_1,"[42, 42, 57, 57]",gradual,"[1405, 1905]"
+1352,log_890_1708942886.xes,drift_2,gradual,change_info_1,"[92, 92, 109, 109]",gradual,"[3120, 3696]"
+1353,log_890_1708942886.xes,drift_3,sudden,change_info_1,"[149, 149, 149, 149]",sudden,[5061]
+1354,log_892_1708942904.xes,drift_1,sudden,change_info_1,"[121, 121, 121, 121]",sudden,[1935]
+1355,log_897_1708942927.xes,drift_1,sudden,change_info_1,"[58, 58, 58, 58]",sudden,[1434]
+1356,log_897_1708942927.xes,drift_2,gradual,change_info_1,"[135, 135, 156, 156]",gradual,"[3355, 3895]"
+1357,log_898_1708942860.xes,drift_1,gradual,change_info_1,"[80, 80, 79, 79]",gradual,"[1422, 1812]"
+1358,log_899_1708942863.xes,drift_1,gradual,change_info_1,"[55, 55, 67, 67]",gradual,"[1514, 1872]"
+1359,log_899_1708942863.xes,drift_2,gradual,change_info_1,"[125, 125, 140, 140]",gradual,"[3479, 3919]"
+1360,log_901_1708942883.xes,drift_1,sudden,change_info_1,"[53, 53, 53, 53]",sudden,[1722]
+1361,log_901_1708942883.xes,drift_2,gradual,change_info_1,"[101, 101, 114, 114]",gradual,"[3331, 3758]"
+1362,log_901_1708942883.xes,drift_3,gradual,change_info_1,"[146, 146, 161, 161]",gradual,"[4811, 5288]"
+1363,log_902_1708942895.xes,drift_1,gradual,change_info_1,"[65, 65, 88, 88]",gradual,"[1421, 1919]"
+1364,log_902_1708942895.xes,drift_2,sudden,change_info_1,"[142, 142, 142, 142]",sudden,[3104]
+1365,log_903_1708942903.xes,drift_1,sudden,change_info_1,"[48, 48, 48, 48]",sudden,[1370]
+1366,log_903_1708942903.xes,drift_2,gradual,change_info_1,"[105, 105, 116, 116]",gradual,"[3033, 3352]"
+1367,log_903_1708942903.xes,drift_3,gradual,change_info_1,"[153, 153, 165, 165]",gradual,"[4430, 4770]"
+1368,log_904_1708942914.xes,drift_1,sudden,change_info_1,"[133, 133, 133, 133]",sudden,[1981]
+1369,log_905_1708942916.xes,drift_1,gradual,change_info_1,"[46, 46, 58, 58]",gradual,"[1902, 2413]"
+1370,log_905_1708942916.xes,drift_2,gradual,change_info_1,"[94, 94, 108, 108]",gradual,"[3940, 4535]"
+1371,log_905_1708942916.xes,drift_3,gradual,change_info_1,"[151, 151, 162, 162]",gradual,"[6320, 6795]"
+1372,log_906_1708942926.xes,drift_1,sudden,change_info_1,"[59, 59, 59, 59]",sudden,[1861]
+1373,log_906_1708942926.xes,drift_2,sudden,change_info_1,"[115, 115, 115, 115]",sudden,[3677]
+1374,log_906_1708942926.xes,drift_3,sudden,change_info_1,"[153, 153, 153, 153]",sudden,[4882]
+1375,log_907_1708942937.xes,drift_1,sudden,change_info_1,"[38, 38, 38, 38]",sudden,[1245]
+1376,log_907_1708942937.xes,drift_2,gradual,change_info_1,"[77, 77, 94, 94]",gradual,"[2530, 3088]"
+1377,log_907_1708942937.xes,drift_3,sudden,change_info_1,"[149, 149, 149, 149]",sudden,[4914]
+1378,log_908_1708942944.xes,drift_1,sudden,change_info_1,"[42, 42, 42, 42]",sudden,[1274]
+1379,log_908_1708942944.xes,drift_2,gradual,change_info_1,"[99, 99, 114, 114]",gradual,"[3051, 3512]"
+1380,log_908_1708942944.xes,drift_3,sudden,change_info_1,"[153, 153, 153, 153]",sudden,[4734]
+1381,log_909_1708942948.xes,drift_1,sudden,change_info_1,"[52, 52, 52, 52]",sudden,[1965]
+1382,log_909_1708942948.xes,drift_2,gradual,change_info_1,"[105, 105, 117, 117]",gradual,"[3962, 4413]"
+1383,log_909_1708942948.xes,drift_3,sudden,change_info_1,"[150, 150, 150, 150]",sudden,[5668]
+1384,log_910_1708942958.xes,drift_1,gradual,change_info_1,"[108, 108, 130, 130]",gradual,"[1937, 2332]"
+1385,log_912_1708942863.xes,drift_1,sudden,change_info_1,"[58, 58, 58, 58]",sudden,[1486]
+1386,log_912_1708942863.xes,drift_2,gradual,change_info_1,"[118, 118, 134, 134]",gradual,"[3058, 3472]"
+1387,log_914_1708942868.xes,drift_1,gradual,change_info_1,"[84, 84, 109, 109]",gradual,"[1246, 1621]"
+1388,log_915_1708942872.xes,drift_1,gradual,change_info_1,"[66, 66, 79, 79]",gradual,"[1778, 2117]"
+1389,log_915_1708942872.xes,drift_2,gradual,change_info_1,"[143, 143, 157, 157]",gradual,"[3836, 4220]"
+1390,log_916_1708942877.xes,drift_1,sudden,change_info_1,"[100, 100, 100, 100]",sudden,[1488]
+1391,log_918_1708942895.xes,drift_1,sudden,change_info_1,"[63, 63, 63, 63]",sudden,[1440]
+1392,log_918_1708942895.xes,drift_2,gradual,change_info_1,"[138, 138, 155, 155]",gradual,"[3155, 3544]"
+1393,log_919_1708942899.xes,drift_1,gradual,change_info_1,"[46, 46, 63, 63]",gradual,"[1500, 2070]"
+1394,log_919_1708942899.xes,drift_2,sudden,change_info_1,"[121, 121, 121, 121]",sudden,[3981]
+1395,log_919_1708942899.xes,drift_3,sudden,change_info_1,"[173, 173, 173, 173]",sudden,[5698]
+1396,log_920_1708942907.xes,drift_1,gradual,change_info_1,"[101, 101, 100, 100]",gradual,"[1700, 2067]"
+1397,log_921_1708942910.xes,drift_1,gradual,change_info_1,"[31, 31, 43, 43]",gradual,"[1152, 1626]"
+1398,log_921_1708942910.xes,drift_2,gradual,change_info_1,"[93, 93, 101, 101]",gradual,"[3512, 3813]"
+1399,log_921_1708942910.xes,drift_3,sudden,change_info_1,"[151, 151, 151, 151]",sudden,[5737]
+1400,log_922_1708942923.xes,drift_1,gradual,change_info_1,"[57, 57, 70, 70]",gradual,"[1692, 2080]"
+1401,log_922_1708942923.xes,drift_2,gradual,change_info_1,"[126, 126, 142, 142]",gradual,"[3761, 4237]"
+1402,log_923_1708942929.xes,drift_1,gradual,change_info_1,"[98, 98, 122, 122]",gradual,"[1362, 1699]"
+1403,log_924_1708942867.xes,drift_1,sudden,change_info_1,"[62, 62, 62, 62]",sudden,[1238]
+1404,log_924_1708942867.xes,drift_2,sudden,change_info_1,"[126, 126, 126, 126]",sudden,[2508]
+1405,log_925_1708942874.xes,drift_1,gradual,change_info_1,"[94, 94, 114, 114]",gradual,"[1682, 2043]"
+1406,log_927_1708942885.xes,drift_1,gradual,change_info_1,"[92, 92, 120, 120]",gradual,"[1282, 1668]"
+1407,log_929_1708942893.xes,drift_1,sudden,change_info_1,"[130, 130, 130, 130]",sudden,[1807]
+1408,log_931_1708942906.xes,drift_1,sudden,change_info_1,"[117, 117, 117, 117]",sudden,[1287]
+1409,log_932_1708942915.xes,drift_1,sudden,change_info_1,"[40, 40, 40, 40]",sudden,[1462]
+1410,log_932_1708942915.xes,drift_2,gradual,change_info_1,"[91, 91, 105, 105]",gradual,"[3358, 3855]"
+1411,log_932_1708942915.xes,drift_3,gradual,change_info_1,"[141, 141, 151, 151]",gradual,"[5193, 5551]"
+1412,log_934_1708942935.xes,drift_1,sudden,change_info_1,"[72, 72, 72, 72]",sudden,[1942]
+1413,log_934_1708942935.xes,drift_2,gradual,change_info_1,"[135, 135, 148, 148]",gradual,"[3621, 3986]"
+1414,log_935_1708942940.xes,drift_1,sudden,change_info_1,"[99, 99, 99, 99]",sudden,[1773]
+1415,log_936_1708942944.xes,drift_1,sudden,change_info_1,"[74, 74, 74, 74]",sudden,[1681]
+1416,log_936_1708942944.xes,drift_2,sudden,change_info_1,"[158, 158, 158, 158]",sudden,[3627]
+1417,log_938_1708942873.xes,drift_1,gradual,change_info_1,"[48, 48, 60, 60]",gradual,"[1750, 2206]"
+1418,log_938_1708942873.xes,drift_2,gradual,change_info_1,"[93, 93, 105, 105]",gradual,"[3438, 3854]"
+1419,log_938_1708942873.xes,drift_3,gradual,change_info_1,"[136, 136, 152, 152]",gradual,"[5025, 5606]"
+1420,log_939_1708942886.xes,drift_1,gradual,change_info_1,"[41, 41, 58, 58]",gradual,"[1367, 1964]"
+1421,log_939_1708942886.xes,drift_2,sudden,change_info_1,"[113, 113, 113, 113]",sudden,[3840]
+1422,log_939_1708942886.xes,drift_3,sudden,change_info_1,"[162, 162, 162, 162]",sudden,[5483]
+1423,log_940_1708942898.xes,drift_1,sudden,change_info_1,"[43, 43, 43, 43]",sudden,[1065]
+1424,log_940_1708942898.xes,drift_2,sudden,change_info_1,"[92, 92, 92, 92]",sudden,[2299]
+1425,log_940_1708942898.xes,drift_3,sudden,change_info_1,"[144, 144, 144, 144]",sudden,[3588]
+1426,log_941_1708942911.xes,drift_1,gradual,change_info_1,"[43, 43, 59, 59]",gradual,"[1434, 1986]"
+1427,log_941_1708942911.xes,drift_2,gradual,change_info_1,"[106, 106, 123, 123]",gradual,"[3583, 4180]"
+1428,log_941_1708942911.xes,drift_3,gradual,change_info_1,"[156, 156, 171, 171]",gradual,"[5295, 5803]"
+1429,log_944_1708942942.xes,drift_1,gradual,change_info_1,"[97, 97, 119, 119]",gradual,"[1835, 2251]"
+1430,log_945_1708942947.xes,drift_1,gradual,change_info_1,"[44, 44, 53, 53]",gradual,"[1445, 1747]"
+1431,log_945_1708942947.xes,drift_2,sudden,change_info_1,"[101, 101, 101, 101]",sudden,[3314]
+1432,log_945_1708942947.xes,drift_3,gradual,change_info_1,"[140, 140, 155, 155]",gradual,"[4601, 5087]"
+1433,log_947_1708942982.xes,drift_1,gradual,change_info_1,"[32, 32, 47, 47]",gradual,"[1210, 1778]"
+1434,log_947_1708942982.xes,drift_2,gradual,change_info_1,"[98, 98, 113, 113]",gradual,"[3714, 4271]"
+1435,log_947_1708942982.xes,drift_3,sudden,change_info_1,"[156, 156, 156, 156]",sudden,[5901]
+1436,log_948_1708942989.xes,drift_1,sudden,change_info_1,"[65, 65, 65, 65]",sudden,[1559]
+1437,log_948_1708942989.xes,drift_2,gradual,change_info_1,"[141, 141, 163, 163]",gradual,"[3379, 3898]"
+1438,log_949_1708943000.xes,drift_1,gradual,change_info_1,"[49, 49, 65, 65]",gradual,"[1297, 1743]"
+1439,log_949_1708943000.xes,drift_2,gradual,change_info_1,"[128, 128, 142, 142]",gradual,"[3448, 3826]"
+1440,log_950_1708942876.xes,drift_1,sudden,change_info_1,"[98, 98, 98, 98]",sudden,[1666]
+1441,log_951_1708942877.xes,drift_1,sudden,change_info_1,"[55, 55, 55, 55]",sudden,[1194]
+1442,log_951_1708942877.xes,drift_2,gradual,change_info_1,"[113, 113, 137, 137]",gradual,"[2477, 3000]"
+1443,log_952_1708942880.xes,drift_1,gradual,change_info_1,"[32, 32, 44, 44]",gradual,"[1001, 1400]"
+1444,log_952_1708942880.xes,drift_2,gradual,change_info_1,"[90, 90, 104, 104]",gradual,"[2853, 3321]"
+1445,log_952_1708942880.xes,drift_3,gradual,change_info_1,"[141, 141, 155, 155]",gradual,"[4493, 4938]"
+1446,log_953_1708942896.xes,drift_1,sudden,change_info_1,"[71, 71, 71, 71]",sudden,[1962]
+1447,log_953_1708942896.xes,drift_2,sudden,change_info_1,"[113, 113, 113, 113]",sudden,[3145]
+1448,log_953_1708942896.xes,drift_3,gradual,change_info_1,"[151, 151, 164, 164]",gradual,"[4202, 4590]"
+1449,log_955_1708942913.xes,drift_1,gradual,change_info_1,"[92, 92, 112, 112]",gradual,"[1468, 1779]"
+1450,log_956_1708942918.xes,drift_1,sudden,change_info_1,"[67, 67, 67, 67]",sudden,[1466]
+1451,log_956_1708942918.xes,drift_2,sudden,change_info_1,"[115, 115, 115, 115]",sudden,[2529]
+1452,log_957_1708942923.xes,drift_1,sudden,change_info_1,"[79, 79, 79, 79]",sudden,[1972]
+1453,log_957_1708942923.xes,drift_2,gradual,change_info_1,"[134, 134, 149, 149]",gradual,"[3329, 3701]"
+1454,log_958_1708942931.xes,drift_1,sudden,change_info_1,"[67, 67, 67, 67]",sudden,[1929]
+1455,log_958_1708942931.xes,drift_2,gradual,change_info_1,"[131, 131, 147, 147]",gradual,"[3775, 4258]"
+1456,log_959_1708942937.xes,drift_1,sudden,change_info_1,"[47, 47, 47, 47]",sudden,[1393]
+1457,log_959_1708942937.xes,drift_2,gradual,change_info_1,"[97, 97, 109, 109]",gradual,"[2906, 3254]"
+1458,log_959_1708942937.xes,drift_3,gradual,change_info_1,"[158, 158, 169, 169]",gradual,"[4713, 5047]"
+1459,log_960_1708942942.xes,drift_1,sudden,change_info_1,"[118, 118, 118, 118]",sudden,[1639]
+1460,log_961_1708942954.xes,drift_1,sudden,change_info_1,"[69, 69, 69, 69]",sudden,[1380]
+1461,log_961_1708942954.xes,drift_2,gradual,change_info_1,"[130, 130, 151, 151]",gradual,"[2588, 3012]"
+1462,log_964_1708942889.xes,drift_1,gradual,change_info_1,"[98, 98, 116, 116]",gradual,"[1747, 2082]"
+1463,log_965_1708942897.xes,drift_1,sudden,change_info_1,"[70, 70, 70, 70]",sudden,[1880]
+1464,log_965_1708942897.xes,drift_2,gradual,change_info_1,"[133, 133, 155, 155]",gradual,"[3580, 4179]"
+1465,log_966_1708942903.xes,drift_1,sudden,change_info_1,"[51, 51, 51, 51]",sudden,[1275]
+1466,log_966_1708942903.xes,drift_2,sudden,change_info_1,"[124, 124, 124, 124]",sudden,[3093]
+1467,log_967_1708942909.xes,drift_1,gradual,change_info_1,"[44, 44, 61, 61]",gradual,"[1312, 1819]"
+1468,log_967_1708942909.xes,drift_2,sudden,change_info_1,"[127, 127, 127, 127]",sudden,[3793]
+1469,log_967_1708942909.xes,drift_3,sudden,change_info_1,"[173, 173, 173, 173]",sudden,[5178]
+1470,log_968_1708942919.xes,drift_1,gradual,change_info_1,"[107, 107, 135, 135]",gradual,"[1700, 2148]"
+1471,log_969_1708942923.xes,drift_1,gradual,change_info_1,"[64, 64, 63, 63]",gradual,"[1764, 2129]"
+1472,log_969_1708942923.xes,drift_2,sudden,change_info_1,"[116, 116, 116, 116]",sudden,[3232]
+1473,log_969_1708942923.xes,drift_3,sudden,change_info_1,"[162, 162, 162, 162]",sudden,[4527]
+1474,log_970_1708942944.xes,drift_1,gradual,change_info_1,"[70, 70, 81, 81]",gradual,"[1935, 2254]"
+1475,log_970_1708942944.xes,drift_2,gradual,change_info_1,"[136, 136, 148, 148]",gradual,"[3804, 4137]"
+1476,log_972_1708942961.xes,drift_1,sudden,change_info_1,"[66, 66, 66, 66]",sudden,[1377]
+1477,log_972_1708942961.xes,drift_2,sudden,change_info_1,"[128, 128, 128, 128]",sudden,[2688]
+1478,log_973_1708942965.xes,drift_1,sudden,change_info_1,"[39, 39, 39, 39]",sudden,[1146]
+1479,log_973_1708942965.xes,drift_2,gradual,change_info_1,"[96, 96, 114, 114]",gradual,"[2872, 3399]"
+1480,log_973_1708942965.xes,drift_3,sudden,change_info_1,"[151, 151, 151, 151]",sudden,[4517]
+1481,log_974_1708942970.xes,drift_1,gradual,change_info_1,"[103, 103, 123, 123]",gradual,"[1945, 2335]"
+1482,log_975_1708942974.xes,drift_1,sudden,change_info_1,"[57, 57, 57, 57]",sudden,[1404]
+1483,log_975_1708942974.xes,drift_2,gradual,change_info_1,"[116, 116, 132, 132]",gradual,"[2876, 3299]"
+1484,log_976_1708942892.xes,drift_1,gradual,change_info_1,"[37, 37, 52, 52]",gradual,"[1245, 1737]"
+1485,log_976_1708942892.xes,drift_2,sudden,change_info_1,"[93, 93, 93, 93]",sudden,[3140]
+1486,log_976_1708942892.xes,drift_3,sudden,change_info_1,"[151, 151, 151, 151]",sudden,[5103]
+1487,log_978_1708942905.xes,drift_1,sudden,change_info_1,"[131, 131, 131, 131]",sudden,[1951]
+1488,log_980_1708942915.xes,drift_1,gradual,change_info_1,"[45, 45, 62, 62]",gradual,"[1164, 1605]"
+1489,log_980_1708942915.xes,drift_2,gradual,change_info_1,"[128, 128, 140, 140]",gradual,"[3312, 3634]"
+1490,log_982_1708942923.xes,drift_1,gradual,change_info_1,"[58, 58, 57, 57]",gradual,"[1995, 2323]"
+1491,log_982_1708942923.xes,drift_2,sudden,change_info_1,"[99, 99, 99, 99]",sudden,[3461]
+1492,log_982_1708942923.xes,drift_3,gradual,change_info_1,"[147, 147, 161, 161]",gradual,"[5115, 5635]"
+1493,log_983_1708942930.xes,drift_1,gradual,change_info_1,"[31, 31, 42, 42]",gradual,"[1086, 1509]"
+1494,log_983_1708942930.xes,drift_2,gradual,change_info_1,"[82, 82, 97, 97]",gradual,"[2940, 3476]"
+1495,log_983_1708942930.xes,drift_3,sudden,change_info_1,"[152, 152, 152, 152]",sudden,[5451]
+1496,log_986_1708942945.xes,drift_1,sudden,change_info_1,"[49, 49, 49, 49]",sudden,[1690]
+1497,log_986_1708942945.xes,drift_2,gradual,change_info_1,"[104, 104, 103, 103]",gradual,"[3605, 4002]"
+1498,log_986_1708942945.xes,drift_3,gradual,change_info_1,"[158, 158, 172, 172]",gradual,"[5512, 5995]"
+1499,log_988_1708942955.xes,drift_1,sudden,change_info_1,"[108, 108, 108, 108]",sudden,[1931]
+1500,log_989_1708942894.xes,drift_1,sudden,change_info_1,"[44, 44, 44, 44]",sudden,[1126]
+1501,log_989_1708942894.xes,drift_2,gradual,change_info_1,"[119, 119, 141, 141]",gradual,"[3093, 3662]"
+1502,log_990_1708942900.xes,drift_1,gradual,change_info_1,"[104, 104, 103, 103]",gradual,"[1545, 2003]"
+1503,log_991_1708942903.xes,drift_1,sudden,change_info_1,"[106, 106, 106, 106]",sudden,[1587]
+1504,log_992_1708942907.xes,drift_1,sudden,change_info_1,"[61, 61, 61, 61]",sudden,[1806]
+1505,log_992_1708942907.xes,drift_2,sudden,change_info_1,"[100, 100, 100, 100]",sudden,[2983]
+1506,log_992_1708942907.xes,drift_3,gradual,change_info_1,"[148, 148, 160, 160]",gradual,"[4412, 4776]"
+1507,log_993_1708942910.xes,drift_1,gradual,change_info_1,"[59, 59, 78, 78]",gradual,"[1163, 1545]"
+1508,log_993_1708942910.xes,drift_2,sudden,change_info_1,"[154, 154, 154, 154]",sudden,[3077]
+1509,log_994_1708942914.xes,drift_1,sudden,change_info_1,"[45, 45, 45, 45]",sudden,[1411]
+1510,log_994_1708942914.xes,drift_2,gradual,change_info_1,"[82, 82, 98, 98]",gradual,"[2623, 3126]"
+1511,log_994_1708942914.xes,drift_3,sudden,change_info_1,"[144, 144, 144, 144]",sudden,[4603]
+1512,log_996_1708942932.xes,drift_1,sudden,change_info_1,"[125, 125, 125, 125]",sudden,[1996]
+1513,log_998_1708942939.xes,drift_1,sudden,change_info_1,"[60, 60, 60, 60]",sudden,[1787]
+1514,log_998_1708942939.xes,drift_2,sudden,change_info_1,"[107, 107, 107, 107]",sudden,[3206]
+1515,log_998_1708942939.xes,drift_3,gradual,change_info_1,"[150, 150, 164, 164]",gradual,"[4473, 4893]"
+1516,log_999_1708942943.xes,drift_1,gradual,change_info_1,"[51, 51, 70, 70]",gradual,"[1058, 1453]"
+1517,log_999_1708942943.xes,drift_2,gradual,change_info_1,"[121, 121, 143, 143]",gradual,"[2529, 2990]"
+1518,log_1000_1708942951.xes,drift_1,sudden,change_info_1,"[75, 75, 75, 75]",sudden,[1932]
+1519,log_1000_1708942951.xes,drift_2,gradual,change_info_1,"[125, 125, 138, 138]",gradual,"[3236, 3570]"
+1520,log_1001_1708942956.xes,drift_1,sudden,change_info_1,"[35, 35, 35, 35]",sudden,[1111]
+1521,log_1001_1708942956.xes,drift_2,gradual,change_info_1,"[81, 81, 90, 90]",gradual,"[2567, 2868]"
+1522,log_1001_1708942956.xes,drift_3,gradual,change_info_1,"[145, 145, 158, 158]",gradual,"[4611, 5033]"
+1523,log_1002_1708942900.xes,drift_1,gradual,change_info_1,"[77, 77, 100, 100]",gradual,"[1374, 1791]"
+1524,log_1003_1708942908.xes,drift_1,sudden,change_info_1,"[70, 70, 70, 70]",sudden,[1816]
+1525,log_1003_1708942908.xes,drift_2,gradual,change_info_1,"[139, 139, 160, 160]",gradual,"[3602, 4146]"
+1526,log_1004_1708942918.xes,drift_1,sudden,change_info_1,"[113, 113, 113, 113]",sudden,[1917]
+1527,log_1005_1708942922.xes,drift_1,sudden,change_info_1,"[95, 95, 95, 95]",sudden,[1609]
+1528,log_1006_1708942926.xes,drift_1,gradual,change_info_1,"[80, 80, 96, 96]",gradual,"[1980, 2383]"
+1529,log_1006_1708942926.xes,drift_2,sudden,change_info_1,"[147, 147, 147, 147]",sudden,[3670]
+1530,log_1007_1708942933.xes,drift_1,sudden,change_info_1,"[54, 54, 54, 54]",sudden,[1174]
+1531,log_1007_1708942933.xes,drift_2,sudden,change_info_1,"[125, 125, 125, 125]",sudden,[2744]
+1532,log_1008_1708942946.xes,drift_1,sudden,change_info_1,"[48, 48, 48, 48]",sudden,[1673]
+1533,log_1008_1708942946.xes,drift_2,sudden,change_info_1,"[99, 99, 99, 99]",sudden,[3435]
+1534,log_1008_1708942946.xes,drift_3,gradual,change_info_1,"[151, 151, 166, 166]",gradual,"[5265, 5800]"
+1535,log_1010_1708942957.xes,drift_1,gradual,change_info_1,"[52, 52, 61, 61]",gradual,"[1910, 2251]"
+1536,log_1010_1708942957.xes,drift_2,gradual,change_info_1,"[107, 107, 119, 119]",gradual,"[3947, 4371]"
+1537,log_1010_1708942957.xes,drift_3,sudden,change_info_1,"[151, 151, 151, 151]",sudden,[5580]
+1538,log_1011_1708942966.xes,drift_1,gradual,change_info_1,"[60, 60, 80, 80]",gradual,"[1486, 1987]"
+1539,log_1011_1708942966.xes,drift_2,sudden,change_info_1,"[137, 137, 137, 137]",sudden,[3421]
+1540,log_1012_1708942975.xes,drift_1,sudden,change_info_1,"[100, 100, 100, 100]",sudden,[1793]
+1541,log_1013_1708942984.xes,drift_1,gradual,change_info_1,"[46, 46, 56, 56]",gradual,"[1585, 1938]"
+1542,log_1013_1708942984.xes,drift_2,gradual,change_info_1,"[106, 106, 116, 116]",gradual,"[3681, 4057]"
+1543,log_1013_1708942984.xes,drift_3,sudden,change_info_1,"[155, 155, 155, 155]",sudden,[5397]
+1544,log_1016_1708942911.xes,drift_1,sudden,change_info_1,"[43, 43, 43, 43]",sudden,[1247]
+1545,log_1016_1708942911.xes,drift_2,gradual,change_info_1,"[82, 82, 99, 99]",gradual,"[2363, 2862]"
+1546,log_1016_1708942911.xes,drift_3,sudden,change_info_1,"[153, 153, 153, 153]",sudden,[4436]
+1547,log_1017_1708942918.xes,drift_1,gradual,change_info_1,"[53, 53, 68, 68]",gradual,"[2000, 2562]"
+1548,log_1017_1708942918.xes,drift_2,sudden,change_info_1,"[117, 117, 117, 117]",sudden,[4419]
+1549,log_1017_1708942918.xes,drift_3,gradual,change_info_1,"[144, 144, 159, 159]",gradual,"[5467, 6032]"
+1550,log_1018_1708942929.xes,drift_1,sudden,change_info_1,"[78, 78, 78, 78]",sudden,[1939]
+1551,log_1018_1708942929.xes,drift_2,sudden,change_info_1,"[130, 130, 130, 130]",sudden,[3235]
+1552,log_1019_1708942934.xes,drift_1,sudden,change_info_1,"[112, 112, 112, 112]",sudden,[1337]
+1553,log_1020_1708942938.xes,drift_1,sudden,change_info_1,"[94, 94, 94, 94]",sudden,[1495]
+1554,log_1022_1708942941.xes,drift_1,gradual,change_info_1,"[74, 74, 104, 104]",gradual,"[1179, 1663]"
+1555,log_1023_1708942945.xes,drift_1,gradual,change_info_1,"[57, 57, 72, 72]",gradual,"[1757, 2221]"
+1556,log_1023_1708942945.xes,drift_2,gradual,change_info_1,"[134, 134, 144, 144]",gradual,"[4141, 4449]"
+1557,log_1024_1708942968.xes,drift_1,gradual,change_info_1,"[98, 98, 114, 114]",gradual,"[1852, 2155]"
+1558,log_1025_1708942977.xes,drift_1,sudden,change_info_1,"[87, 87, 87, 87]",sudden,[1472]
+1559,log_1026_1708942982.xes,drift_1,sudden,change_info_1,"[112, 112, 112, 112]",sudden,[1231]
+1560,log_1027_1708942985.xes,drift_1,gradual,change_info_1,"[101, 101, 131, 131]",gradual,"[1407, 1830]"
+1561,log_1028_1708942906.xes,drift_1,gradual,change_info_1,"[50, 50, 66, 66]",gradual,"[1769, 2369]"
+1562,log_1028_1708942906.xes,drift_2,gradual,change_info_1,"[122, 122, 134, 134]",gradual,"[4366, 4822]"
+1563,log_1028_1708942906.xes,drift_3,sudden,change_info_1,"[170, 170, 170, 170]",sudden,[6102]
+1564,log_1030_1708942926.xes,drift_1,gradual,change_info_1,"[61, 61, 76, 76]",gradual,"[1768, 2189]"
+1565,log_1030_1708942926.xes,drift_2,gradual,change_info_1,"[133, 133, 150, 150]",gradual,"[3852, 4342]"
+1566,log_1031_1708942932.xes,drift_1,sudden,change_info_1,"[132, 132, 132, 132]",sudden,[1842]
+1567,log_1032_1708942936.xes,drift_1,gradual,change_info_1,"[55, 55, 71, 71]",gradual,"[1426, 1822]"
+1568,log_1032_1708942936.xes,drift_2,gradual,change_info_1,"[145, 145, 163, 163]",gradual,"[3759, 4215]"
+1569,log_1033_1708942951.xes,drift_1,sudden,change_info_1,"[35, 35, 35, 35]",sudden,[1152]
+1570,log_1033_1708942951.xes,drift_2,gradual,change_info_1,"[95, 95, 106, 106]",gradual,"[3122, 3474]"
+1571,log_1033_1708942951.xes,drift_3,gradual,change_info_1,"[152, 152, 166, 166]",gradual,"[4985, 5471]"
+1572,log_1035_1708942974.xes,drift_1,sudden,change_info_1,"[92, 92, 92, 92]",sudden,[1003]
+1573,log_1036_1708942975.xes,drift_1,sudden,change_info_1,"[85, 85, 85, 85]",sudden,[1951]
+1574,log_1036_1708942975.xes,drift_2,sudden,change_info_1,"[153, 153, 153, 153]",sudden,[3511]
+1575,log_1037_1708942979.xes,drift_1,sudden,change_info_1,"[62, 62, 62, 62]",sudden,[1411]
+1576,log_1037_1708942979.xes,drift_2,sudden,change_info_1,"[136, 136, 136, 136]",sudden,[3108]
+1577,log_1038_1708942982.xes,drift_1,sudden,change_info_1,"[68, 68, 68, 68]",sudden,[1547]
+1578,log_1038_1708942982.xes,drift_2,sudden,change_info_1,"[120, 120, 120, 120]",sudden,[2749]
+1579,log_1039_1708942988.xes,drift_1,sudden,change_info_1,"[130, 130, 130, 130]",sudden,[1685]
+1580,log_1040_1708942991.xes,drift_1,sudden,change_info_1,"[48, 48, 48, 48]",sudden,[1571]
+1581,log_1040_1708942991.xes,drift_2,sudden,change_info_1,"[87, 87, 87, 87]",sudden,[2841]
+1582,log_1040_1708942991.xes,drift_3,gradual,change_info_1,"[144, 144, 159, 159]",gradual,"[4724, 5237]"
+1583,log_1042_1708942910.xes,drift_1,gradual,change_info_1,"[73, 73, 116, 116]",gradual,"[1017, 1613]"
+1584,log_1043_1708942914.xes,drift_1,sudden,change_info_1,"[103, 103, 103, 103]",sudden,[1837]
+1585,log_1044_1708942932.xes,drift_1,sudden,change_info_1,"[64, 64, 64, 64]",sudden,[1328]
+1586,log_1044_1708942932.xes,drift_2,sudden,change_info_1,"[120, 120, 120, 120]",sudden,[2503]
+1587,log_1045_1708942938.xes,drift_1,gradual,change_info_1,"[56, 56, 76, 76]",gradual,"[1333, 1815]"
+1588,log_1045_1708942938.xes,drift_2,gradual,change_info_1,"[147, 147, 160, 160]",gradual,"[3518, 3840]"
+1589,log_1046_1708942944.xes,drift_1,sudden,change_info_1,"[111, 111, 111, 111]",sudden,[1885]
+1590,log_1047_1708942949.xes,drift_1,gradual,change_info_1,"[82, 82, 116, 116]",gradual,"[1229, 1731]"
+1591,log_1048_1708942958.xes,drift_1,sudden,change_info_1,"[52, 52, 52, 52]",sudden,[1191]
+1592,log_1048_1708942958.xes,drift_2,sudden,change_info_1,"[130, 130, 130, 130]",sudden,[2975]
+1593,log_1049_1708942966.xes,drift_1,sudden,change_info_1,"[77, 77, 77, 77]",sudden,[1756]
+1594,log_1049_1708942966.xes,drift_2,gradual,change_info_1,"[131, 131, 155, 155]",gradual,"[3001, 3561]"
+1595,log_1050_1708942974.xes,drift_1,gradual,change_info_1,"[50, 50, 62, 62]",gradual,"[1545, 1898]"
+1596,log_1050_1708942974.xes,drift_2,gradual,change_info_1,"[97, 97, 108, 108]",gradual,"[2991, 3335]"
+1597,log_1050_1708942974.xes,drift_3,gradual,change_info_1,"[152, 152, 162, 162]",gradual,"[4711, 5020]"
+1598,log_1051_1708942982.xes,drift_1,sudden,change_info_1,"[105, 105, 105, 105]",sudden,[1981]
+1599,log_1052_1708942988.xes,drift_1,gradual,change_info_1,"[60, 60, 74, 74]",gradual,"[1853, 2276]"
+1600,log_1052_1708942988.xes,drift_2,gradual,change_info_1,"[108, 108, 124, 124]",gradual,"[3321, 3823]"
+1601,log_1052_1708942988.xes,drift_3,gradual,change_info_1,"[158, 158, 174, 174]",gradual,"[4878, 5393]"
+1602,log_1053_1708942994.xes,drift_1,gradual,change_info_1,"[121, 121, 148, 148]",gradual,"[1935, 2368]"
+1603,log_1054_1708942912.xes,drift_1,gradual,change_info_1,"[54, 54, 67, 67]",gradual,"[1867, 2324]"
+1604,log_1054_1708942912.xes,drift_2,sudden,change_info_1,"[97, 97, 97, 97]",sudden,[3381]
+1605,log_1054_1708942912.xes,drift_3,sudden,change_info_1,"[152, 152, 152, 152]",sudden,[5309]
+1606,log_1055_1708942917.xes,drift_1,gradual,change_info_1,"[66, 66, 89, 89]",gradual,"[1627, 2216]"
+1607,log_1055_1708942917.xes,drift_2,sudden,change_info_1,"[143, 143, 143, 143]",sudden,[3571]
+1608,log_1056_1708942922.xes,drift_1,gradual,change_info_1,"[84, 84, 113, 113]",gradual,"[1339, 1800]"
+1609,log_1057_1708942925.xes,drift_1,sudden,change_info_1,"[107, 107, 107, 107]",sudden,[1710]
+1610,log_1058_1708942928.xes,drift_1,sudden,change_info_1,"[62, 62, 62, 62]",sudden,[1470]
+1611,log_1058_1708942928.xes,drift_2,gradual,change_info_1,"[119, 119, 139, 139]",gradual,"[2836, 3328]"
+1612,log_1059_1708942938.xes,drift_1,sudden,change_info_1,"[113, 113, 113, 113]",sudden,[1688]
+1613,log_1061_1708942948.xes,drift_1,sudden,change_info_1,"[94, 94, 94, 94]",sudden,[1965]
+1614,log_1061_1708942948.xes,drift_2,sudden,change_info_1,"[147, 147, 147, 147]",sudden,[3069]
+1615,log_1062_1708942961.xes,drift_1,gradual,change_info_1,"[48, 48, 60, 60]",gradual,"[1235, 1552]"
+1616,log_1062_1708942961.xes,drift_2,gradual,change_info_1,"[115, 115, 130, 130]",gradual,"[2980, 3370]"
+1617,log_1063_1708942968.xes,drift_1,gradual,change_info_1,"[76, 76, 98, 98]",gradual,"[1958, 2526]"
+1618,log_1063_1708942968.xes,drift_2,gradual,change_info_1,"[147, 147, 169, 169]",gradual,"[3808, 4370]"
+1619,log_1064_1708942974.xes,drift_1,sudden,change_info_1,"[78, 78, 78, 78]",sudden,[1700]
+1620,log_1064_1708942974.xes,drift_2,sudden,change_info_1,"[147, 147, 147, 147]",sudden,[3221]
+1621,log_1065_1708942980.xes,drift_1,sudden,change_info_1,"[96, 96, 96, 96]",sudden,[1049]
+1622,log_1066_1708942985.xes,drift_1,sudden,change_info_1,"[38, 38, 38, 38]",sudden,[1008]
+1623,log_1066_1708942985.xes,drift_2,sudden,change_info_1,"[81, 81, 81, 81]",sudden,[2162]
+1624,log_1066_1708942985.xes,drift_3,sudden,change_info_1,"[144, 144, 144, 144]",sudden,[3882]
+1625,log_1067_1708942913.xes,drift_1,sudden,change_info_1,"[52, 52, 52, 52]",sudden,[1130]
+1626,log_1067_1708942913.xes,drift_2,gradual,change_info_1,"[119, 119, 141, 141]",gradual,"[2599, 3094]"
+1627,log_1068_1708942920.xes,drift_1,gradual,change_info_1,"[60, 60, 72, 72]",gradual,"[1962, 2371]"
+1628,log_1068_1708942920.xes,drift_2,sudden,change_info_1,"[116, 116, 116, 116]",sudden,[3815]
+1629,log_1068_1708942920.xes,drift_3,sudden,change_info_1,"[147, 147, 147, 147]",sudden,[4849]
+1630,log_1069_1708942929.xes,drift_1,sudden,change_info_1,"[78, 78, 78, 78]",sudden,[1939]
+1631,log_1069_1708942929.xes,drift_2,gradual,change_info_1,"[130, 130, 152, 152]",gradual,"[3240, 3780]"
+1632,log_1070_1708942934.xes,drift_1,gradual,change_info_1,"[57, 57, 69, 69]",gradual,"[1967, 2407]"
+1633,log_1070_1708942934.xes,drift_2,gradual,change_info_1,"[105, 105, 119, 119]",gradual,"[3674, 4160]"
+1634,log_1070_1708942934.xes,drift_3,sudden,change_info_1,"[154, 154, 154, 154]",sudden,[5357]
+1635,log_1071_1708942947.xes,drift_1,gradual,change_info_1,"[66, 66, 85, 85]",gradual,"[1836, 2378]"
+1636,log_1071_1708942947.xes,drift_2,sudden,change_info_1,"[146, 146, 146, 146]",sudden,[4076]
+1637,log_1073_1708942958.xes,drift_1,sudden,change_info_1,"[45, 45, 45, 45]",sudden,[1207]
+1638,log_1073_1708942958.xes,drift_2,sudden,change_info_1,"[83, 83, 83, 83]",sudden,[2234]
+1639,log_1073_1708942958.xes,drift_3,gradual,change_info_1,"[142, 142, 162, 162]",gradual,"[3814, 4355]"
+1640,log_1075_1708942969.xes,drift_1,sudden,change_info_1,"[55, 55, 55, 55]",sudden,[1810]
+1641,log_1075_1708942969.xes,drift_2,sudden,change_info_1,"[87, 87, 87, 87]",sudden,[2845]
+1642,log_1075_1708942969.xes,drift_3,gradual,change_info_1,"[137, 137, 155, 155]",gradual,"[4517, 5106]"
+1643,log_1077_1708942980.xes,drift_1,gradual,change_info_1,"[102, 102, 126, 126]",gradual,"[1427, 1759]"
+1644,log_1078_1708942986.xes,drift_1,gradual,change_info_1,"[62, 62, 80, 80]",gradual,"[1850, 2391]"
+1645,log_1078_1708942986.xes,drift_2,gradual,change_info_1,"[133, 133, 148, 148]",gradual,"[3972, 4420]"
+1646,log_1079_1708942989.xes,drift_1,gradual,change_info_1,"[89, 89, 109, 109]",gradual,"[1322, 1629]"
+1647,log_1080_1708942918.xes,drift_1,sudden,change_info_1,"[86, 86, 86, 86]",sudden,[1112]
+1648,log_1082_1708942926.xes,drift_1,sudden,change_info_1,"[119, 119, 119, 119]",sudden,[1654]
+1649,log_1083_1708942929.xes,drift_1,gradual,change_info_1,"[57, 57, 81, 81]",gradual,"[1366, 1937]"
+1650,log_1083_1708942929.xes,drift_2,gradual,change_info_1,"[128, 128, 142, 142]",gradual,"[3069, 3395]"
+1651,log_1084_1708942935.xes,drift_1,gradual,change_info_1,"[91, 91, 106, 106]",gradual,"[1801, 2115]"
+1652,log_1085_1708942948.xes,drift_1,gradual,change_info_1,"[76, 76, 114, 114]",gradual,"[1061, 1584]"
+1653,log_1086_1708942950.xes,drift_1,sudden,change_info_1,"[123, 123, 123, 123]",sudden,[1592]
+1654,log_1087_1708942951.xes,drift_1,sudden,change_info_1,"[133, 133, 133, 133]",sudden,[1853]
+1655,log_1089_1708942958.xes,drift_1,sudden,change_info_1,"[106, 106, 106, 106]",sudden,[1271]
+1656,log_1091_1708942966.xes,drift_1,sudden,change_info_1,"[79, 79, 79, 79]",sudden,[1422]
+1657,log_1091_1708942966.xes,drift_2,sudden,change_info_1,"[146, 146, 146, 146]",sudden,[2625]
+1658,log_1092_1708942969.xes,drift_1,sudden,change_info_1,"[99, 99, 99, 99]",sudden,[1381]
+1659,log_1093_1708942919.xes,drift_1,gradual,change_info_1,"[77, 77, 117, 117]",gradual,"[1076, 1630]"
+1660,log_1094_1708942927.xes,drift_1,sudden,change_info_1,"[52, 52, 52, 52]",sudden,[1234]
+1661,log_1094_1708942927.xes,drift_2,gradual,change_info_1,"[129, 129, 146, 146]",gradual,"[3077, 3490]"
+1662,log_1095_1708942937.xes,drift_1,gradual,change_info_1,"[54, 54, 63, 63]",gradual,"[1962, 2308]"
+1663,log_1095_1708942937.xes,drift_2,gradual,change_info_1,"[113, 113, 124, 124]",gradual,"[4180, 4553]"
+1664,log_1095_1708942937.xes,drift_3,sudden,change_info_1,"[175, 175, 175, 175]",sudden,[6455]
+1665,log_1096_1708942945.xes,drift_1,gradual,change_info_1,"[51, 51, 64, 64]",gradual,"[1675, 2099]"
+1666,log_1096_1708942945.xes,drift_2,gradual,change_info_1,"[99, 99, 110, 110]",gradual,"[3246, 3598]"
+1667,log_1096_1708942945.xes,drift_3,sudden,change_info_1,"[170, 170, 170, 170]",sudden,[5589]
+1668,log_1099_1708942974.xes,drift_1,sudden,change_info_1,"[42, 42, 42, 42]",sudden,[1285]
+1669,log_1099_1708942974.xes,drift_2,sudden,change_info_1,"[84, 84, 84, 84]",sudden,[2586]
+1670,log_1099_1708942974.xes,drift_3,sudden,change_info_1,"[142, 142, 142, 142]",sudden,[4393]
+1671,log_1100_1708942981.xes,drift_1,sudden,change_info_1,"[44, 44, 44, 44]",sudden,[1394]
+1672,log_1100_1708942981.xes,drift_2,sudden,change_info_1,"[88, 88, 88, 88]",sudden,[2816]
+1673,log_1100_1708942981.xes,drift_3,gradual,change_info_1,"[145, 145, 158, 158]",gradual,"[4624, 5032]"
+1674,log_1101_1708942988.xes,drift_1,gradual,change_info_1,"[43, 43, 59, 59]",gradual,"[1532, 2118]"
+1675,log_1101_1708942988.xes,drift_2,sudden,change_info_1,"[99, 99, 99, 99]",sudden,[3550]
+1676,log_1101_1708942988.xes,drift_3,sudden,change_info_1,"[149, 149, 149, 149]",sudden,[5351]
+1677,log_1102_1708942998.xes,drift_1,sudden,change_info_1,"[54, 54, 54, 54]",sudden,[1830]
+1678,log_1102_1708942998.xes,drift_2,gradual,change_info_1,"[104, 104, 119, 119]",gradual,"[3524, 4040]"
+1679,log_1102_1708942998.xes,drift_3,sudden,change_info_1,"[174, 174, 174, 174]",sudden,[5906]
+1680,log_1104_1708943004.xes,drift_1,sudden,change_info_1,"[46, 46, 46, 46]",sudden,[1603]
+1681,log_1104_1708943004.xes,drift_2,sudden,change_info_1,"[102, 102, 102, 102]",sudden,[3550]
+1682,log_1104_1708943004.xes,drift_3,gradual,change_info_1,"[141, 141, 152, 152]",gradual,"[4920, 5290]"
+1683,log_1105_1708943010.xes,drift_1,gradual,change_info_1,"[51, 51, 67, 67]",gradual,"[1558, 2057]"
+1684,log_1105_1708943010.xes,drift_2,sudden,change_info_1,"[105, 105, 105, 105]",sudden,[3243]
+1685,log_1105_1708943010.xes,drift_3,sudden,change_info_1,"[166, 166, 166, 166]",sudden,[5134]
+1686,log_1106_1708942921.xes,drift_1,gradual,change_info_1,"[45, 45, 55, 55]",gradual,"[1602, 1972]"
+1687,log_1106_1708942921.xes,drift_2,sudden,change_info_1,"[110, 110, 110, 110]",sudden,[3948]
+1688,log_1106_1708942921.xes,drift_3,sudden,change_info_1,"[157, 157, 157, 157]",sudden,[5638]
+1689,log_1109_1708942937.xes,drift_1,sudden,change_info_1,"[80, 80, 80, 80]",sudden,[1274]
+1690,log_1110_1708942943.xes,drift_1,gradual,change_info_1,"[79, 79, 108, 108]",gradual,"[1579, 2153]"
+1691,log_1111_1708942954.xes,drift_1,gradual,change_info_1,"[75, 75, 102, 102]",gradual,"[1646, 2227]"
+1692,log_1111_1708942954.xes,drift_2,sudden,change_info_1,"[152, 152, 152, 152]",sudden,[3334]
+1693,log_1112_1708942959.xes,drift_1,sudden,change_info_1,"[42, 42, 42, 42]",sudden,[1237]
+1694,log_1112_1708942959.xes,drift_2,gradual,change_info_1,"[78, 78, 77, 77]",gradual,"[2310, 2875]"
+1695,log_1112_1708942959.xes,drift_3,gradual,change_info_1,"[139, 139, 153, 153]",gradual,"[4161, 4581]"
+1696,log_1113_1708942980.xes,drift_1,gradual,change_info_1,"[63, 63, 76, 76]",gradual,"[1625, 1973]"
+1697,log_1113_1708942980.xes,drift_2,gradual,change_info_1,"[116, 116, 130, 130]",gradual,"[3006, 3365]"
+1698,log_1114_1708942984.xes,drift_1,sudden,change_info_1,"[69, 69, 69, 69]",sudden,[1656]
+1699,log_1114_1708942984.xes,drift_2,gradual,change_info_1,"[146, 146, 162, 162]",gradual,"[3487, 3872]"
+1700,log_1115_1708942989.xes,drift_1,sudden,change_info_1,"[93, 93, 93, 93]",sudden,[1111]
+1701,log_1116_1708942991.xes,drift_1,sudden,change_info_1,"[109, 109, 109, 109]",sudden,[1514]
+1702,log_1117_1708942995.xes,drift_1,sudden,change_info_1,"[89, 89, 89, 89]",sudden,[1689]
+1703,log_1117_1708942995.xes,drift_2,sudden,change_info_1,"[155, 155, 155, 155]",sudden,[2940]
+1704,log_1118_1708942999.xes,drift_1,sudden,change_info_1,"[58, 58, 58, 58]",sudden,[1494]
+1705,log_1118_1708942999.xes,drift_2,gradual,change_info_1,"[116, 116, 133, 133]",gradual,"[2994, 3440]"
+1706,log_1120_1708942933.xes,drift_1,gradual,change_info_1,"[42, 42, 56, 56]",gradual,"[1444, 1947]"
+1707,log_1120_1708942933.xes,drift_2,sudden,change_info_1,"[88, 88, 88, 88]",sudden,[3074]
+1708,log_1120_1708942933.xes,drift_3,gradual,change_info_1,"[132, 132, 149, 149]",gradual,"[4616, 5189]"
+1709,log_1122_1708942947.xes,drift_1,sudden,change_info_1,"[61, 61, 61, 61]",sudden,[1579]
+1710,log_1122_1708942947.xes,drift_2,sudden,change_info_1,"[129, 129, 129, 129]",sudden,[3352]
+1711,log_1125_1708942959.xes,drift_1,sudden,change_info_1,"[97, 97, 97, 97]",sudden,[1254]
+1712,log_1127_1708942967.xes,drift_1,sudden,change_info_1,"[89, 89, 89, 89]",sudden,[1330]
+1713,log_1128_1708942971.xes,drift_1,gradual,change_info_1,"[52, 52, 73, 73]",gradual,"[1182, 1671]"
+1714,log_1128_1708942971.xes,drift_2,sudden,change_info_1,"[158, 158, 158, 158]",sudden,[3628]
+1715,log_1130_1708942976.xes,drift_1,sudden,change_info_1,"[86, 86, 86, 86]",sudden,[1289]
+1716,log_1131_1708942980.xes,drift_1,gradual,change_info_1,"[34, 34, 47, 47]",gradual,"[1154, 1573]"
+1717,log_1131_1708942980.xes,drift_2,gradual,change_info_1,"[90, 90, 104, 104]",gradual,"[3041, 3528]"
+1718,log_1131_1708942980.xes,drift_3,gradual,change_info_1,"[136, 136, 147, 147]",gradual,"[4608, 4987]"
+1719,log_1132_1708942931.xes,drift_1,gradual,change_info_1,"[31, 31, 47, 47]",gradual,"[1106, 1660]"
+1720,log_1132_1708942931.xes,drift_2,gradual,change_info_1,"[89, 89, 103, 103]",gradual,"[3201, 3686]"
+1721,log_1132_1708942931.xes,drift_3,gradual,change_info_1,"[156, 156, 168, 168]",gradual,"[5595, 6033]"
+1722,log_1133_1708942937.xes,drift_1,gradual,change_info_1,"[47, 47, 64, 64]",gradual,"[1298, 1784]"
+1723,log_1133_1708942937.xes,drift_2,sudden,change_info_1,"[135, 135, 135, 135]",sudden,[3769]
+1724,log_1134_1708942953.xes,drift_1,gradual,change_info_1,"[52, 52, 65, 65]",gradual,"[1480, 1869]"
+1725,log_1134_1708942953.xes,drift_2,sudden,change_info_1,"[103, 103, 103, 103]",sudden,[2968]
+1726,log_1134_1708942953.xes,drift_3,gradual,change_info_1,"[149, 149, 167, 167]",gradual,"[4305, 4817]"
+1727,log_1136_1708942989.xes,drift_1,sudden,change_info_1,"[70, 70, 70, 70]",sudden,[1387]
+1728,log_1136_1708942989.xes,drift_2,sudden,change_info_1,"[130, 130, 130, 130]",sudden,[2600]
+1729,log_1137_1708942992.xes,drift_1,gradual,change_info_1,"[76, 76, 109, 109]",gradual,"[1129, 1629]"
+1730,log_1138_1708942995.xes,drift_1,sudden,change_info_1,"[68, 68, 68, 68]",sudden,[1425]
+1731,log_1138_1708942995.xes,drift_2,gradual,change_info_1,"[127, 127, 151, 151]",gradual,"[2655, 3158]"
+1732,log_1139_1708942996.xes,drift_1,sudden,change_info_1,"[43, 43, 43, 43]",sudden,[1408]
+1733,log_1139_1708942996.xes,drift_2,gradual,change_info_1,"[101, 101, 114, 114]",gradual,"[3321, 3735]"
+1734,log_1139_1708942996.xes,drift_3,gradual,change_info_1,"[153, 153, 166, 166]",gradual,"[5024, 5460]"
+1735,log_1140_1708943000.xes,drift_1,sudden,change_info_1,"[120, 120, 120, 120]",sudden,[1678]
+1736,log_1141_1708943001.xes,drift_1,sudden,change_info_1,"[72, 72, 72, 72]",sudden,[1714]
+1737,log_1141_1708943001.xes,drift_2,gradual,change_info_1,"[115, 115, 140, 140]",gradual,"[2750, 3343]"
+1738,log_1142_1708943005.xes,drift_1,sudden,change_info_1,"[78, 78, 78, 78]",sudden,[1787]
+1739,log_1142_1708943005.xes,drift_2,sudden,change_info_1,"[133, 133, 133, 133]",sudden,[3046]
+1740,log_1145_1708942931.xes,drift_1,gradual,change_info_1,"[46, 46, 64, 64]",gradual,"[1513, 2097]"
+1741,log_1145_1708942931.xes,drift_2,gradual,change_info_1,"[105, 105, 123, 123]",gradual,"[3443, 4030]"
+1742,log_1145_1708942931.xes,drift_3,gradual,change_info_1,"[157, 157, 168, 168]",gradual,"[5158, 5534]"
+1743,log_1147_1708942946.xes,drift_1,gradual,change_info_1,"[47, 47, 62, 62]",gradual,"[1340, 1798]"
+1744,log_1147_1708942946.xes,drift_2,sudden,change_info_1,"[99, 99, 99, 99]",sudden,[2845]
+1745,log_1147_1708942946.xes,drift_3,gradual,change_info_1,"[135, 135, 150, 150]",gradual,"[3889, 4342]"
+1746,log_1148_1708942960.xes,drift_1,sudden,change_info_1,"[112, 112, 112, 112]",sudden,[1120]
+1747,log_1149_1708942966.xes,drift_1,gradual,change_info_1,"[93, 93, 124, 124]",gradual,"[1572, 2094]"
+1748,log_1150_1708942973.xes,drift_1,gradual,change_info_1,"[55, 55, 72, 72]",gradual,"[1759, 2275]"
+1749,log_1150_1708942973.xes,drift_2,sudden,change_info_1,"[110, 110, 110, 110]",sudden,[3493]
+1750,log_1150_1708942973.xes,drift_3,sudden,change_info_1,"[162, 162, 162, 162]",sudden,[5169]
+1751,log_1153_1708942989.xes,drift_1,gradual,change_info_1,"[62, 62, 80, 80]",gradual,"[1671, 2150]"
+1752,log_1153_1708942989.xes,drift_2,gradual,change_info_1,"[138, 138, 156, 156]",gradual,"[3720, 4212]"
+1753,log_1156_1708943001.xes,drift_1,sudden,change_info_1,"[80, 80, 80, 80]",sudden,[1115]
+1754,log_1157_1708943002.xes,drift_1,sudden,change_info_1,"[122, 122, 122, 122]",sudden,[1585]
+1755,log_1158_1708942934.xes,drift_1,gradual,change_info_1,"[30, 30, 42, 42]",gradual,"[1040, 1463]"
+1756,log_1158_1708942934.xes,drift_2,gradual,change_info_1,"[85, 85, 95, 95]",gradual,"[2969, 3299]"
+1757,log_1158_1708942934.xes,drift_3,gradual,change_info_1,"[147, 147, 163, 163]",gradual,"[5124, 5696]"
+1758,log_1159_1708942944.xes,drift_1,gradual,change_info_1,"[58, 58, 69, 69]",gradual,"[1549, 1849]"
+1759,log_1159_1708942944.xes,drift_2,gradual,change_info_1,"[116, 116, 134, 134]",gradual,"[3120, 3593]"
+1760,log_1160_1708942968.xes,drift_1,gradual,change_info_1,"[61, 61, 82, 82]",gradual,"[1630, 2192]"
+1761,log_1160_1708942968.xes,drift_2,sudden,change_info_1,"[137, 137, 137, 137]",sudden,[3698]
+1762,log_1161_1708942986.xes,drift_1,gradual,change_info_1,"[55, 55, 65, 65]",gradual,"[1841, 2204]"
+1763,log_1161_1708942986.xes,drift_2,sudden,change_info_1,"[96, 96, 96, 96]",sudden,[3240]
+1764,log_1161_1708942986.xes,drift_3,sudden,change_info_1,"[149, 149, 149, 149]",sudden,[5046]
+1765,log_1164_1708942998.xes,drift_1,gradual,change_info_1,"[57, 57, 67, 67]",gradual,"[1813, 2138]"
+1766,log_1164_1708942998.xes,drift_2,gradual,change_info_1,"[111, 111, 126, 126]",gradual,"[3545, 4030]"
+1767,log_1164_1708942998.xes,drift_3,sudden,change_info_1,"[172, 172, 172, 172]",sudden,[5474]
+1768,log_1165_1708943004.xes,drift_1,gradual,change_info_1,"[85, 85, 123, 123]",gradual,"[1184, 1722]"
+1769,log_1166_1708943013.xes,drift_1,gradual,change_info_1,"[94, 94, 121, 121]",gradual,"[1960, 2527]"
+1770,log_1167_1708943017.xes,drift_1,sudden,change_info_1,"[89, 89, 89, 89]",sudden,[1064]
+1771,log_1168_1708943018.xes,drift_1,gradual,change_info_1,"[75, 75, 96, 96]",gradual,"[1185, 1523]"
+1772,log_1169_1708943020.xes,drift_1,gradual,change_info_1,"[93, 93, 118, 118]",gradual,"[1849, 2358]"
+1773,log_1170_1708943024.xes,drift_1,gradual,change_info_1,"[82, 82, 81, 81]",gradual,"[1620, 1961]"
+1774,log_1170_1708943024.xes,drift_2,sudden,change_info_1,"[158, 158, 158, 158]",sudden,[3158]
+1775,log_1171_1708942934.xes,drift_1,sudden,change_info_1,"[112, 112, 112, 112]",sudden,[1900]
+1776,log_1172_1708942939.xes,drift_1,gradual,change_info_1,"[57, 57, 75, 75]",gradual,"[1235, 1643]"
+1777,log_1172_1708942939.xes,drift_2,gradual,change_info_1,"[146, 146, 160, 160]",gradual,"[3196, 3499]"
+1778,log_1173_1708942945.xes,drift_1,sudden,change_info_1,"[40, 40, 40, 40]",sudden,[1139]
+1779,log_1173_1708942945.xes,drift_2,sudden,change_info_1,"[97, 97, 97, 97]",sudden,[2807]
+1780,log_1173_1708942945.xes,drift_3,sudden,change_info_1,"[134, 134, 134, 134]",sudden,[3874]
+1781,log_1174_1708942954.xes,drift_1,sudden,change_info_1,"[63, 63, 63, 63]",sudden,[1551]
+1782,log_1174_1708942954.xes,drift_2,sudden,change_info_1,"[134, 134, 134, 134]",sudden,[3336]
+1783,log_1176_1708942961.xes,drift_1,sudden,change_info_1,"[36, 36, 36, 36]",sudden,[1134]
+1784,log_1176_1708942961.xes,drift_2,gradual,change_info_1,"[91, 91, 108, 108]",gradual,"[2903, 3429]"
+1785,log_1176_1708942961.xes,drift_3,sudden,change_info_1,"[148, 148, 148, 148]",sudden,[4716]
+1786,log_1178_1708942976.xes,drift_1,sudden,change_info_1,"[103, 103, 103, 103]",sudden,[1536]
+1787,log_1179_1708942981.xes,drift_1,gradual,change_info_1,"[31, 31, 43, 43]",gradual,"[1114, 1522]"
+1788,log_1179_1708942981.xes,drift_2,gradual,change_info_1,"[87, 87, 102, 102]",gradual,"[3106, 3664]"
+1789,log_1179_1708942981.xes,drift_3,sudden,change_info_1,"[150, 150, 150, 150]",sudden,[5400]
+1790,log_1180_1708942991.xes,drift_1,gradual,change_info_1,"[70, 70, 83, 83]",gradual,"[1741, 2060]"
+1791,log_1180_1708942991.xes,drift_2,gradual,change_info_1,"[124, 124, 138, 138]",gradual,"[3098, 3441]"
+1792,log_1181_1708942997.xes,drift_1,gradual,change_info_1,"[110, 110, 143, 143]",gradual,"[1866, 2417]"
+1793,log_1182_1708943001.xes,drift_1,sudden,change_info_1,"[61, 61, 61, 61]",sudden,[1400]
+1794,log_1182_1708943001.xes,drift_2,sudden,change_info_1,"[126, 126, 126, 126]",sudden,[2885]
+1795,log_1183_1708943005.xes,drift_1,sudden,change_info_1,"[53, 53, 53, 53]",sudden,[1199]
+1796,log_1183_1708943005.xes,drift_2,gradual,change_info_1,"[129, 129, 152, 152]",gradual,"[2959, 3495]"
+1797,log_1184_1708942946.xes,drift_1,sudden,change_info_1,"[66, 66, 66, 66]",sudden,[1831]
+1798,log_1184_1708942946.xes,drift_2,gradual,change_info_1,"[135, 135, 151, 151]",gradual,"[3757, 4221]"
+1799,log_1186_1708942982.xes,drift_1,sudden,change_info_1,"[57, 57, 57, 57]",sudden,[1878]
+1800,log_1186_1708942982.xes,drift_2,sudden,change_info_1,"[108, 108, 108, 108]",sudden,[3539]
+1801,log_1186_1708942982.xes,drift_3,sudden,change_info_1,"[165, 165, 165, 165]",sudden,[5420]
+1802,log_1187_1708942991.xes,drift_1,sudden,change_info_1,"[69, 69, 69, 69]",sudden,[1772]
+1803,log_1187_1708942991.xes,drift_2,gradual,change_info_1,"[108, 108, 127, 127]",gradual,"[2784, 3280]"
+1804,log_1188_1708942994.xes,drift_1,sudden,change_info_1,"[51, 51, 51, 51]",sudden,[1664]
+1805,log_1188_1708942994.xes,drift_2,gradual,change_info_1,"[103, 103, 115, 115]",gradual,"[3382, 3785]"
+1806,log_1188_1708942994.xes,drift_3,sudden,change_info_1,"[146, 146, 146, 146]",sudden,[4793]
+1807,log_1189_1708943005.xes,drift_1,sudden,change_info_1,"[63, 63, 63, 63]",sudden,[1636]
+1808,log_1189_1708943005.xes,drift_2,gradual,change_info_1,"[139, 139, 152, 152]",gradual,"[3592, 3947]"
+1809,log_1190_1708943024.xes,drift_1,sudden,change_info_1,"[38, 38, 38, 38]",sudden,[1130]
+1810,log_1190_1708943024.xes,drift_2,sudden,change_info_1,"[85, 85, 85, 85]",sudden,[2550]
+1811,log_1190_1708943024.xes,drift_3,gradual,change_info_1,"[137, 137, 156, 156]",gradual,"[4108, 4657]"
+1812,log_1194_1708943042.xes,drift_1,gradual,change_info_1,"[41, 41, 53, 53]",gradual,"[1404, 1855]"
+1813,log_1194_1708943042.xes,drift_2,sudden,change_info_1,"[107, 107, 107, 107]",sudden,[3736]
+1814,log_1194_1708943042.xes,drift_3,gradual,change_info_1,"[143, 143, 160, 160]",gradual,"[4993, 5593]"
+1815,log_1195_1708943052.xes,drift_1,sudden,change_info_1,"[101, 101, 101, 101]",sudden,[1804]
+1816,log_1199_1708942957.xes,drift_1,gradual,change_info_1,"[67, 67, 87, 87]",gradual,"[1915, 2502]"
+1817,log_1199_1708942957.xes,drift_2,gradual,change_info_1,"[149, 149, 168, 168]",gradual,"[4305, 4866]"
+1818,log_1200_1708942964.xes,drift_1,gradual,change_info_1,"[45, 45, 58, 58]",gradual,"[1639, 2135]"
+1819,log_1200_1708942964.xes,drift_2,gradual,change_info_1,"[107, 107, 115, 115]",gradual,"[3929, 4242]"
+1820,log_1200_1708942964.xes,drift_3,sudden,change_info_1,"[161, 161, 161, 161]",sudden,[5945]
+1821,log_1202_1708942988.xes,drift_1,gradual,change_info_1,"[89, 89, 88, 88]",gradual,"[1496, 1797]"
+1822,log_1203_1708942990.xes,drift_1,gradual,change_info_1,"[33, 33, 47, 47]",gradual,"[1016, 1433]"
+1823,log_1203_1708942990.xes,drift_2,sudden,change_info_1,"[86, 86, 86, 86]",sudden,[2650]
+1824,log_1203_1708942990.xes,drift_3,gradual,change_info_1,"[145, 145, 162, 162]",gradual,"[4493, 5009]"
+1825,log_1204_1708943016.xes,drift_1,gradual,change_info_1,"[100, 100, 124, 124]",gradual,"[1992, 2462]"
+1826,log_1205_1708943020.xes,drift_1,gradual,change_info_1,"[40, 40, 55, 55]",gradual,"[1025, 1422]"
+1827,log_1205_1708943020.xes,drift_2,gradual,change_info_1,"[111, 111, 130, 130]",gradual,"[2873, 3367]"
+1828,log_1206_1708943022.xes,drift_1,sudden,change_info_1,"[101, 101, 101, 101]",sudden,[1717]
+1829,log_1207_1708943026.xes,drift_1,sudden,change_info_1,"[81, 81, 81, 81]",sudden,[1843]
+1830,log_1207_1708943026.xes,drift_2,sudden,change_info_1,"[135, 135, 135, 135]",sudden,[3086]
+1831,log_1208_1708943032.xes,drift_1,gradual,change_info_1,"[54, 54, 75, 75]",gradual,"[1442, 2017]"
+1832,log_1208_1708943032.xes,drift_2,gradual,change_info_1,"[145, 145, 161, 161]",gradual,"[3910, 4346]"
+1833,log_1209_1708943040.xes,drift_1,gradual,change_info_1,"[46, 46, 61, 61]",gradual,"[1498, 1999]"
+1834,log_1209_1708943040.xes,drift_2,sudden,change_info_1,"[94, 94, 94, 94]",sudden,[3093]
+1835,log_1209_1708943040.xes,drift_3,gradual,change_info_1,"[147, 147, 163, 163]",gradual,"[4848, 5353]"
+1836,log_1210_1708942950.xes,drift_1,sudden,change_info_1,"[47, 47, 47, 47]",sudden,[1034]
+1837,log_1210_1708942950.xes,drift_2,gradual,change_info_1,"[119, 119, 118, 118]",gradual,"[2596, 3153]"
+1838,log_1211_1708942956.xes,drift_1,sudden,change_info_1,"[52, 52, 52, 52]",sudden,[1430]
+1839,log_1211_1708942956.xes,drift_2,sudden,change_info_1,"[109, 109, 109, 109]",sudden,[3044]
+1840,log_1211_1708942956.xes,drift_3,sudden,change_info_1,"[156, 156, 156, 156]",sudden,[4365]
+1841,log_1213_1708942968.xes,drift_1,sudden,change_info_1,"[97, 97, 97, 97]",sudden,[1644]
+1842,log_1214_1708942977.xes,drift_1,sudden,change_info_1,"[116, 116, 116, 116]",sudden,[1962]
+1843,log_1215_1708942978.xes,drift_1,sudden,change_info_1,"[131, 131, 131, 131]",sudden,[1823]
+1844,log_1216_1708942981.xes,drift_1,gradual,change_info_1,"[60, 60, 73, 73]",gradual,"[1726, 2089]"
+1845,log_1216_1708942981.xes,drift_2,gradual,change_info_1,"[127, 127, 143, 143]",gradual,"[3666, 4141]"
+1846,log_1217_1708942987.xes,drift_1,gradual,change_info_1,"[71, 71, 85, 85]",gradual,"[1985, 2372]"
+1847,log_1217_1708942987.xes,drift_2,gradual,change_info_1,"[133, 133, 152, 152]",gradual,"[3716, 4251]"
+1848,log_1218_1708942996.xes,drift_1,gradual,change_info_1,"[28, 28, 38, 38]",gradual,"[1010, 1380]"
+1849,log_1218_1708942996.xes,drift_2,gradual,change_info_1,"[76, 76, 90, 90]",gradual,"[2777, 3324]"
+1850,log_1218_1708942996.xes,drift_3,gradual,change_info_1,"[142, 142, 152, 152]",gradual,"[5253, 5600]"
+1851,log_1219_1708943001.xes,drift_1,sudden,change_info_1,"[53, 53, 53, 53]",sudden,[1428]
+1852,log_1219_1708943001.xes,drift_2,gradual,change_info_1,"[120, 120, 139, 139]",gradual,"[3236, 3728]"
+1853,log_1220_1708943011.xes,drift_1,gradual,change_info_1,"[78, 78, 110, 110]",gradual,"[1476, 2074]"
+1854,log_1221_1708943013.xes,drift_1,sudden,change_info_1,"[88, 88, 88, 88]",sudden,[1407]
+1855,log_1222_1708943017.xes,drift_1,sudden,change_info_1,"[81, 81, 81, 81]",sudden,[1205]
+1856,log_1223_1708942951.xes,drift_1,sudden,change_info_1,"[115, 115, 115, 115]",sudden,[1949]
+1857,log_1224_1708942955.xes,drift_1,sudden,change_info_1,"[101, 101, 101, 101]",sudden,[1403]
+1858,log_1225_1708942958.xes,drift_1,sudden,change_info_1,"[67, 67, 67, 67]",sudden,[1406]
+1859,log_1225_1708942958.xes,drift_2,sudden,change_info_1,"[116, 116, 116, 116]",sudden,[2433]
+1860,log_1228_1708942975.xes,drift_1,sudden,change_info_1,"[130, 130, 130, 130]",sudden,[1687]
+1861,log_1230_1708942986.xes,drift_1,sudden,change_info_1,"[48, 48, 48, 48]",sudden,[1508]
+1862,log_1230_1708942986.xes,drift_2,gradual,change_info_1,"[92, 92, 103, 103]",gradual,"[2924, 3282]"
+1863,log_1230_1708942986.xes,drift_3,gradual,change_info_1,"[135, 135, 144, 144]",gradual,"[4305, 4606]"
+1864,log_1232_1708942995.xes,drift_1,gradual,change_info_1,"[55, 55, 74, 74]",gradual,"[1139, 1540]"
+1865,log_1232_1708942995.xes,drift_2,sudden,change_info_1,"[123, 123, 123, 123]",sudden,[2563]
+1866,log_1234_1708943001.xes,drift_1,gradual,change_info_1,"[52, 52, 67, 67]",gradual,"[1736, 2275]"
+1867,log_1234_1708943001.xes,drift_2,sudden,change_info_1,"[97, 97, 97, 97]",sudden,[3287]
+1868,log_1234_1708943001.xes,drift_3,gradual,change_info_1,"[156, 156, 166, 166]",gradual,"[5286, 5616]"
+1869,log_1235_1708943010.xes,drift_1,gradual,change_info_1,"[76, 76, 94, 94]",gradual,"[1959, 2441]"
+1870,log_1235_1708943010.xes,drift_2,sudden,change_info_1,"[152, 152, 152, 152]",sudden,[3932]
+1871,log_1236_1708942962.xes,drift_1,sudden,change_info_1,"[54, 54, 54, 54]",sudden,[1349]
+1872,log_1236_1708942962.xes,drift_2,gradual,change_info_1,"[101, 101, 124, 124]",gradual,"[2516, 3084]"
+1873,log_1239_1708942976.xes,drift_1,gradual,change_info_1,"[54, 54, 67, 67]",gradual,"[1753, 2193]"
+1874,log_1239_1708942976.xes,drift_2,sudden,change_info_1,"[100, 100, 100, 100]",sudden,[3291]
+1875,log_1239_1708942976.xes,drift_3,sudden,change_info_1,"[144, 144, 144, 144]",sudden,[4750]
+1876,log_1241_1708942986.xes,drift_1,gradual,change_info_1,"[67, 67, 81, 81]",gradual,"[1999, 2413]"
+1877,log_1241_1708942986.xes,drift_2,gradual,change_info_1,"[139, 139, 152, 152]",gradual,"[4146, 4551]"
+1878,log_1242_1708942990.xes,drift_1,sudden,change_info_1,"[103, 103, 103, 103]",sudden,[1852]
+1879,log_1243_1708942993.xes,drift_1,gradual,change_info_1,"[47, 47, 63, 63]",gradual,"[1392, 1890]"
+1880,log_1243_1708942993.xes,drift_2,sudden,change_info_1,"[124, 124, 124, 124]",sudden,[3692]
+1881,log_1243_1708942993.xes,drift_3,sudden,change_info_1,"[166, 166, 166, 166]",sudden,[4954]
+1882,log_1244_1708942998.xes,drift_1,gradual,change_info_1,"[95, 95, 119, 119]",gradual,"[1992, 2492]"
+1883,log_1245_1708943001.xes,drift_1,gradual,change_info_1,"[48, 48, 58, 58]",gradual,"[1515, 1841]"
+1884,log_1245_1708943001.xes,drift_2,sudden,change_info_1,"[99, 99, 99, 99]",sudden,[3160]
+1885,log_1245_1708943001.xes,drift_3,gradual,change_info_1,"[151, 151, 168, 168]",gradual,"[4805, 5364]"
+1886,log_1246_1708943006.xes,drift_1,sudden,change_info_1,"[42, 42, 42, 42]",sudden,[1407]
+1887,log_1246_1708943006.xes,drift_2,sudden,change_info_1,"[87, 87, 87, 87]",sudden,[2932]
+1888,log_1246_1708943006.xes,drift_3,gradual,change_info_1,"[136, 136, 149, 149]",gradual,"[4595, 5035]"
+1889,log_1247_1708943014.xes,drift_1,sudden,change_info_1,"[93, 93, 93, 93]",sudden,[1014]
+1890,log_1249_1708942963.xes,drift_1,gradual,change_info_1,"[56, 56, 71, 71]",gradual,"[1847, 2330]"
+1891,log_1249_1708942963.xes,drift_2,sudden,change_info_1,"[118, 118, 118, 118]",sudden,[3881]
+1892,log_1249_1708942963.xes,drift_3,sudden,change_info_1,"[167, 167, 167, 167]",sudden,[5502]
