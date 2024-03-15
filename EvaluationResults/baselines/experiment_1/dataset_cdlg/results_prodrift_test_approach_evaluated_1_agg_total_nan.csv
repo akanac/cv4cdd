@@ -1,0 +1,4 @@
+,noise_level,method,lag,eval_focus,TP,FP,FN_TP,Precision,Recall,F1_score
+2,0.0,prodrift,5.0,change_point,2700,58,4335,0.9789702683103698,0.6228373702422145,0.7613139715212182
+8,0.3,prodrift,5.0,change_point,10,0,2100,1.0,0.004761904761904762,0.009478672985781991
+14,0.6,prodrift,5.0,change_point,0,0,2112,0.0,0.0,
