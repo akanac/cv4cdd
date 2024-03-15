@@ -1,0 +1,691 @@
+,log_name,complexity,actual_cp,detected_cp,log_size,lag_indices,TP,FP,FN_TP,lag
+0,bose_log,na,"[1199, 2399, 3599, 4799]",[],6000,60,0,0,4,0.01
+1,sudden_trace_noise5_1000_IOR,na,[499],[500],1000,10,1,0,1,0.01
+2,Atomic_ConditionalRemoval_output_ConditionalRemoval_5,na,"[999, 1999]","[959, 1973]",2999,29,1,1,2,0.01
+3,Atomic_ConditionalMove_output_ConditionalMove,na,"[999, 1999]","[930, 1944]",2999,29,0,2,2,0.01
+4,Atomic_ConditionalRemoval_output_ConditionalRemoval_2,na,"[999, 1999]","[928, 1944]",2999,29,0,2,2,0.01
+5,Atomic_ConditionalToSequence_output_ConditionalToSequence_5,na,"[999, 1999]","[1946, 958]",2999,29,0,2,2,0.01
+6,Atomic_ConditionalRemoval_output_ConditionalRemoval,na,"[999, 1999]","[928, 1944]",2999,29,0,2,2,0.01
+7,Atomic_ConditionalToSequence_output_ConditionalToSequence_2,na,"[999, 1999]","[1946, 930]",2999,29,0,2,2,0.01
+8,Atomic_Frequency_output_Frequency_5,na,"[999, 1999]","[899, 1944]",2999,29,0,2,2,0.01
+9,Atomic_ConditionalToSequence_output_ConditionalToSequence,na,"[999, 1999]","[1946, 958]",2999,29,0,2,2,0.01
+10,Atomic_Frequency_output_Frequency_2,na,"[999, 1999]","[1944, 930]",2999,29,0,2,2,0.01
+11,Atomic_Loop_output_Loop_5,na,"[999, 1999]","[929, 1945]",2999,29,0,2,2,0.01
+12,Atomic_Frequency_output_Frequency,na,"[999, 1999]","[1944, 930]",2999,29,0,2,2,0.01
+13,Atomic_Loop_output_Loop_2,na,"[999, 1999]","[929, 1945]",2999,29,0,2,2,0.01
+14,Atomic_ParallelMove_output_ParallelMove_5,na,"[999, 1999]","[928, 1917]",2999,29,0,2,2,0.01
+15,Atomic_Loop_output_Loop,na,"[999, 1999]","[929, 1945]",2999,29,0,2,2,0.01
+16,Atomic_ParallelMove_output_ParallelMove_2,na,"[999, 1999]","[1945, 930]",2999,29,0,2,2,0.01
+17,Atomic_ParallelRemoval_output_ParallelRemoval_5,na,"[999, 1999]","[930, 1944]",2999,29,0,2,2,0.01
+18,Atomic_ParallelMove_output_ParallelMove,na,"[999, 1999]","[928, 1917]",2999,29,0,2,2,0.01
+19,Atomic_ParallelRemoval_output_ParallelRemoval_2,na,"[999, 1999]","[930, 1944]",2999,29,0,2,2,0.01
+20,Atomic_ParallelToSequence_output_ParallelToSequence_5,na,"[999, 1999]","[929, 1946]",2999,29,0,2,2,0.01
+21,Atomic_ParallelRemoval_output_ParallelRemoval,na,"[999, 1999]","[930, 1944]",2999,29,0,2,2,0.01
+22,Atomic_ParallelToSequence_output_ParallelToSequence_2,na,"[999, 1999]","[929, 1916]",2999,29,0,2,2,0.01
+23,Atomic_SerialMove_output_SerialMove_5,na,"[999, 1999]","[1944, 930]",2999,29,0,2,2,0.01
+24,Atomic_ParallelToSequence_output_ParallelToSequence,na,"[999, 1999]","[929, 1916]",2999,29,0,2,2,0.01
+25,Atomic_SerialMove_output_SerialMove_2,na,"[999, 1999]","[930, 1944]",2999,29,0,2,2,0.01
+26,Atomic_SerialRemoval_output_SerialRemoval_5,na,"[999, 1999]","[931, 1943]",2999,29,0,2,2,0.01
+27,Atomic_SerialMove_output_SerialMove,na,"[999, 1999]","[930, 1944]",2999,29,0,2,2,0.01
+28,Atomic_SerialRemoval_output_SerialRemoval_2,na,"[999, 1999]","[931, 1943]",2999,29,0,2,2,0.01
+29,Atomic_Skip_output_Skip_5,na,"[999, 1999]","[958, 1944]",2999,29,0,2,2,0.01
+30,Atomic_SerialRemoval_output_SerialRemoval,na,"[999, 1999]","[931, 1943]",2999,29,0,2,2,0.01
+31,Atomic_Skip_output_Skip_2,na,"[999, 1999]","[1944, 929]",2999,29,0,2,2,0.01
+32,Atomic_Substitute_output_Substitute_5,na,"[999, 1999]","[1944, 930]",2999,29,0,2,2,0.01
+33,Atomic_Skip_output_Skip,na,"[999, 1999]","[929, 1944]",2999,29,0,2,2,0.01
+34,Atomic_Substitute_output_Substitute_2,na,"[999, 1999]","[930, 1944]",2999,29,0,2,2,0.01
+35,Atomic_Swap_output_Swap_5,na,"[999, 1999]","[1947, 929]",2999,29,0,2,2,0.01
+36,Atomic_Substitute_output_Substitute,na,"[999, 1999]","[930, 1944]",2999,29,0,2,2,0.01
+37,Atomic_Swap_output_Swap_2,na,"[999, 1999]","[929, 1947]",2999,29,0,2,2,0.01
+38,Atomic_Swap_output_Swap,na,"[999, 1999]","[929, 1947]",2999,29,0,2,2,0.01
+39,Atomic_ConditionalMove_output_ConditionalMove_2,na,"[999, 1999]","[930, 1944]",2999,29,0,2,2,0.01
+40,Atomic_ConditionalMove_output_ConditionalMove_5,na,"[999, 1999]","[930, 1944]",2999,29,0,2,2,0.01
+41,sudden_trace_noise0_1000_lp,na,[499],[490],1000,10,1,0,1,0.01
+42,sudden_trace_noise0_1000_OIR,na,[499],[500],1000,10,1,0,1,0.01
+43,sudden_trace_noise0_1000_pm,na,[499],[500],1000,10,1,0,1,0.01
+44,sudden_trace_noise0_1000_rp,na,[499],[500],1000,10,1,0,1,0.01
+45,sudden_trace_noise0_1000_sw,na,[499],[500],1000,10,1,0,1,0.01
+46,sudden_trace_noise0_1000_cf,na,[499],[490],1000,10,1,0,1,0.01
+47,sudden_trace_noise0_1000_cp,na,[499],[500],1000,10,1,0,1,0.01
+48,sudden_trace_noise0_1000_IOR,na,[499],[500],1000,10,1,0,1,0.01
+49,sudden_trace_noise0_1000_IRO,na,[499],[500],1000,10,1,0,1,0.01
+50,sudden_trace_noise0_1000_pl,na,[499],[],1000,10,0,0,1,0.01
+51,sudden_trace_noise0_1000_re,na,[499],[500],1000,10,1,0,1,0.01
+52,sudden_trace_noise0_1000_RIO,na,[499],[],1000,10,0,0,1,0.01
+53,sudden_trace_noise0_1000_ROI,na,[499],[490],1000,10,1,0,1,0.01
+54,sudden_trace_noise10_1000_pl,na,[499],[],1000,10,0,0,1,0.01
+55,sudden_trace_noise10_1000_pm,na,[499],[500],1000,10,1,0,1,0.01
+56,sudden_trace_noise10_1000_re,na,[499],[500],1000,10,1,0,1,0.01
+57,sudden_trace_noise10_1000_RIO,na,[499],[],1000,10,0,0,1,0.01
+58,sudden_trace_noise10_1000_ROI,na,[499],[500],1000,10,1,0,1,0.01
+59,sudden_trace_noise10_1000_rp,na,[499],[500],1000,10,1,0,1,0.01
+60,sudden_trace_noise10_1000_sw,na,[499],[500],1000,10,1,0,1,0.01
+61,sudden_trace_noise5_1000_cb,na,[499],[500],1000,10,1,0,1,0.01
+62,sudden_trace_noise5_1000_cd,na,[499],[],1000,10,0,0,1,0.01
+63,sudden_trace_noise5_1000_cf,na,[499],[],1000,10,0,0,1,0.01
+64,sudden_trace_noise5_1000_cp,na,[499],[500],1000,10,1,0,1,0.01
+65,sudden_trace_noise5_1000_IRO,na,[499],[500],1000,10,1,0,1,0.01
+66,sudden_trace_noise5_1000_lp,na,[499],[],1000,10,0,0,1,0.01
+67,sudden_trace_noise0_1000_cb,na,[499],[500],1000,10,1,0,1,0.01
+68,sudden_trace_noise0_1000_cd,na,[499],[],1000,10,0,0,1,0.01
+69,sudden_trace_noise10_1000_cb,na,[499],[500],1000,10,1,0,1,0.01
+70,sudden_trace_noise10_1000_cd,na,[499],[],1000,10,0,0,1,0.01
+71,sudden_trace_noise10_1000_cf,na,[499],[490],1000,10,1,0,1,0.01
+72,sudden_trace_noise10_1000_cp,na,[499],[500],1000,10,1,0,1,0.01
+73,sudden_trace_noise10_1000_IOR,na,[499],[500],1000,10,1,0,1,0.01
+74,sudden_trace_noise10_1000_IRO,na,[499],[500],1000,10,1,0,1,0.01
+75,sudden_trace_noise10_1000_lp,na,[499],[490],1000,10,1,0,1,0.01
+76,sudden_trace_noise10_1000_OIR,na,[499],[500],1000,10,1,0,1,0.01
+77,sudden_trace_noise15_1000_cb,na,[499],[501],1000,10,1,0,1,0.01
+78,sudden_trace_noise15_1000_cd,na,[499],[],1000,10,0,0,1,0.01
+79,sudden_trace_noise15_1000_cf,na,[499],[491],1000,10,1,0,1,0.01
+80,sudden_trace_noise15_1000_cp,na,[499],[500],1000,10,1,0,1,0.01
+81,sudden_trace_noise15_1000_IOR,na,[499],[500],1000,10,1,0,1,0.01
+82,sudden_trace_noise15_1000_IRO,na,[499],[500],1000,10,1,0,1,0.01
+83,sudden_trace_noise15_1000_lp,na,[499],[],1000,10,0,0,1,0.01
+84,sudden_trace_noise15_1000_OIR,na,[499],[500],1000,10,1,0,1,0.01
+85,sudden_trace_noise15_1000_pl,na,[499],[],1000,10,0,0,1,0.01
+86,sudden_trace_noise15_1000_pm,na,[499],[500],1000,10,1,0,1,0.01
+87,sudden_trace_noise15_1000_re,na,[499],[500],1000,10,1,0,1,0.01
+88,sudden_trace_noise15_1000_RIO,na,[499],[490],1000,10,1,0,1,0.01
+89,sudden_trace_noise15_1000_ROI,na,[499],[500],1000,10,1,0,1,0.01
+90,sudden_trace_noise15_1000_rp,na,[499],[500],1000,10,1,0,1,0.01
+91,sudden_trace_noise15_1000_sw,na,[499],[500],1000,10,1,0,1,0.01
+92,sudden_trace_noise20_1000_cb,na,[499],[500],1000,10,1,0,1,0.01
+93,sudden_trace_noise20_1000_cd,na,[499],[],1000,10,0,0,1,0.01
+94,sudden_trace_noise20_1000_cf,na,[499],[490],1000,10,1,0,1,0.01
+95,sudden_trace_noise20_1000_cp,na,[499],[500],1000,10,1,0,1,0.01
+96,sudden_trace_noise20_1000_IOR,na,[499],[500],1000,10,1,0,1,0.01
+97,sudden_trace_noise20_1000_IRO,na,[499],[501],1000,10,1,0,1,0.01
+98,sudden_trace_noise20_1000_lp,na,[499],[500],1000,10,1,0,1,0.01
+99,sudden_trace_noise20_1000_OIR,na,[499],[500],1000,10,1,0,1,0.01
+100,sudden_trace_noise20_1000_pl,na,[499],[],1000,10,0,0,1,0.01
+101,sudden_trace_noise20_1000_pm,na,[499],[500],1000,10,1,0,1,0.01
+102,sudden_trace_noise20_1000_re,na,[499],[500],1000,10,1,0,1,0.01
+103,sudden_trace_noise20_1000_RIO,na,[499],[501],1000,10,1,0,1,0.01
+104,sudden_trace_noise20_1000_ROI,na,[499],[500],1000,10,1,0,1,0.01
+105,sudden_trace_noise20_1000_rp,na,[499],[490],1000,10,1,0,1,0.01
+106,sudden_trace_noise20_1000_sw,na,[499],[500],1000,10,1,0,1,0.01
+107,sudden_trace_noise5_1000_OIR,na,[499],[500],1000,10,1,0,1,0.01
+108,sudden_trace_noise5_1000_pl,na,[499],[],1000,10,0,0,1,0.01
+109,sudden_trace_noise5_1000_pm,na,[499],[500],1000,10,1,0,1,0.01
+110,sudden_trace_noise5_1000_re,na,[499],[501],1000,10,1,0,1,0.01
+111,sudden_trace_noise5_1000_RIO,na,[499],[],1000,10,0,0,1,0.01
+112,sudden_trace_noise5_1000_ROI,na,[499],[490],1000,10,1,0,1,0.01
+113,sudden_trace_noise5_1000_rp,na,[499],[500],1000,10,1,0,1,0.01
+114,sudden_trace_noise5_1000_sw,na,[499],[500],1000,10,1,0,1,0.01
+115,bose_log,na,"[1199, 2399, 3599, 4799]",[],6000,150,0,0,4,0.025
+116,sudden_trace_noise5_1000_IOR,na,[499],[500],1000,25,1,0,1,0.025
+117,Atomic_ConditionalRemoval_output_ConditionalRemoval_5,na,"[999, 1999]","[959, 1973]",2999,74,2,0,2,0.025
+118,Atomic_ConditionalMove_output_ConditionalMove,na,"[999, 1999]","[930, 1944]",2999,74,2,0,2,0.025
+119,Atomic_ConditionalRemoval_output_ConditionalRemoval_2,na,"[999, 1999]","[928, 1944]",2999,74,2,0,2,0.025
+120,Atomic_ConditionalToSequence_output_ConditionalToSequence_5,na,"[999, 1999]","[1946, 958]",2999,74,2,0,2,0.025
+121,Atomic_ConditionalRemoval_output_ConditionalRemoval,na,"[999, 1999]","[928, 1944]",2999,74,2,0,2,0.025
+122,Atomic_ConditionalToSequence_output_ConditionalToSequence_2,na,"[999, 1999]","[1946, 930]",2999,74,2,0,2,0.025
+123,Atomic_Frequency_output_Frequency_5,na,"[999, 1999]","[899, 1944]",2999,74,1,1,2,0.025
+124,Atomic_ConditionalToSequence_output_ConditionalToSequence,na,"[999, 1999]","[1946, 958]",2999,74,2,0,2,0.025
+125,Atomic_Frequency_output_Frequency_2,na,"[999, 1999]","[1944, 930]",2999,74,2,0,2,0.025
+126,Atomic_Loop_output_Loop_5,na,"[999, 1999]","[929, 1945]",2999,74,2,0,2,0.025
+127,Atomic_Frequency_output_Frequency,na,"[999, 1999]","[1944, 930]",2999,74,2,0,2,0.025
+128,Atomic_Loop_output_Loop_2,na,"[999, 1999]","[929, 1945]",2999,74,2,0,2,0.025
+129,Atomic_ParallelMove_output_ParallelMove_5,na,"[999, 1999]","[928, 1917]",2999,74,1,1,2,0.025
+130,Atomic_Loop_output_Loop,na,"[999, 1999]","[929, 1945]",2999,74,2,0,2,0.025
+131,Atomic_ParallelMove_output_ParallelMove_2,na,"[999, 1999]","[1945, 930]",2999,74,2,0,2,0.025
+132,Atomic_ParallelRemoval_output_ParallelRemoval_5,na,"[999, 1999]","[930, 1944]",2999,74,2,0,2,0.025
+133,Atomic_ParallelMove_output_ParallelMove,na,"[999, 1999]","[928, 1917]",2999,74,1,1,2,0.025
+134,Atomic_ParallelRemoval_output_ParallelRemoval_2,na,"[999, 1999]","[930, 1944]",2999,74,2,0,2,0.025
+135,Atomic_ParallelToSequence_output_ParallelToSequence_5,na,"[999, 1999]","[929, 1946]",2999,74,2,0,2,0.025
+136,Atomic_ParallelRemoval_output_ParallelRemoval,na,"[999, 1999]","[930, 1944]",2999,74,2,0,2,0.025
+137,Atomic_ParallelToSequence_output_ParallelToSequence_2,na,"[999, 1999]","[929, 1916]",2999,74,1,1,2,0.025
+138,Atomic_SerialMove_output_SerialMove_5,na,"[999, 1999]","[1944, 930]",2999,74,2,0,2,0.025
+139,Atomic_ParallelToSequence_output_ParallelToSequence,na,"[999, 1999]","[929, 1916]",2999,74,1,1,2,0.025
+140,Atomic_SerialMove_output_SerialMove_2,na,"[999, 1999]","[930, 1944]",2999,74,2,0,2,0.025
+141,Atomic_SerialRemoval_output_SerialRemoval_5,na,"[999, 1999]","[931, 1943]",2999,74,2,0,2,0.025
+142,Atomic_SerialMove_output_SerialMove,na,"[999, 1999]","[930, 1944]",2999,74,2,0,2,0.025
+143,Atomic_SerialRemoval_output_SerialRemoval_2,na,"[999, 1999]","[931, 1943]",2999,74,2,0,2,0.025
+144,Atomic_Skip_output_Skip_5,na,"[999, 1999]","[958, 1944]",2999,74,2,0,2,0.025
+145,Atomic_SerialRemoval_output_SerialRemoval,na,"[999, 1999]","[931, 1943]",2999,74,2,0,2,0.025
+146,Atomic_Skip_output_Skip_2,na,"[999, 1999]","[1944, 929]",2999,74,2,0,2,0.025
+147,Atomic_Substitute_output_Substitute_5,na,"[999, 1999]","[1944, 930]",2999,74,2,0,2,0.025
+148,Atomic_Skip_output_Skip,na,"[999, 1999]","[929, 1944]",2999,74,2,0,2,0.025
+149,Atomic_Substitute_output_Substitute_2,na,"[999, 1999]","[930, 1944]",2999,74,2,0,2,0.025
+150,Atomic_Swap_output_Swap_5,na,"[999, 1999]","[1947, 929]",2999,74,2,0,2,0.025
+151,Atomic_Substitute_output_Substitute,na,"[999, 1999]","[930, 1944]",2999,74,2,0,2,0.025
+152,Atomic_Swap_output_Swap_2,na,"[999, 1999]","[929, 1947]",2999,74,2,0,2,0.025
+153,Atomic_Swap_output_Swap,na,"[999, 1999]","[929, 1947]",2999,74,2,0,2,0.025
+154,Atomic_ConditionalMove_output_ConditionalMove_2,na,"[999, 1999]","[930, 1944]",2999,74,2,0,2,0.025
+155,Atomic_ConditionalMove_output_ConditionalMove_5,na,"[999, 1999]","[930, 1944]",2999,74,2,0,2,0.025
+156,sudden_trace_noise0_1000_lp,na,[499],[490],1000,25,1,0,1,0.025
+157,sudden_trace_noise0_1000_OIR,na,[499],[500],1000,25,1,0,1,0.025
+158,sudden_trace_noise0_1000_pm,na,[499],[500],1000,25,1,0,1,0.025
+159,sudden_trace_noise0_1000_rp,na,[499],[500],1000,25,1,0,1,0.025
+160,sudden_trace_noise0_1000_sw,na,[499],[500],1000,25,1,0,1,0.025
+161,sudden_trace_noise0_1000_cf,na,[499],[490],1000,25,1,0,1,0.025
+162,sudden_trace_noise0_1000_cp,na,[499],[500],1000,25,1,0,1,0.025
+163,sudden_trace_noise0_1000_IOR,na,[499],[500],1000,25,1,0,1,0.025
+164,sudden_trace_noise0_1000_IRO,na,[499],[500],1000,25,1,0,1,0.025
+165,sudden_trace_noise0_1000_pl,na,[499],[],1000,25,0,0,1,0.025
+166,sudden_trace_noise0_1000_re,na,[499],[500],1000,25,1,0,1,0.025
+167,sudden_trace_noise0_1000_RIO,na,[499],[],1000,25,0,0,1,0.025
+168,sudden_trace_noise0_1000_ROI,na,[499],[490],1000,25,1,0,1,0.025
+169,sudden_trace_noise10_1000_pl,na,[499],[],1000,25,0,0,1,0.025
+170,sudden_trace_noise10_1000_pm,na,[499],[500],1000,25,1,0,1,0.025
+171,sudden_trace_noise10_1000_re,na,[499],[500],1000,25,1,0,1,0.025
+172,sudden_trace_noise10_1000_RIO,na,[499],[],1000,25,0,0,1,0.025
+173,sudden_trace_noise10_1000_ROI,na,[499],[500],1000,25,1,0,1,0.025
+174,sudden_trace_noise10_1000_rp,na,[499],[500],1000,25,1,0,1,0.025
+175,sudden_trace_noise10_1000_sw,na,[499],[500],1000,25,1,0,1,0.025
+176,sudden_trace_noise5_1000_cb,na,[499],[500],1000,25,1,0,1,0.025
+177,sudden_trace_noise5_1000_cd,na,[499],[],1000,25,0,0,1,0.025
+178,sudden_trace_noise5_1000_cf,na,[499],[],1000,25,0,0,1,0.025
+179,sudden_trace_noise5_1000_cp,na,[499],[500],1000,25,1,0,1,0.025
+180,sudden_trace_noise5_1000_IRO,na,[499],[500],1000,25,1,0,1,0.025
+181,sudden_trace_noise5_1000_lp,na,[499],[],1000,25,0,0,1,0.025
+182,sudden_trace_noise0_1000_cb,na,[499],[500],1000,25,1,0,1,0.025
+183,sudden_trace_noise0_1000_cd,na,[499],[],1000,25,0,0,1,0.025
+184,sudden_trace_noise10_1000_cb,na,[499],[500],1000,25,1,0,1,0.025
+185,sudden_trace_noise10_1000_cd,na,[499],[],1000,25,0,0,1,0.025
+186,sudden_trace_noise10_1000_cf,na,[499],[490],1000,25,1,0,1,0.025
+187,sudden_trace_noise10_1000_cp,na,[499],[500],1000,25,1,0,1,0.025
+188,sudden_trace_noise10_1000_IOR,na,[499],[500],1000,25,1,0,1,0.025
+189,sudden_trace_noise10_1000_IRO,na,[499],[500],1000,25,1,0,1,0.025
+190,sudden_trace_noise10_1000_lp,na,[499],[490],1000,25,1,0,1,0.025
+191,sudden_trace_noise10_1000_OIR,na,[499],[500],1000,25,1,0,1,0.025
+192,sudden_trace_noise15_1000_cb,na,[499],[501],1000,25,1,0,1,0.025
+193,sudden_trace_noise15_1000_cd,na,[499],[],1000,25,0,0,1,0.025
+194,sudden_trace_noise15_1000_cf,na,[499],[491],1000,25,1,0,1,0.025
+195,sudden_trace_noise15_1000_cp,na,[499],[500],1000,25,1,0,1,0.025
+196,sudden_trace_noise15_1000_IOR,na,[499],[500],1000,25,1,0,1,0.025
+197,sudden_trace_noise15_1000_IRO,na,[499],[500],1000,25,1,0,1,0.025
+198,sudden_trace_noise15_1000_lp,na,[499],[],1000,25,0,0,1,0.025
+199,sudden_trace_noise15_1000_OIR,na,[499],[500],1000,25,1,0,1,0.025
+200,sudden_trace_noise15_1000_pl,na,[499],[],1000,25,0,0,1,0.025
+201,sudden_trace_noise15_1000_pm,na,[499],[500],1000,25,1,0,1,0.025
+202,sudden_trace_noise15_1000_re,na,[499],[500],1000,25,1,0,1,0.025
+203,sudden_trace_noise15_1000_RIO,na,[499],[490],1000,25,1,0,1,0.025
+204,sudden_trace_noise15_1000_ROI,na,[499],[500],1000,25,1,0,1,0.025
+205,sudden_trace_noise15_1000_rp,na,[499],[500],1000,25,1,0,1,0.025
+206,sudden_trace_noise15_1000_sw,na,[499],[500],1000,25,1,0,1,0.025
+207,sudden_trace_noise20_1000_cb,na,[499],[500],1000,25,1,0,1,0.025
+208,sudden_trace_noise20_1000_cd,na,[499],[],1000,25,0,0,1,0.025
+209,sudden_trace_noise20_1000_cf,na,[499],[490],1000,25,1,0,1,0.025
+210,sudden_trace_noise20_1000_cp,na,[499],[500],1000,25,1,0,1,0.025
+211,sudden_trace_noise20_1000_IOR,na,[499],[500],1000,25,1,0,1,0.025
+212,sudden_trace_noise20_1000_IRO,na,[499],[501],1000,25,1,0,1,0.025
+213,sudden_trace_noise20_1000_lp,na,[499],[500],1000,25,1,0,1,0.025
+214,sudden_trace_noise20_1000_OIR,na,[499],[500],1000,25,1,0,1,0.025
+215,sudden_trace_noise20_1000_pl,na,[499],[],1000,25,0,0,1,0.025
+216,sudden_trace_noise20_1000_pm,na,[499],[500],1000,25,1,0,1,0.025
+217,sudden_trace_noise20_1000_re,na,[499],[500],1000,25,1,0,1,0.025
+218,sudden_trace_noise20_1000_RIO,na,[499],[501],1000,25,1,0,1,0.025
+219,sudden_trace_noise20_1000_ROI,na,[499],[500],1000,25,1,0,1,0.025
+220,sudden_trace_noise20_1000_rp,na,[499],[490],1000,25,1,0,1,0.025
+221,sudden_trace_noise20_1000_sw,na,[499],[500],1000,25,1,0,1,0.025
+222,sudden_trace_noise5_1000_OIR,na,[499],[500],1000,25,1,0,1,0.025
+223,sudden_trace_noise5_1000_pl,na,[499],[],1000,25,0,0,1,0.025
+224,sudden_trace_noise5_1000_pm,na,[499],[500],1000,25,1,0,1,0.025
+225,sudden_trace_noise5_1000_re,na,[499],[501],1000,25,1,0,1,0.025
+226,sudden_trace_noise5_1000_RIO,na,[499],[],1000,25,0,0,1,0.025
+227,sudden_trace_noise5_1000_ROI,na,[499],[490],1000,25,1,0,1,0.025
+228,sudden_trace_noise5_1000_rp,na,[499],[500],1000,25,1,0,1,0.025
+229,sudden_trace_noise5_1000_sw,na,[499],[500],1000,25,1,0,1,0.025
+230,bose_log,na,"[1199, 2399, 3599, 4799]",[],6000,300,0,0,4,0.05
+231,sudden_trace_noise5_1000_IOR,na,[499],[500],1000,50,1,0,1,0.05
+232,Atomic_ConditionalRemoval_output_ConditionalRemoval_5,na,"[999, 1999]","[959, 1973]",2999,149,2,0,2,0.05
+233,Atomic_ConditionalMove_output_ConditionalMove,na,"[999, 1999]","[930, 1944]",2999,149,2,0,2,0.05
+234,Atomic_ConditionalRemoval_output_ConditionalRemoval_2,na,"[999, 1999]","[928, 1944]",2999,149,2,0,2,0.05
+235,Atomic_ConditionalToSequence_output_ConditionalToSequence_5,na,"[999, 1999]","[1946, 958]",2999,149,2,0,2,0.05
+236,Atomic_ConditionalRemoval_output_ConditionalRemoval,na,"[999, 1999]","[928, 1944]",2999,149,2,0,2,0.05
+237,Atomic_ConditionalToSequence_output_ConditionalToSequence_2,na,"[999, 1999]","[1946, 930]",2999,149,2,0,2,0.05
+238,Atomic_Frequency_output_Frequency_5,na,"[999, 1999]","[899, 1944]",2999,149,2,0,2,0.05
+239,Atomic_ConditionalToSequence_output_ConditionalToSequence,na,"[999, 1999]","[1946, 958]",2999,149,2,0,2,0.05
+240,Atomic_Frequency_output_Frequency_2,na,"[999, 1999]","[1944, 930]",2999,149,2,0,2,0.05
+241,Atomic_Loop_output_Loop_5,na,"[999, 1999]","[929, 1945]",2999,149,2,0,2,0.05
+242,Atomic_Frequency_output_Frequency,na,"[999, 1999]","[1944, 930]",2999,149,2,0,2,0.05
+243,Atomic_Loop_output_Loop_2,na,"[999, 1999]","[929, 1945]",2999,149,2,0,2,0.05
+244,Atomic_ParallelMove_output_ParallelMove_5,na,"[999, 1999]","[928, 1917]",2999,149,2,0,2,0.05
+245,Atomic_Loop_output_Loop,na,"[999, 1999]","[929, 1945]",2999,149,2,0,2,0.05
+246,Atomic_ParallelMove_output_ParallelMove_2,na,"[999, 1999]","[1945, 930]",2999,149,2,0,2,0.05
+247,Atomic_ParallelRemoval_output_ParallelRemoval_5,na,"[999, 1999]","[930, 1944]",2999,149,2,0,2,0.05
+248,Atomic_ParallelMove_output_ParallelMove,na,"[999, 1999]","[928, 1917]",2999,149,2,0,2,0.05
+249,Atomic_ParallelRemoval_output_ParallelRemoval_2,na,"[999, 1999]","[930, 1944]",2999,149,2,0,2,0.05
+250,Atomic_ParallelToSequence_output_ParallelToSequence_5,na,"[999, 1999]","[929, 1946]",2999,149,2,0,2,0.05
+251,Atomic_ParallelRemoval_output_ParallelRemoval,na,"[999, 1999]","[930, 1944]",2999,149,2,0,2,0.05
+252,Atomic_ParallelToSequence_output_ParallelToSequence_2,na,"[999, 1999]","[929, 1916]",2999,149,2,0,2,0.05
+253,Atomic_SerialMove_output_SerialMove_5,na,"[999, 1999]","[1944, 930]",2999,149,2,0,2,0.05
+254,Atomic_ParallelToSequence_output_ParallelToSequence,na,"[999, 1999]","[929, 1916]",2999,149,2,0,2,0.05
+255,Atomic_SerialMove_output_SerialMove_2,na,"[999, 1999]","[930, 1944]",2999,149,2,0,2,0.05
+256,Atomic_SerialRemoval_output_SerialRemoval_5,na,"[999, 1999]","[931, 1943]",2999,149,2,0,2,0.05
+257,Atomic_SerialMove_output_SerialMove,na,"[999, 1999]","[930, 1944]",2999,149,2,0,2,0.05
+258,Atomic_SerialRemoval_output_SerialRemoval_2,na,"[999, 1999]","[931, 1943]",2999,149,2,0,2,0.05
+259,Atomic_Skip_output_Skip_5,na,"[999, 1999]","[958, 1944]",2999,149,2,0,2,0.05
+260,Atomic_SerialRemoval_output_SerialRemoval,na,"[999, 1999]","[931, 1943]",2999,149,2,0,2,0.05
+261,Atomic_Skip_output_Skip_2,na,"[999, 1999]","[1944, 929]",2999,149,2,0,2,0.05
+262,Atomic_Substitute_output_Substitute_5,na,"[999, 1999]","[1944, 930]",2999,149,2,0,2,0.05
+263,Atomic_Skip_output_Skip,na,"[999, 1999]","[929, 1944]",2999,149,2,0,2,0.05
+264,Atomic_Substitute_output_Substitute_2,na,"[999, 1999]","[930, 1944]",2999,149,2,0,2,0.05
+265,Atomic_Swap_output_Swap_5,na,"[999, 1999]","[1947, 929]",2999,149,2,0,2,0.05
+266,Atomic_Substitute_output_Substitute,na,"[999, 1999]","[930, 1944]",2999,149,2,0,2,0.05
+267,Atomic_Swap_output_Swap_2,na,"[999, 1999]","[929, 1947]",2999,149,2,0,2,0.05
+268,Atomic_Swap_output_Swap,na,"[999, 1999]","[929, 1947]",2999,149,2,0,2,0.05
+269,Atomic_ConditionalMove_output_ConditionalMove_2,na,"[999, 1999]","[930, 1944]",2999,149,2,0,2,0.05
+270,Atomic_ConditionalMove_output_ConditionalMove_5,na,"[999, 1999]","[930, 1944]",2999,149,2,0,2,0.05
+271,sudden_trace_noise0_1000_lp,na,[499],[490],1000,50,1,0,1,0.05
+272,sudden_trace_noise0_1000_OIR,na,[499],[500],1000,50,1,0,1,0.05
+273,sudden_trace_noise0_1000_pm,na,[499],[500],1000,50,1,0,1,0.05
+274,sudden_trace_noise0_1000_rp,na,[499],[500],1000,50,1,0,1,0.05
+275,sudden_trace_noise0_1000_sw,na,[499],[500],1000,50,1,0,1,0.05
+276,sudden_trace_noise0_1000_cf,na,[499],[490],1000,50,1,0,1,0.05
+277,sudden_trace_noise0_1000_cp,na,[499],[500],1000,50,1,0,1,0.05
+278,sudden_trace_noise0_1000_IOR,na,[499],[500],1000,50,1,0,1,0.05
+279,sudden_trace_noise0_1000_IRO,na,[499],[500],1000,50,1,0,1,0.05
+280,sudden_trace_noise0_1000_pl,na,[499],[],1000,50,0,0,1,0.05
+281,sudden_trace_noise0_1000_re,na,[499],[500],1000,50,1,0,1,0.05
+282,sudden_trace_noise0_1000_RIO,na,[499],[],1000,50,0,0,1,0.05
+283,sudden_trace_noise0_1000_ROI,na,[499],[490],1000,50,1,0,1,0.05
+284,sudden_trace_noise10_1000_pl,na,[499],[],1000,50,0,0,1,0.05
+285,sudden_trace_noise10_1000_pm,na,[499],[500],1000,50,1,0,1,0.05
+286,sudden_trace_noise10_1000_re,na,[499],[500],1000,50,1,0,1,0.05
+287,sudden_trace_noise10_1000_RIO,na,[499],[],1000,50,0,0,1,0.05
+288,sudden_trace_noise10_1000_ROI,na,[499],[500],1000,50,1,0,1,0.05
+289,sudden_trace_noise10_1000_rp,na,[499],[500],1000,50,1,0,1,0.05
+290,sudden_trace_noise10_1000_sw,na,[499],[500],1000,50,1,0,1,0.05
+291,sudden_trace_noise5_1000_cb,na,[499],[500],1000,50,1,0,1,0.05
+292,sudden_trace_noise5_1000_cd,na,[499],[],1000,50,0,0,1,0.05
+293,sudden_trace_noise5_1000_cf,na,[499],[],1000,50,0,0,1,0.05
+294,sudden_trace_noise5_1000_cp,na,[499],[500],1000,50,1,0,1,0.05
+295,sudden_trace_noise5_1000_IRO,na,[499],[500],1000,50,1,0,1,0.05
+296,sudden_trace_noise5_1000_lp,na,[499],[],1000,50,0,0,1,0.05
+297,sudden_trace_noise0_1000_cb,na,[499],[500],1000,50,1,0,1,0.05
+298,sudden_trace_noise0_1000_cd,na,[499],[],1000,50,0,0,1,0.05
+299,sudden_trace_noise10_1000_cb,na,[499],[500],1000,50,1,0,1,0.05
+300,sudden_trace_noise10_1000_cd,na,[499],[],1000,50,0,0,1,0.05
+301,sudden_trace_noise10_1000_cf,na,[499],[490],1000,50,1,0,1,0.05
+302,sudden_trace_noise10_1000_cp,na,[499],[500],1000,50,1,0,1,0.05
+303,sudden_trace_noise10_1000_IOR,na,[499],[500],1000,50,1,0,1,0.05
+304,sudden_trace_noise10_1000_IRO,na,[499],[500],1000,50,1,0,1,0.05
+305,sudden_trace_noise10_1000_lp,na,[499],[490],1000,50,1,0,1,0.05
+306,sudden_trace_noise10_1000_OIR,na,[499],[500],1000,50,1,0,1,0.05
+307,sudden_trace_noise15_1000_cb,na,[499],[501],1000,50,1,0,1,0.05
+308,sudden_trace_noise15_1000_cd,na,[499],[],1000,50,0,0,1,0.05
+309,sudden_trace_noise15_1000_cf,na,[499],[491],1000,50,1,0,1,0.05
+310,sudden_trace_noise15_1000_cp,na,[499],[500],1000,50,1,0,1,0.05
+311,sudden_trace_noise15_1000_IOR,na,[499],[500],1000,50,1,0,1,0.05
+312,sudden_trace_noise15_1000_IRO,na,[499],[500],1000,50,1,0,1,0.05
+313,sudden_trace_noise15_1000_lp,na,[499],[],1000,50,0,0,1,0.05
+314,sudden_trace_noise15_1000_OIR,na,[499],[500],1000,50,1,0,1,0.05
+315,sudden_trace_noise15_1000_pl,na,[499],[],1000,50,0,0,1,0.05
+316,sudden_trace_noise15_1000_pm,na,[499],[500],1000,50,1,0,1,0.05
+317,sudden_trace_noise15_1000_re,na,[499],[500],1000,50,1,0,1,0.05
+318,sudden_trace_noise15_1000_RIO,na,[499],[490],1000,50,1,0,1,0.05
+319,sudden_trace_noise15_1000_ROI,na,[499],[500],1000,50,1,0,1,0.05
+320,sudden_trace_noise15_1000_rp,na,[499],[500],1000,50,1,0,1,0.05
+321,sudden_trace_noise15_1000_sw,na,[499],[500],1000,50,1,0,1,0.05
+322,sudden_trace_noise20_1000_cb,na,[499],[500],1000,50,1,0,1,0.05
+323,sudden_trace_noise20_1000_cd,na,[499],[],1000,50,0,0,1,0.05
+324,sudden_trace_noise20_1000_cf,na,[499],[490],1000,50,1,0,1,0.05
+325,sudden_trace_noise20_1000_cp,na,[499],[500],1000,50,1,0,1,0.05
+326,sudden_trace_noise20_1000_IOR,na,[499],[500],1000,50,1,0,1,0.05
+327,sudden_trace_noise20_1000_IRO,na,[499],[501],1000,50,1,0,1,0.05
+328,sudden_trace_noise20_1000_lp,na,[499],[500],1000,50,1,0,1,0.05
+329,sudden_trace_noise20_1000_OIR,na,[499],[500],1000,50,1,0,1,0.05
+330,sudden_trace_noise20_1000_pl,na,[499],[],1000,50,0,0,1,0.05
+331,sudden_trace_noise20_1000_pm,na,[499],[500],1000,50,1,0,1,0.05
+332,sudden_trace_noise20_1000_re,na,[499],[500],1000,50,1,0,1,0.05
+333,sudden_trace_noise20_1000_RIO,na,[499],[501],1000,50,1,0,1,0.05
+334,sudden_trace_noise20_1000_ROI,na,[499],[500],1000,50,1,0,1,0.05
+335,sudden_trace_noise20_1000_rp,na,[499],[490],1000,50,1,0,1,0.05
+336,sudden_trace_noise20_1000_sw,na,[499],[500],1000,50,1,0,1,0.05
+337,sudden_trace_noise5_1000_OIR,na,[499],[500],1000,50,1,0,1,0.05
+338,sudden_trace_noise5_1000_pl,na,[499],[],1000,50,0,0,1,0.05
+339,sudden_trace_noise5_1000_pm,na,[499],[500],1000,50,1,0,1,0.05
+340,sudden_trace_noise5_1000_re,na,[499],[501],1000,50,1,0,1,0.05
+341,sudden_trace_noise5_1000_RIO,na,[499],[],1000,50,0,0,1,0.05
+342,sudden_trace_noise5_1000_ROI,na,[499],[490],1000,50,1,0,1,0.05
+343,sudden_trace_noise5_1000_rp,na,[499],[500],1000,50,1,0,1,0.05
+344,sudden_trace_noise5_1000_sw,na,[499],[500],1000,50,1,0,1,0.05
+345,bose_log,na,"[1199, 2399, 3599, 4799]",[],6000,600,0,0,4,0.1
+346,sudden_trace_noise5_1000_IOR,na,[499],[500],1000,100,1,0,1,0.1
+347,Atomic_ConditionalRemoval_output_ConditionalRemoval_5,na,"[999, 1999]","[959, 1973]",2999,299,2,0,2,0.1
+348,Atomic_ConditionalMove_output_ConditionalMove,na,"[999, 1999]","[930, 1944]",2999,299,2,0,2,0.1
+349,Atomic_ConditionalRemoval_output_ConditionalRemoval_2,na,"[999, 1999]","[928, 1944]",2999,299,2,0,2,0.1
+350,Atomic_ConditionalToSequence_output_ConditionalToSequence_5,na,"[999, 1999]","[1946, 958]",2999,299,2,0,2,0.1
+351,Atomic_ConditionalRemoval_output_ConditionalRemoval,na,"[999, 1999]","[928, 1944]",2999,299,2,0,2,0.1
+352,Atomic_ConditionalToSequence_output_ConditionalToSequence_2,na,"[999, 1999]","[1946, 930]",2999,299,2,0,2,0.1
+353,Atomic_Frequency_output_Frequency_5,na,"[999, 1999]","[899, 1944]",2999,299,2,0,2,0.1
+354,Atomic_ConditionalToSequence_output_ConditionalToSequence,na,"[999, 1999]","[1946, 958]",2999,299,2,0,2,0.1
+355,Atomic_Frequency_output_Frequency_2,na,"[999, 1999]","[1944, 930]",2999,299,2,0,2,0.1
+356,Atomic_Loop_output_Loop_5,na,"[999, 1999]","[929, 1945]",2999,299,2,0,2,0.1
+357,Atomic_Frequency_output_Frequency,na,"[999, 1999]","[1944, 930]",2999,299,2,0,2,0.1
+358,Atomic_Loop_output_Loop_2,na,"[999, 1999]","[929, 1945]",2999,299,2,0,2,0.1
+359,Atomic_ParallelMove_output_ParallelMove_5,na,"[999, 1999]","[928, 1917]",2999,299,2,0,2,0.1
+360,Atomic_Loop_output_Loop,na,"[999, 1999]","[929, 1945]",2999,299,2,0,2,0.1
+361,Atomic_ParallelMove_output_ParallelMove_2,na,"[999, 1999]","[1945, 930]",2999,299,2,0,2,0.1
+362,Atomic_ParallelRemoval_output_ParallelRemoval_5,na,"[999, 1999]","[930, 1944]",2999,299,2,0,2,0.1
+363,Atomic_ParallelMove_output_ParallelMove,na,"[999, 1999]","[928, 1917]",2999,299,2,0,2,0.1
+364,Atomic_ParallelRemoval_output_ParallelRemoval_2,na,"[999, 1999]","[930, 1944]",2999,299,2,0,2,0.1
+365,Atomic_ParallelToSequence_output_ParallelToSequence_5,na,"[999, 1999]","[929, 1946]",2999,299,2,0,2,0.1
+366,Atomic_ParallelRemoval_output_ParallelRemoval,na,"[999, 1999]","[930, 1944]",2999,299,2,0,2,0.1
+367,Atomic_ParallelToSequence_output_ParallelToSequence_2,na,"[999, 1999]","[929, 1916]",2999,299,2,0,2,0.1
+368,Atomic_SerialMove_output_SerialMove_5,na,"[999, 1999]","[1944, 930]",2999,299,2,0,2,0.1
+369,Atomic_ParallelToSequence_output_ParallelToSequence,na,"[999, 1999]","[929, 1916]",2999,299,2,0,2,0.1
+370,Atomic_SerialMove_output_SerialMove_2,na,"[999, 1999]","[930, 1944]",2999,299,2,0,2,0.1
+371,Atomic_SerialRemoval_output_SerialRemoval_5,na,"[999, 1999]","[931, 1943]",2999,299,2,0,2,0.1
+372,Atomic_SerialMove_output_SerialMove,na,"[999, 1999]","[930, 1944]",2999,299,2,0,2,0.1
+373,Atomic_SerialRemoval_output_SerialRemoval_2,na,"[999, 1999]","[931, 1943]",2999,299,2,0,2,0.1
+374,Atomic_Skip_output_Skip_5,na,"[999, 1999]","[958, 1944]",2999,299,2,0,2,0.1
+375,Atomic_SerialRemoval_output_SerialRemoval,na,"[999, 1999]","[931, 1943]",2999,299,2,0,2,0.1
+376,Atomic_Skip_output_Skip_2,na,"[999, 1999]","[1944, 929]",2999,299,2,0,2,0.1
+377,Atomic_Substitute_output_Substitute_5,na,"[999, 1999]","[1944, 930]",2999,299,2,0,2,0.1
+378,Atomic_Skip_output_Skip,na,"[999, 1999]","[929, 1944]",2999,299,2,0,2,0.1
+379,Atomic_Substitute_output_Substitute_2,na,"[999, 1999]","[930, 1944]",2999,299,2,0,2,0.1
+380,Atomic_Swap_output_Swap_5,na,"[999, 1999]","[1947, 929]",2999,299,2,0,2,0.1
+381,Atomic_Substitute_output_Substitute,na,"[999, 1999]","[930, 1944]",2999,299,2,0,2,0.1
+382,Atomic_Swap_output_Swap_2,na,"[999, 1999]","[929, 1947]",2999,299,2,0,2,0.1
+383,Atomic_Swap_output_Swap,na,"[999, 1999]","[929, 1947]",2999,299,2,0,2,0.1
+384,Atomic_ConditionalMove_output_ConditionalMove_2,na,"[999, 1999]","[930, 1944]",2999,299,2,0,2,0.1
+385,Atomic_ConditionalMove_output_ConditionalMove_5,na,"[999, 1999]","[930, 1944]",2999,299,2,0,2,0.1
+386,sudden_trace_noise0_1000_lp,na,[499],[490],1000,100,1,0,1,0.1
+387,sudden_trace_noise0_1000_OIR,na,[499],[500],1000,100,1,0,1,0.1
+388,sudden_trace_noise0_1000_pm,na,[499],[500],1000,100,1,0,1,0.1
+389,sudden_trace_noise0_1000_rp,na,[499],[500],1000,100,1,0,1,0.1
+390,sudden_trace_noise0_1000_sw,na,[499],[500],1000,100,1,0,1,0.1
+391,sudden_trace_noise0_1000_cf,na,[499],[490],1000,100,1,0,1,0.1
+392,sudden_trace_noise0_1000_cp,na,[499],[500],1000,100,1,0,1,0.1
+393,sudden_trace_noise0_1000_IOR,na,[499],[500],1000,100,1,0,1,0.1
+394,sudden_trace_noise0_1000_IRO,na,[499],[500],1000,100,1,0,1,0.1
+395,sudden_trace_noise0_1000_pl,na,[499],[],1000,100,0,0,1,0.1
+396,sudden_trace_noise0_1000_re,na,[499],[500],1000,100,1,0,1,0.1
+397,sudden_trace_noise0_1000_RIO,na,[499],[],1000,100,0,0,1,0.1
+398,sudden_trace_noise0_1000_ROI,na,[499],[490],1000,100,1,0,1,0.1
+399,sudden_trace_noise10_1000_pl,na,[499],[],1000,100,0,0,1,0.1
+400,sudden_trace_noise10_1000_pm,na,[499],[500],1000,100,1,0,1,0.1
+401,sudden_trace_noise10_1000_re,na,[499],[500],1000,100,1,0,1,0.1
+402,sudden_trace_noise10_1000_RIO,na,[499],[],1000,100,0,0,1,0.1
+403,sudden_trace_noise10_1000_ROI,na,[499],[500],1000,100,1,0,1,0.1
+404,sudden_trace_noise10_1000_rp,na,[499],[500],1000,100,1,0,1,0.1
+405,sudden_trace_noise10_1000_sw,na,[499],[500],1000,100,1,0,1,0.1
+406,sudden_trace_noise5_1000_cb,na,[499],[500],1000,100,1,0,1,0.1
+407,sudden_trace_noise5_1000_cd,na,[499],[],1000,100,0,0,1,0.1
+408,sudden_trace_noise5_1000_cf,na,[499],[],1000,100,0,0,1,0.1
+409,sudden_trace_noise5_1000_cp,na,[499],[500],1000,100,1,0,1,0.1
+410,sudden_trace_noise5_1000_IRO,na,[499],[500],1000,100,1,0,1,0.1
+411,sudden_trace_noise5_1000_lp,na,[499],[],1000,100,0,0,1,0.1
+412,sudden_trace_noise0_1000_cb,na,[499],[500],1000,100,1,0,1,0.1
+413,sudden_trace_noise0_1000_cd,na,[499],[],1000,100,0,0,1,0.1
+414,sudden_trace_noise10_1000_cb,na,[499],[500],1000,100,1,0,1,0.1
+415,sudden_trace_noise10_1000_cd,na,[499],[],1000,100,0,0,1,0.1
+416,sudden_trace_noise10_1000_cf,na,[499],[490],1000,100,1,0,1,0.1
+417,sudden_trace_noise10_1000_cp,na,[499],[500],1000,100,1,0,1,0.1
+418,sudden_trace_noise10_1000_IOR,na,[499],[500],1000,100,1,0,1,0.1
+419,sudden_trace_noise10_1000_IRO,na,[499],[500],1000,100,1,0,1,0.1
+420,sudden_trace_noise10_1000_lp,na,[499],[490],1000,100,1,0,1,0.1
+421,sudden_trace_noise10_1000_OIR,na,[499],[500],1000,100,1,0,1,0.1
+422,sudden_trace_noise15_1000_cb,na,[499],[501],1000,100,1,0,1,0.1
+423,sudden_trace_noise15_1000_cd,na,[499],[],1000,100,0,0,1,0.1
+424,sudden_trace_noise15_1000_cf,na,[499],[491],1000,100,1,0,1,0.1
+425,sudden_trace_noise15_1000_cp,na,[499],[500],1000,100,1,0,1,0.1
+426,sudden_trace_noise15_1000_IOR,na,[499],[500],1000,100,1,0,1,0.1
+427,sudden_trace_noise15_1000_IRO,na,[499],[500],1000,100,1,0,1,0.1
+428,sudden_trace_noise15_1000_lp,na,[499],[],1000,100,0,0,1,0.1
+429,sudden_trace_noise15_1000_OIR,na,[499],[500],1000,100,1,0,1,0.1
+430,sudden_trace_noise15_1000_pl,na,[499],[],1000,100,0,0,1,0.1
+431,sudden_trace_noise15_1000_pm,na,[499],[500],1000,100,1,0,1,0.1
+432,sudden_trace_noise15_1000_re,na,[499],[500],1000,100,1,0,1,0.1
+433,sudden_trace_noise15_1000_RIO,na,[499],[490],1000,100,1,0,1,0.1
+434,sudden_trace_noise15_1000_ROI,na,[499],[500],1000,100,1,0,1,0.1
+435,sudden_trace_noise15_1000_rp,na,[499],[500],1000,100,1,0,1,0.1
+436,sudden_trace_noise15_1000_sw,na,[499],[500],1000,100,1,0,1,0.1
+437,sudden_trace_noise20_1000_cb,na,[499],[500],1000,100,1,0,1,0.1
+438,sudden_trace_noise20_1000_cd,na,[499],[],1000,100,0,0,1,0.1
+439,sudden_trace_noise20_1000_cf,na,[499],[490],1000,100,1,0,1,0.1
+440,sudden_trace_noise20_1000_cp,na,[499],[500],1000,100,1,0,1,0.1
+441,sudden_trace_noise20_1000_IOR,na,[499],[500],1000,100,1,0,1,0.1
+442,sudden_trace_noise20_1000_IRO,na,[499],[501],1000,100,1,0,1,0.1
+443,sudden_trace_noise20_1000_lp,na,[499],[500],1000,100,1,0,1,0.1
+444,sudden_trace_noise20_1000_OIR,na,[499],[500],1000,100,1,0,1,0.1
+445,sudden_trace_noise20_1000_pl,na,[499],[],1000,100,0,0,1,0.1
+446,sudden_trace_noise20_1000_pm,na,[499],[500],1000,100,1,0,1,0.1
+447,sudden_trace_noise20_1000_re,na,[499],[500],1000,100,1,0,1,0.1
+448,sudden_trace_noise20_1000_RIO,na,[499],[501],1000,100,1,0,1,0.1
+449,sudden_trace_noise20_1000_ROI,na,[499],[500],1000,100,1,0,1,0.1
+450,sudden_trace_noise20_1000_rp,na,[499],[490],1000,100,1,0,1,0.1
+451,sudden_trace_noise20_1000_sw,na,[499],[500],1000,100,1,0,1,0.1
+452,sudden_trace_noise5_1000_OIR,na,[499],[500],1000,100,1,0,1,0.1
+453,sudden_trace_noise5_1000_pl,na,[499],[],1000,100,0,0,1,0.1
+454,sudden_trace_noise5_1000_pm,na,[499],[500],1000,100,1,0,1,0.1
+455,sudden_trace_noise5_1000_re,na,[499],[501],1000,100,1,0,1,0.1
+456,sudden_trace_noise5_1000_RIO,na,[499],[],1000,100,0,0,1,0.1
+457,sudden_trace_noise5_1000_ROI,na,[499],[490],1000,100,1,0,1,0.1
+458,sudden_trace_noise5_1000_rp,na,[499],[500],1000,100,1,0,1,0.1
+459,sudden_trace_noise5_1000_sw,na,[499],[500],1000,100,1,0,1,0.1
+460,bose_log,na,"[1199, 2399, 3599, 4799]",[],6000,900,0,0,4,0.15
+461,sudden_trace_noise5_1000_IOR,na,[499],[500],1000,150,1,0,1,0.15
+462,Atomic_ConditionalRemoval_output_ConditionalRemoval_5,na,"[999, 1999]","[959, 1973]",2999,449,2,0,2,0.15
+463,Atomic_ConditionalMove_output_ConditionalMove,na,"[999, 1999]","[930, 1944]",2999,449,2,0,2,0.15
+464,Atomic_ConditionalRemoval_output_ConditionalRemoval_2,na,"[999, 1999]","[928, 1944]",2999,449,2,0,2,0.15
+465,Atomic_ConditionalToSequence_output_ConditionalToSequence_5,na,"[999, 1999]","[1946, 958]",2999,449,2,0,2,0.15
+466,Atomic_ConditionalRemoval_output_ConditionalRemoval,na,"[999, 1999]","[928, 1944]",2999,449,2,0,2,0.15
+467,Atomic_ConditionalToSequence_output_ConditionalToSequence_2,na,"[999, 1999]","[1946, 930]",2999,449,2,0,2,0.15
+468,Atomic_Frequency_output_Frequency_5,na,"[999, 1999]","[899, 1944]",2999,449,2,0,2,0.15
+469,Atomic_ConditionalToSequence_output_ConditionalToSequence,na,"[999, 1999]","[1946, 958]",2999,449,2,0,2,0.15
+470,Atomic_Frequency_output_Frequency_2,na,"[999, 1999]","[1944, 930]",2999,449,2,0,2,0.15
+471,Atomic_Loop_output_Loop_5,na,"[999, 1999]","[929, 1945]",2999,449,2,0,2,0.15
+472,Atomic_Frequency_output_Frequency,na,"[999, 1999]","[1944, 930]",2999,449,2,0,2,0.15
+473,Atomic_Loop_output_Loop_2,na,"[999, 1999]","[929, 1945]",2999,449,2,0,2,0.15
+474,Atomic_ParallelMove_output_ParallelMove_5,na,"[999, 1999]","[928, 1917]",2999,449,2,0,2,0.15
+475,Atomic_Loop_output_Loop,na,"[999, 1999]","[929, 1945]",2999,449,2,0,2,0.15
+476,Atomic_ParallelMove_output_ParallelMove_2,na,"[999, 1999]","[1945, 930]",2999,449,2,0,2,0.15
+477,Atomic_ParallelRemoval_output_ParallelRemoval_5,na,"[999, 1999]","[930, 1944]",2999,449,2,0,2,0.15
+478,Atomic_ParallelMove_output_ParallelMove,na,"[999, 1999]","[928, 1917]",2999,449,2,0,2,0.15
+479,Atomic_ParallelRemoval_output_ParallelRemoval_2,na,"[999, 1999]","[930, 1944]",2999,449,2,0,2,0.15
+480,Atomic_ParallelToSequence_output_ParallelToSequence_5,na,"[999, 1999]","[929, 1946]",2999,449,2,0,2,0.15
+481,Atomic_ParallelRemoval_output_ParallelRemoval,na,"[999, 1999]","[930, 1944]",2999,449,2,0,2,0.15
+482,Atomic_ParallelToSequence_output_ParallelToSequence_2,na,"[999, 1999]","[929, 1916]",2999,449,2,0,2,0.15
+483,Atomic_SerialMove_output_SerialMove_5,na,"[999, 1999]","[1944, 930]",2999,449,2,0,2,0.15
+484,Atomic_ParallelToSequence_output_ParallelToSequence,na,"[999, 1999]","[929, 1916]",2999,449,2,0,2,0.15
+485,Atomic_SerialMove_output_SerialMove_2,na,"[999, 1999]","[930, 1944]",2999,449,2,0,2,0.15
+486,Atomic_SerialRemoval_output_SerialRemoval_5,na,"[999, 1999]","[931, 1943]",2999,449,2,0,2,0.15
+487,Atomic_SerialMove_output_SerialMove,na,"[999, 1999]","[930, 1944]",2999,449,2,0,2,0.15
+488,Atomic_SerialRemoval_output_SerialRemoval_2,na,"[999, 1999]","[931, 1943]",2999,449,2,0,2,0.15
+489,Atomic_Skip_output_Skip_5,na,"[999, 1999]","[958, 1944]",2999,449,2,0,2,0.15
+490,Atomic_SerialRemoval_output_SerialRemoval,na,"[999, 1999]","[931, 1943]",2999,449,2,0,2,0.15
+491,Atomic_Skip_output_Skip_2,na,"[999, 1999]","[1944, 929]",2999,449,2,0,2,0.15
+492,Atomic_Substitute_output_Substitute_5,na,"[999, 1999]","[1944, 930]",2999,449,2,0,2,0.15
+493,Atomic_Skip_output_Skip,na,"[999, 1999]","[929, 1944]",2999,449,2,0,2,0.15
+494,Atomic_Substitute_output_Substitute_2,na,"[999, 1999]","[930, 1944]",2999,449,2,0,2,0.15
+495,Atomic_Swap_output_Swap_5,na,"[999, 1999]","[1947, 929]",2999,449,2,0,2,0.15
+496,Atomic_Substitute_output_Substitute,na,"[999, 1999]","[930, 1944]",2999,449,2,0,2,0.15
+497,Atomic_Swap_output_Swap_2,na,"[999, 1999]","[929, 1947]",2999,449,2,0,2,0.15
+498,Atomic_Swap_output_Swap,na,"[999, 1999]","[929, 1947]",2999,449,2,0,2,0.15
+499,Atomic_ConditionalMove_output_ConditionalMove_2,na,"[999, 1999]","[930, 1944]",2999,449,2,0,2,0.15
+500,Atomic_ConditionalMove_output_ConditionalMove_5,na,"[999, 1999]","[930, 1944]",2999,449,2,0,2,0.15
+501,sudden_trace_noise0_1000_lp,na,[499],[490],1000,150,1,0,1,0.15
+502,sudden_trace_noise0_1000_OIR,na,[499],[500],1000,150,1,0,1,0.15
+503,sudden_trace_noise0_1000_pm,na,[499],[500],1000,150,1,0,1,0.15
+504,sudden_trace_noise0_1000_rp,na,[499],[500],1000,150,1,0,1,0.15
+505,sudden_trace_noise0_1000_sw,na,[499],[500],1000,150,1,0,1,0.15
+506,sudden_trace_noise0_1000_cf,na,[499],[490],1000,150,1,0,1,0.15
+507,sudden_trace_noise0_1000_cp,na,[499],[500],1000,150,1,0,1,0.15
+508,sudden_trace_noise0_1000_IOR,na,[499],[500],1000,150,1,0,1,0.15
+509,sudden_trace_noise0_1000_IRO,na,[499],[500],1000,150,1,0,1,0.15
+510,sudden_trace_noise0_1000_pl,na,[499],[],1000,150,0,0,1,0.15
+511,sudden_trace_noise0_1000_re,na,[499],[500],1000,150,1,0,1,0.15
+512,sudden_trace_noise0_1000_RIO,na,[499],[],1000,150,0,0,1,0.15
+513,sudden_trace_noise0_1000_ROI,na,[499],[490],1000,150,1,0,1,0.15
+514,sudden_trace_noise10_1000_pl,na,[499],[],1000,150,0,0,1,0.15
+515,sudden_trace_noise10_1000_pm,na,[499],[500],1000,150,1,0,1,0.15
+516,sudden_trace_noise10_1000_re,na,[499],[500],1000,150,1,0,1,0.15
+517,sudden_trace_noise10_1000_RIO,na,[499],[],1000,150,0,0,1,0.15
+518,sudden_trace_noise10_1000_ROI,na,[499],[500],1000,150,1,0,1,0.15
+519,sudden_trace_noise10_1000_rp,na,[499],[500],1000,150,1,0,1,0.15
+520,sudden_trace_noise10_1000_sw,na,[499],[500],1000,150,1,0,1,0.15
+521,sudden_trace_noise5_1000_cb,na,[499],[500],1000,150,1,0,1,0.15
+522,sudden_trace_noise5_1000_cd,na,[499],[],1000,150,0,0,1,0.15
+523,sudden_trace_noise5_1000_cf,na,[499],[],1000,150,0,0,1,0.15
+524,sudden_trace_noise5_1000_cp,na,[499],[500],1000,150,1,0,1,0.15
+525,sudden_trace_noise5_1000_IRO,na,[499],[500],1000,150,1,0,1,0.15
+526,sudden_trace_noise5_1000_lp,na,[499],[],1000,150,0,0,1,0.15
+527,sudden_trace_noise0_1000_cb,na,[499],[500],1000,150,1,0,1,0.15
+528,sudden_trace_noise0_1000_cd,na,[499],[],1000,150,0,0,1,0.15
+529,sudden_trace_noise10_1000_cb,na,[499],[500],1000,150,1,0,1,0.15
+530,sudden_trace_noise10_1000_cd,na,[499],[],1000,150,0,0,1,0.15
+531,sudden_trace_noise10_1000_cf,na,[499],[490],1000,150,1,0,1,0.15
+532,sudden_trace_noise10_1000_cp,na,[499],[500],1000,150,1,0,1,0.15
+533,sudden_trace_noise10_1000_IOR,na,[499],[500],1000,150,1,0,1,0.15
+534,sudden_trace_noise10_1000_IRO,na,[499],[500],1000,150,1,0,1,0.15
+535,sudden_trace_noise10_1000_lp,na,[499],[490],1000,150,1,0,1,0.15
+536,sudden_trace_noise10_1000_OIR,na,[499],[500],1000,150,1,0,1,0.15
+537,sudden_trace_noise15_1000_cb,na,[499],[501],1000,150,1,0,1,0.15
+538,sudden_trace_noise15_1000_cd,na,[499],[],1000,150,0,0,1,0.15
+539,sudden_trace_noise15_1000_cf,na,[499],[491],1000,150,1,0,1,0.15
+540,sudden_trace_noise15_1000_cp,na,[499],[500],1000,150,1,0,1,0.15
+541,sudden_trace_noise15_1000_IOR,na,[499],[500],1000,150,1,0,1,0.15
+542,sudden_trace_noise15_1000_IRO,na,[499],[500],1000,150,1,0,1,0.15
+543,sudden_trace_noise15_1000_lp,na,[499],[],1000,150,0,0,1,0.15
+544,sudden_trace_noise15_1000_OIR,na,[499],[500],1000,150,1,0,1,0.15
+545,sudden_trace_noise15_1000_pl,na,[499],[],1000,150,0,0,1,0.15
+546,sudden_trace_noise15_1000_pm,na,[499],[500],1000,150,1,0,1,0.15
+547,sudden_trace_noise15_1000_re,na,[499],[500],1000,150,1,0,1,0.15
+548,sudden_trace_noise15_1000_RIO,na,[499],[490],1000,150,1,0,1,0.15
+549,sudden_trace_noise15_1000_ROI,na,[499],[500],1000,150,1,0,1,0.15
+550,sudden_trace_noise15_1000_rp,na,[499],[500],1000,150,1,0,1,0.15
+551,sudden_trace_noise15_1000_sw,na,[499],[500],1000,150,1,0,1,0.15
+552,sudden_trace_noise20_1000_cb,na,[499],[500],1000,150,1,0,1,0.15
+553,sudden_trace_noise20_1000_cd,na,[499],[],1000,150,0,0,1,0.15
+554,sudden_trace_noise20_1000_cf,na,[499],[490],1000,150,1,0,1,0.15
+555,sudden_trace_noise20_1000_cp,na,[499],[500],1000,150,1,0,1,0.15
+556,sudden_trace_noise20_1000_IOR,na,[499],[500],1000,150,1,0,1,0.15
+557,sudden_trace_noise20_1000_IRO,na,[499],[501],1000,150,1,0,1,0.15
+558,sudden_trace_noise20_1000_lp,na,[499],[500],1000,150,1,0,1,0.15
+559,sudden_trace_noise20_1000_OIR,na,[499],[500],1000,150,1,0,1,0.15
+560,sudden_trace_noise20_1000_pl,na,[499],[],1000,150,0,0,1,0.15
+561,sudden_trace_noise20_1000_pm,na,[499],[500],1000,150,1,0,1,0.15
+562,sudden_trace_noise20_1000_re,na,[499],[500],1000,150,1,0,1,0.15
+563,sudden_trace_noise20_1000_RIO,na,[499],[501],1000,150,1,0,1,0.15
+564,sudden_trace_noise20_1000_ROI,na,[499],[500],1000,150,1,0,1,0.15
+565,sudden_trace_noise20_1000_rp,na,[499],[490],1000,150,1,0,1,0.15
+566,sudden_trace_noise20_1000_sw,na,[499],[500],1000,150,1,0,1,0.15
+567,sudden_trace_noise5_1000_OIR,na,[499],[500],1000,150,1,0,1,0.15
+568,sudden_trace_noise5_1000_pl,na,[499],[],1000,150,0,0,1,0.15
+569,sudden_trace_noise5_1000_pm,na,[499],[500],1000,150,1,0,1,0.15
+570,sudden_trace_noise5_1000_re,na,[499],[501],1000,150,1,0,1,0.15
+571,sudden_trace_noise5_1000_RIO,na,[499],[],1000,150,0,0,1,0.15
+572,sudden_trace_noise5_1000_ROI,na,[499],[490],1000,150,1,0,1,0.15
+573,sudden_trace_noise5_1000_rp,na,[499],[500],1000,150,1,0,1,0.15
+574,sudden_trace_noise5_1000_sw,na,[499],[500],1000,150,1,0,1,0.15
+575,bose_log,na,"[1199, 2399, 3599, 4799]",[],6000,1200,0,0,4,0.2
+576,sudden_trace_noise5_1000_IOR,na,[499],[500],1000,200,1,0,1,0.2
+577,Atomic_ConditionalRemoval_output_ConditionalRemoval_5,na,"[999, 1999]","[959, 1973]",2999,599,2,0,2,0.2
+578,Atomic_ConditionalMove_output_ConditionalMove,na,"[999, 1999]","[930, 1944]",2999,599,2,0,2,0.2
+579,Atomic_ConditionalRemoval_output_ConditionalRemoval_2,na,"[999, 1999]","[928, 1944]",2999,599,2,0,2,0.2
+580,Atomic_ConditionalToSequence_output_ConditionalToSequence_5,na,"[999, 1999]","[1946, 958]",2999,599,2,0,2,0.2
+581,Atomic_ConditionalRemoval_output_ConditionalRemoval,na,"[999, 1999]","[928, 1944]",2999,599,2,0,2,0.2
+582,Atomic_ConditionalToSequence_output_ConditionalToSequence_2,na,"[999, 1999]","[1946, 930]",2999,599,2,0,2,0.2
+583,Atomic_Frequency_output_Frequency_5,na,"[999, 1999]","[899, 1944]",2999,599,2,0,2,0.2
+584,Atomic_ConditionalToSequence_output_ConditionalToSequence,na,"[999, 1999]","[1946, 958]",2999,599,2,0,2,0.2
+585,Atomic_Frequency_output_Frequency_2,na,"[999, 1999]","[1944, 930]",2999,599,2,0,2,0.2
+586,Atomic_Loop_output_Loop_5,na,"[999, 1999]","[929, 1945]",2999,599,2,0,2,0.2
+587,Atomic_Frequency_output_Frequency,na,"[999, 1999]","[1944, 930]",2999,599,2,0,2,0.2
+588,Atomic_Loop_output_Loop_2,na,"[999, 1999]","[929, 1945]",2999,599,2,0,2,0.2
+589,Atomic_ParallelMove_output_ParallelMove_5,na,"[999, 1999]","[928, 1917]",2999,599,2,0,2,0.2
+590,Atomic_Loop_output_Loop,na,"[999, 1999]","[929, 1945]",2999,599,2,0,2,0.2
+591,Atomic_ParallelMove_output_ParallelMove_2,na,"[999, 1999]","[1945, 930]",2999,599,2,0,2,0.2
+592,Atomic_ParallelRemoval_output_ParallelRemoval_5,na,"[999, 1999]","[930, 1944]",2999,599,2,0,2,0.2
+593,Atomic_ParallelMove_output_ParallelMove,na,"[999, 1999]","[928, 1917]",2999,599,2,0,2,0.2
+594,Atomic_ParallelRemoval_output_ParallelRemoval_2,na,"[999, 1999]","[930, 1944]",2999,599,2,0,2,0.2
+595,Atomic_ParallelToSequence_output_ParallelToSequence_5,na,"[999, 1999]","[929, 1946]",2999,599,2,0,2,0.2
+596,Atomic_ParallelRemoval_output_ParallelRemoval,na,"[999, 1999]","[930, 1944]",2999,599,2,0,2,0.2
+597,Atomic_ParallelToSequence_output_ParallelToSequence_2,na,"[999, 1999]","[929, 1916]",2999,599,2,0,2,0.2
+598,Atomic_SerialMove_output_SerialMove_5,na,"[999, 1999]","[1944, 930]",2999,599,2,0,2,0.2
+599,Atomic_ParallelToSequence_output_ParallelToSequence,na,"[999, 1999]","[929, 1916]",2999,599,2,0,2,0.2
+600,Atomic_SerialMove_output_SerialMove_2,na,"[999, 1999]","[930, 1944]",2999,599,2,0,2,0.2
+601,Atomic_SerialRemoval_output_SerialRemoval_5,na,"[999, 1999]","[931, 1943]",2999,599,2,0,2,0.2
+602,Atomic_SerialMove_output_SerialMove,na,"[999, 1999]","[930, 1944]",2999,599,2,0,2,0.2
+603,Atomic_SerialRemoval_output_SerialRemoval_2,na,"[999, 1999]","[931, 1943]",2999,599,2,0,2,0.2
+604,Atomic_Skip_output_Skip_5,na,"[999, 1999]","[958, 1944]",2999,599,2,0,2,0.2
+605,Atomic_SerialRemoval_output_SerialRemoval,na,"[999, 1999]","[931, 1943]",2999,599,2,0,2,0.2
+606,Atomic_Skip_output_Skip_2,na,"[999, 1999]","[1944, 929]",2999,599,2,0,2,0.2
+607,Atomic_Substitute_output_Substitute_5,na,"[999, 1999]","[1944, 930]",2999,599,2,0,2,0.2
+608,Atomic_Skip_output_Skip,na,"[999, 1999]","[929, 1944]",2999,599,2,0,2,0.2
+609,Atomic_Substitute_output_Substitute_2,na,"[999, 1999]","[930, 1944]",2999,599,2,0,2,0.2
+610,Atomic_Swap_output_Swap_5,na,"[999, 1999]","[1947, 929]",2999,599,2,0,2,0.2
+611,Atomic_Substitute_output_Substitute,na,"[999, 1999]","[930, 1944]",2999,599,2,0,2,0.2
+612,Atomic_Swap_output_Swap_2,na,"[999, 1999]","[929, 1947]",2999,599,2,0,2,0.2
+613,Atomic_Swap_output_Swap,na,"[999, 1999]","[929, 1947]",2999,599,2,0,2,0.2
+614,Atomic_ConditionalMove_output_ConditionalMove_2,na,"[999, 1999]","[930, 1944]",2999,599,2,0,2,0.2
+615,Atomic_ConditionalMove_output_ConditionalMove_5,na,"[999, 1999]","[930, 1944]",2999,599,2,0,2,0.2
+616,sudden_trace_noise0_1000_lp,na,[499],[490],1000,200,1,0,1,0.2
+617,sudden_trace_noise0_1000_OIR,na,[499],[500],1000,200,1,0,1,0.2
+618,sudden_trace_noise0_1000_pm,na,[499],[500],1000,200,1,0,1,0.2
+619,sudden_trace_noise0_1000_rp,na,[499],[500],1000,200,1,0,1,0.2
+620,sudden_trace_noise0_1000_sw,na,[499],[500],1000,200,1,0,1,0.2
+621,sudden_trace_noise0_1000_cf,na,[499],[490],1000,200,1,0,1,0.2
+622,sudden_trace_noise0_1000_cp,na,[499],[500],1000,200,1,0,1,0.2
+623,sudden_trace_noise0_1000_IOR,na,[499],[500],1000,200,1,0,1,0.2
+624,sudden_trace_noise0_1000_IRO,na,[499],[500],1000,200,1,0,1,0.2
+625,sudden_trace_noise0_1000_pl,na,[499],[],1000,200,0,0,1,0.2
+626,sudden_trace_noise0_1000_re,na,[499],[500],1000,200,1,0,1,0.2
+627,sudden_trace_noise0_1000_RIO,na,[499],[],1000,200,0,0,1,0.2
+628,sudden_trace_noise0_1000_ROI,na,[499],[490],1000,200,1,0,1,0.2
+629,sudden_trace_noise10_1000_pl,na,[499],[],1000,200,0,0,1,0.2
+630,sudden_trace_noise10_1000_pm,na,[499],[500],1000,200,1,0,1,0.2
+631,sudden_trace_noise10_1000_re,na,[499],[500],1000,200,1,0,1,0.2
+632,sudden_trace_noise10_1000_RIO,na,[499],[],1000,200,0,0,1,0.2
+633,sudden_trace_noise10_1000_ROI,na,[499],[500],1000,200,1,0,1,0.2
+634,sudden_trace_noise10_1000_rp,na,[499],[500],1000,200,1,0,1,0.2
+635,sudden_trace_noise10_1000_sw,na,[499],[500],1000,200,1,0,1,0.2
+636,sudden_trace_noise5_1000_cb,na,[499],[500],1000,200,1,0,1,0.2
+637,sudden_trace_noise5_1000_cd,na,[499],[],1000,200,0,0,1,0.2
+638,sudden_trace_noise5_1000_cf,na,[499],[],1000,200,0,0,1,0.2
+639,sudden_trace_noise5_1000_cp,na,[499],[500],1000,200,1,0,1,0.2
+640,sudden_trace_noise5_1000_IRO,na,[499],[500],1000,200,1,0,1,0.2
+641,sudden_trace_noise5_1000_lp,na,[499],[],1000,200,0,0,1,0.2
+642,sudden_trace_noise0_1000_cb,na,[499],[500],1000,200,1,0,1,0.2
+643,sudden_trace_noise0_1000_cd,na,[499],[],1000,200,0,0,1,0.2
+644,sudden_trace_noise10_1000_cb,na,[499],[500],1000,200,1,0,1,0.2
+645,sudden_trace_noise10_1000_cd,na,[499],[],1000,200,0,0,1,0.2
+646,sudden_trace_noise10_1000_cf,na,[499],[490],1000,200,1,0,1,0.2
+647,sudden_trace_noise10_1000_cp,na,[499],[500],1000,200,1,0,1,0.2
+648,sudden_trace_noise10_1000_IOR,na,[499],[500],1000,200,1,0,1,0.2
+649,sudden_trace_noise10_1000_IRO,na,[499],[500],1000,200,1,0,1,0.2
+650,sudden_trace_noise10_1000_lp,na,[499],[490],1000,200,1,0,1,0.2
+651,sudden_trace_noise10_1000_OIR,na,[499],[500],1000,200,1,0,1,0.2
+652,sudden_trace_noise15_1000_cb,na,[499],[501],1000,200,1,0,1,0.2
+653,sudden_trace_noise15_1000_cd,na,[499],[],1000,200,0,0,1,0.2
+654,sudden_trace_noise15_1000_cf,na,[499],[491],1000,200,1,0,1,0.2
+655,sudden_trace_noise15_1000_cp,na,[499],[500],1000,200,1,0,1,0.2
+656,sudden_trace_noise15_1000_IOR,na,[499],[500],1000,200,1,0,1,0.2
+657,sudden_trace_noise15_1000_IRO,na,[499],[500],1000,200,1,0,1,0.2
+658,sudden_trace_noise15_1000_lp,na,[499],[],1000,200,0,0,1,0.2
+659,sudden_trace_noise15_1000_OIR,na,[499],[500],1000,200,1,0,1,0.2
+660,sudden_trace_noise15_1000_pl,na,[499],[],1000,200,0,0,1,0.2
+661,sudden_trace_noise15_1000_pm,na,[499],[500],1000,200,1,0,1,0.2
+662,sudden_trace_noise15_1000_re,na,[499],[500],1000,200,1,0,1,0.2
+663,sudden_trace_noise15_1000_RIO,na,[499],[490],1000,200,1,0,1,0.2
+664,sudden_trace_noise15_1000_ROI,na,[499],[500],1000,200,1,0,1,0.2
+665,sudden_trace_noise15_1000_rp,na,[499],[500],1000,200,1,0,1,0.2
+666,sudden_trace_noise15_1000_sw,na,[499],[500],1000,200,1,0,1,0.2
+667,sudden_trace_noise20_1000_cb,na,[499],[500],1000,200,1,0,1,0.2
+668,sudden_trace_noise20_1000_cd,na,[499],[],1000,200,0,0,1,0.2
+669,sudden_trace_noise20_1000_cf,na,[499],[490],1000,200,1,0,1,0.2
+670,sudden_trace_noise20_1000_cp,na,[499],[500],1000,200,1,0,1,0.2
+671,sudden_trace_noise20_1000_IOR,na,[499],[500],1000,200,1,0,1,0.2
+672,sudden_trace_noise20_1000_IRO,na,[499],[501],1000,200,1,0,1,0.2
+673,sudden_trace_noise20_1000_lp,na,[499],[500],1000,200,1,0,1,0.2
+674,sudden_trace_noise20_1000_OIR,na,[499],[500],1000,200,1,0,1,0.2
+675,sudden_trace_noise20_1000_pl,na,[499],[],1000,200,0,0,1,0.2
+676,sudden_trace_noise20_1000_pm,na,[499],[500],1000,200,1,0,1,0.2
+677,sudden_trace_noise20_1000_re,na,[499],[500],1000,200,1,0,1,0.2
+678,sudden_trace_noise20_1000_RIO,na,[499],[501],1000,200,1,0,1,0.2
+679,sudden_trace_noise20_1000_ROI,na,[499],[500],1000,200,1,0,1,0.2
+680,sudden_trace_noise20_1000_rp,na,[499],[490],1000,200,1,0,1,0.2
+681,sudden_trace_noise20_1000_sw,na,[499],[500],1000,200,1,0,1,0.2
+682,sudden_trace_noise5_1000_OIR,na,[499],[500],1000,200,1,0,1,0.2
+683,sudden_trace_noise5_1000_pl,na,[499],[],1000,200,0,0,1,0.2
+684,sudden_trace_noise5_1000_pm,na,[499],[500],1000,200,1,0,1,0.2
+685,sudden_trace_noise5_1000_re,na,[499],[501],1000,200,1,0,1,0.2
+686,sudden_trace_noise5_1000_RIO,na,[499],[],1000,200,0,0,1,0.2
+687,sudden_trace_noise5_1000_ROI,na,[499],[490],1000,200,1,0,1,0.2
+688,sudden_trace_noise5_1000_rp,na,[499],[500],1000,200,1,0,1,0.2
+689,sudden_trace_noise5_1000_sw,na,[499],[500],1000,200,1,0,1,0.2
