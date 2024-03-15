@@ -46,6 +46,9 @@ Always start a poetry shell, if you use the terminal:
 
 The script outputs not only the visual detection of the drift types, but also a detailed report that specifies the drift moments on traces.
 
+The configuration file can be found [here](approaches/object_detection/utils/config.py). 
+All configuration variables are explained in detail [here](approaches/config_doc.md). 
+
 ### Evaluation
 Results from the evaluation can be found [here](EvaluationResults/).
 
